@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="id-ID" class="no-js">
+
+<head>
+    <!-- Mobile Specific Meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Favicon-->
+    <link rel="shortcut icon" href="{{ asset('image/fav.ico') }}">
+    <!-- Author Meta -->
+    <meta name="author" content="colorlib">
+    <!-- Meta Description -->
+    <meta name="description" content="">
+    <!-- Meta Keyword -->
+    <meta name="keywords" content="">
+    <!-- meta character set -->
+    <meta charset="UTF-8">
+    <!-- Site Title -->
+    <title>Prodi TI</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
+    <!--
+        CSS
+        ============================================= -->
+    <link rel="stylesheet" href="{{ asset('css/linearicons.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/font-awesome.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/bootstrap.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/magnific-popup.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/nice-select.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/animate.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/owl.carousel.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/jquery-ui.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/main.css') }}">
+</head>
+
+
+<body>
+    <header>
+        <header id="header" id="home">
+            <div class="header-top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6 col-sm-6 col-8 header-top-left no-padding">
+                            <ul>
+                                <li><a href="https://www.facebook.com/Prodi-Teknik-Informatika-PNL-1943090052679642/"><i
+                                            class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://github.com/prodi-ti/"><i class="fa fa-github"></i></a></li>
+                                <li><a href="https://www.instagram.com/prodi.ti/"><i class="fa fa-instagram"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-6 col-sm-6 col-4 header-top-right no-padding">
+                            <a href="tel:+62 645 42670"><span class="lnr lnr-phone-handset"></span> <span
+                                    class="text">+62 645 42670</span></a>
+                            <a href="mailto:proditi@pnl.ac.id"><span class="lnr lnr-envelope"></span> <span
+                                    class="text">proditi@pnl.ac.id</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container main-menu">
+                <div class="row align-items-center justify-content-between d-flex">
+                    <div id="logo">
+                        <a href="index.html"><img src="{{ asset('image/prodi/logo_ti.png') }}" alt=""
+                                title="" /></a>
+                    </div>
+                    <nav id="nav-menu-container">
+                        <ul class="nav-menu">
+                            <li><a href="index.html">HOME</a></li>
+                            <li><a href="about.html">TENTANG</a></li>
+                            <li class="menu-has-children"><a href="">PROGRAM STUDI</a>
+                                <ul>
+                                    <li><a href="blog-home.html">Data Dosen</a></li>
+                                    <li><a href="blog-single.html">Fasilitas</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="contact.html">PENGUMUMAN</a></li>
+                            <li><a href="contact.html">KURIKULUM</a></li>
+                        </ul>
+                    </nav><!-- #nav-menu-container -->
+                </div>
+            </div>
+        </header><!-- #header -->
+    </header>
+
+    <main>
+        @yield('content') <!-- Ini adalah area konten unik untuk setiap halaman -->
+    </main>
+
+    <!-- start footer Area -->
+    <footer class="footer-area section-gap">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-2 col-md-6 col-sm-6">
+                    <div class="single-footer-widget">
+                        <h4>Links</h4>
+                        <ul>
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">Tentang</a></li>
+                            <li><a href="#">Pengumuman</a></li>
+                            <li><a href="#">Blog</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-6 col-sm-6">
+                    <div class="single-footer-widget">
+                        <h4>Program Studi</h4>
+                        <ul>
+                            <li><a href="#">Data Dosen</a></li>
+                            <li><a href="#">Fasilitas</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-6 col-sm-6">
+                    <div class="single-footer-widget">
+                        <h4>Kurikulum</h4>
+                        <ul>
+                            <li><a href="#">SOP dan Panduan</a></li>
+                            <li><a href="#">Jadwal Pembelajaran</a></li>
+                            <li><a href="#">Mata Kuliah</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2"></div>
+                <div class="col-lg-4  col-md-6 col-sm-6">
+                    <div class="single-footer-widget">
+                        <h4>Newsletter</h4>
+                        <p>Stay update with our latest</p>
+                        <div class="" id="mc_embed_signup">
+                            <form target="_blank"
+                                action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
+                                method="get">
+                                <div class="input-group">
+                                    <input type="text" class="form-control" name="EMAIL"
+                                        placeholder="Enter Email Address" onfocus="this.placeholder = ''"
+                                        onblur="this.placeholder = 'Enter Email Address '" required=""
+                                        type="email">
+                                    <div class="input-group-btn">
+                                        <button class="btn btn-default" type="submit">
+                                            <span class="lnr lnr-arrow-right"></span>
+                                        </button>
+                                    </div>
+                                    <div class="info"></div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom row align-items-center justify-content-between">
+                <p class="footer-text m-0 col-lg-6 col-md-12">
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    Copyright &copy;
+                    <script>
+                        document.write(new Date().getFullYear());
+                    </script> Teknik Informatika - Politeknik Negeri Lhokseumawe
+                </p>
+                <div class="col-lg-6 col-sm-12 footer-social">
+                    <a href="https://www.facebook.com/Prodi-Teknik-Informatika-PNL-1943090052679642/"><i
+                            class="fa fa-facebook"></i></a>
+                    <a href="https://github.com/prodi-ti/"><i class="fa fa-github"></i></a>
+                    <a href="https://www.instagram.com/prodi.ti/"><i class="fa fa-instagram"></i></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- End footer Area -->
+
+
+    <script src="{{ asset('js/vendor/jquery-2.2.4.min.js') }}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous">
+    </script>
+    <script src="{{ asset('js/vendor/bootstrap.min.js') }}"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
+    <script src="{{ asset('js/easing.min.js') }}"></script>
+    <script src="{{ asset('js/hoverIntent.js') }}"></script>
+    <script src="{{ asset('js/superfish.min.js') }}"></script>
+    <script src="{{ asset('js/jquery.ajaxchimp.min.js') }}"></script>
+    <script src="{{ asset('js/jquery.magnific-popup.min.js') }}"></script>
+    <script src="{{ asset('js/jquery.tabs.min.js') }}"></script>
+    <script src="{{ asset('js/jquery.nice-select.min.js') }}"></script>
+    <script src="{{ asset('js/owl.carousel.min.js') }}"></script>
+    <script src="{{ asset('js/mail-script.js') }}"></script>
+    <script src="{{ asset('js/main.js') }}"></script>
+</body>
+
+</html>
