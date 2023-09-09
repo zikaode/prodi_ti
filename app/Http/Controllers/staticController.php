@@ -35,8 +35,18 @@ class staticController extends Controller
         return view('kuesionerMahasiswa');
     }
   
+    public function kuesionerAlumni()
+    {
+        return view('kuesionerAlumni');
+    }
+    
     public function dataDosen()
     {
         return view('dataDosen');
+    }
+
+    public function laboratorium()
+    {
+        return view('laboratorium');
     }
 }
