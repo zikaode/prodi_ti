@@ -21,15 +21,15 @@
     <!--
         CSS
         ============================================= -->
-    <link rel="stylesheet" href="{{ asset('css/linearicons.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/font-awesome.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/bootstrap.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/magnific-popup.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/nice-select.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/animate.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/owl.carousel.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/jquery-ui.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/main.css') }}">
+    <link rel="stylesheet" href="{{ url()->current() . '/css/linearicons.css' }}">
+    <link rel="stylesheet" href="{{ url()->current() . '/css/font-awesome.min.css' }}">
+    <link rel="stylesheet" href="{{ url()->current() . '/css/bootstrap.css' }}">
+    <link rel="stylesheet" href="{{ url()->current() . '/css/magnific-popup.css' }}">
+    <link rel="stylesheet" href="{{ url()->current() . '/css/nice-select.css' }}">
+    <link rel="stylesheet" href="{{ url()->current() . '/css/animate.min.css' }}">
+    <link rel="stylesheet" href="{{ url()->current() . '/css/owl.carousel.css' }}">
+    <link rel="stylesheet" href="{{ url()->current() . '/css/jquery-ui.css' }}">
+    <link rel="stylesheet" href="{{ url()->current() . '/css/main.css' }}">
 </head>
 
 
@@ -166,22 +166,22 @@
     <!-- End footer Area -->
 
 
-    <script src="{{ asset('js/vendor/jquery-2.2.4.min.js') }}"></script>
+    <script src="{{ url()->current() . '/js/vendor/jquery-2.2.4.min.js' }}"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
         integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous">
     </script>
-    <script src="{{ asset('js/vendor/bootstrap.min.js') }}"></script>
+    <script src="{{ url()->current() . '/js/vendor/bootstrap.min.js' }}"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
-    <script src="{{ asset('js/easing.min.js') }}"></script>
-    <script src="{{ asset('js/hoverIntent.js') }}"></script>
-    <script src="{{ asset('js/superfish.min.js') }}"></script>
-    <script src="{{ asset('js/jquery.ajaxchimp.min.js') }}"></script>
-    <script src="{{ asset('js/jquery.magnific-popup.min.js') }}"></script>
-    <script src="{{ asset('js/jquery.tabs.min.js') }}"></script>
-    <script src="{{ asset('js/jquery.nice-select.min.js') }}"></script>
-    <script src="{{ asset('js/owl.carousel.min.js') }}"></script>
-    <script src="{{ asset('js/mail-script.js') }}"></script>
-    <script src="{{ asset('js/main.js') }}"></script>
+    <script src="{{ url()->current() . '/js/easing.min.js' }}"></script>
+    <script src="{{ url()->current() . '/js/hoverIntent.js' }}"></script>
+    <script src="{{ url()->current() . '/js/superfish.min.js' }}"></script>
+    <script src="{{ url()->current() . '/js/jquery.ajaxchimp.min.js' }}"></script>
+    <script src="{{ url()->current() . '/js/jquery.magnific-popup.min.js' }}"></script>
+    <script src="{{ url()->current() . '/js/jquery.tabs.min.js' }}"></script>
+    <script src="{{ url()->current() . '/js/jquery.nice-select.min.js' }}"></script>
+    <script src="{{ url()->current() . '/js/owl.carousel.min.js' }}"></script>
+    <script src="{{ url()->current() . '/js/mail-script.js' }}"></script>
+    <script src="{{ url()->current() . '/js/main.js' }}"></script>
 </body>
 
 </html>
