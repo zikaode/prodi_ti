@@ -30,7 +30,7 @@
         "APP_NAME": "Teknik Informatika - PNL",
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://php-laravel.vercel.app",
+        "APP_URL": "https://prodi-ti.vercel.app",
         "VERCEL_DEMO_MODE": "true",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
