@@ -11,11 +11,19 @@
     ],
     "routes": [{
             "src": "/(css|js|image|fonts)/(.*)",
-            "dest": "public/$1/$2/$3"
+            "dest": "public/$1/$2"
         },
         {
             "src": "/(.*)",
             "dest": "/api/index.php"
+        },
+        {
+            "src": "/image/(blog|elements|gallery|prodi)/(.*)",
+            "dest": "public/$1/$2/$3"
+        },
+        {
+            "src": "/(css|js)/(bootstrap|vendor)/(.*)",
+            "dest": "public/$1/$2/$3"
         }
     ],
     "env": {
