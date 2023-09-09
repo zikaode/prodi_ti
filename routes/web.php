@@ -17,4 +17,5 @@ use App\Http\Controllers\staticController;
 Route::controller(staticController::class)->group(function () {
     Route::get('/', 'index')->name('static.index');
     Route::get('/tentang', 'profil')->name('static.profil');
+    Route::get('/data-mahasiswa', 'dataMahasiswa')->name('static.dataMahasiswa');
 });
