@@ -24,4 +24,9 @@ class staticController extends Controller
     {
         return view('dataMahasiswa');
     }
+
+    public function dataDosen()
+    {
+        return view('dataDosen');
+    }
 }
