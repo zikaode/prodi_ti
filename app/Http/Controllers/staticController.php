@@ -19,4 +19,8 @@ class staticController extends Controller
     {
         return view('profil');
     }
+    public function pengumuman()
+    {
+        return view('pengumuman');
+    }
 }
