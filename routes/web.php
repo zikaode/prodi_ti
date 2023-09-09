@@ -15,5 +15,6 @@ use App\Http\Controllers\staticController;
 */
 
 Route::controller(staticController::class)->group(function () {
-    Route::get('/', 'index');
+    Route::get('/', 'index')->name('static.index');
+    Route::get('/profil', 'profil')->name('static.profil');
 });

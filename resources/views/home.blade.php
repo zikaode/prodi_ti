@@ -7,15 +7,22 @@
         <div class="container">
             <div class="row fullscreen d-flex align-items-center justify-content-between">
                 <div class="banner-content col-lg-9 col-md-12">
+                    <h4 class="text-uppercase text-white">
+                        Program Studi
+                    </h4>
                     <h1 class="text-uppercase">
-                        We Ensure better education
-                        for a better world
+                        Teknik Informatika
                     </h1>
-                    <p class="pt-10 pb-10">
-                        In the history of modern astronomy, there is probably no one greater leap forward than the
-                        building and launch of the space telescope known as the Hubble.
+                    <h3 class="pt-5 text-uppercase text-white">
+                        Kami Memastikan pendidikan yang lebih baik
+                        untuk dunia yang lebih baik
+                    </h3>
+                    <p class="pt-10 pb-10 text-white">
+                        Program Studi Teknik Informatika terakreditasi peringkat B berdasarkan keputusan Badan Akreditasi
+                        Nasional Perguruan Tinggi Departemen Pendidikan Nasional Republik Indonesia Nomor :
+                        3565/SK/BAN-PT/AKRED/DIPL-IV/XII/2018 Tanggal 28 Desember 2018.
                     </p>
-                    <a href="#" class="primary-btn text-uppercase">Get Started</a>
+                    <a href="/about.html" class="primary-btn text-uppercase">Tentang Kami</a>
                 </div>
             </div>
         </div>
@@ -29,42 +36,40 @@
                 <div class="col-lg-4">
                     <div class="single-feature">
                         <div class="title">
-                            <h4>Learn Online Courses</h4>
+                            <h4>Fasilitas</h4>
                         </div>
                         <div class="desc-wrap">
                             <p>
-                                Usage of the Internet is becoming more common due to rapid advancement
-                                of technology.
+                                Fasilitas yang modern untuk bagi mahasiswa,
+                                tenaga pengajar, dan tenaga pendidikan.
                             </p>
-                            <a href="#">Join Now</a>
+                            <a href="/fasilitas">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="single-feature">
                         <div class="title">
-                            <h4>No.1 of universities</h4>
+                            <h4>Kemahasiswaan</h4>
                         </div>
                         <div class="desc-wrap">
                             <p>
-                                For many of us, our very first experience of learning about the celestial bodies begins
-                                when we saw our first.
+                                Pelayanan dan informasi tentang administrasi, serta informasi lainya berkaitan dengan kemahasiswaan.
                             </p>
-                            <a href="#">Join Now</a>
+                            <a href="/kemahasiswaan">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="single-feature">
                         <div class="title">
-                            <h4>Huge Library</h4>
+                            <h4>Profil Program Studi</h4>
                         </div>
                         <div class="desc-wrap">
                             <p>
-                                If you are a serious astronomy fanatic like a lot of us are, you can probably remember
-                                that one event.
+                                Temukan informasi lengkap tentang prodi Teknik Informatika, profile prodi, serta visi dan misinya.
                             </p>
-                            <a href="#">Join Now</a>
+                            <a href="/tentang">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
