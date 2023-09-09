@@ -60,17 +60,27 @@
             <div class="container main-menu">
                 <div class="row align-items-center justify-content-between d-flex">
                     <div id="logo">
-                        <a href="index.html"><img src="{{ env('APP_URL') . '/image/prodi/logo_ti.png' }}"
-                                alt="" title="" /></a>
+                        <a href="{{ route('static.index') }}"><img
+                                src="{{ env('APP_URL') . '/image/prodi/logo_ti.png' }}" alt=""
+                                title="" /></a>
                     </div>
                     <nav id="nav-menu-container">
                         <ul class="nav-menu">
                             <li><a href="{{ route('static.index') }}">HOME</a></li>
-                            <li><a href="{{ route('static.profil') }}">PROFIL</a></li>
+                            <li><a href="{{ route('static.profil') }}">TENTANG</a></li>
                             <li class="menu-has-children"><a href="">PROGRAM STUDI</a>
                                 <ul>
-                                    <li><a href="blog-home.html">Data Dosen</a></li>
-                                    <li><a href="blog-single.html">Fasilitas</a></li>
+                                    <li><a href="{{ route('static.dataDosen') }}">Data Dosen</a></li>
+                                    <li><a href="{{ route('static.dataMahasiswa') }}">Data Mahasiswa</a></li>
+                                    <li><a href="{{ route('static.strukturPimpinan') }}">Struktur Pimpinan</a></li>
+                                    <li class="menu-has-children"><a href="">Fasilitas </a>
+                                        <ul>
+                                            <li><a href="{{ route('static.laboratorium') }}">laboratorium</a></li>
+                                            <li><a href="#">Item Two</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="{{ route('static.kuesionerMahasiswa') }}">Kuesioner Mahasiswa</a></li>
+                                    <li><a href="{{ route('static.kuesionerAlumni') }}">Kuesioner Alumni</a></li>
                                 </ul>
                             </li>
                             <li><a href="contact.html">PENGUMUMAN</a></li>
