@@ -71,8 +71,10 @@
                             <li class="menu-has-children"><a href="">PROGRAM STUDI</a>
                                 <ul>
                                     <li><a href="{{route('static.dataDosen')}}">Data Dosen</a></li>
-                                    <li><a href="{{route('static.dataMahasiswa')}}">Data Mahasiswa</a></li>
+                                    <li><a href="{{ route('static.dataMahasiswa') }}">Data Mahasiswa</a></li>
+                                    <li><a href="{{ route('static.strukturPimpinan') }}">Struktur Pimpinan</a></li>
                                     <li><a href="blog-single.html">Fasilitas</a></li>
+                                    <li><a href="{{ route('static.kuesionerMahasiswa') }}">Kuesioner Mahasiswa</a></li>
                                 </ul>
                             </li>
                             <li><a href="contact.html">PENGUMUMAN</a></li>
