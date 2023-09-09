@@ -1,43 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pengumuman Mahasisiwa Prodi Teknik Informatika</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f5f5f5;
-        }
-        
-        .announcement {
-            background-color: #ffffff;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
+<!-- <!DOCTYPE html>
 
-        .announcement h1 {
-            font-size: 24px;
-            color: #333;
-        }
-
-        .announcement p {
-            font-size: 16px;
-            line-height: 1.5;
-            color: #555;
-        }
-
-        .announcement ul {
-            list-style-type: disc;
-            margin-left: 20px;
-        }
-
-        .announcement a {
-            color: #0078e7;
-            text-decoration: none;
         }
 
         .announcement a:hover {
@@ -49,7 +11,7 @@
     <div class="announcement">
         <h1>Pengumuman Terbaru</h1>
         <p>Kami dengan senang hati mengumumkan berita terbaru dari [Nama Situs/Web]. Berikut adalah beberapa informasi penting:</p>
-        
+
         <ul>
             <li><strong>Program Studi Baru:</strong> Kami telah meluncurkan Program Studi baru di bidang [Bidang Studi]. Program ini akan menerima pendaftaran mahasiswa baru mulai [Tanggal Penerimaan].</li>
             <li><strong>Beasiswa:</strong> Kami menyediakan berbagai jenis beasiswa untuk mendukung mahasiswa dalam mengejar pendidikan mereka. Informasi lebih lanjut tentang beasiswa dapat ditemukan <a href="[Link Beasiswa]">di sini</a>.</li>
@@ -59,4 +21,50 @@
         <p>Jika Anda memiliki pertanyaan atau membutuhkan informasi lebih lanjut, jangan ragu untuk menghubungi kami melalui email di <a href="mailto:[Alamat Email]">[Alamat Email]</a>.</p>
     </div>
 </body>
-</html>
+</html> -->
+@extends('layouts.app')
+
+@section('content')
+    <!-- start banner Area -->
+    <section class="banner-area relative" id="home">
+        <div class="overlay overlay-bg"></div>
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="about-content col-lg-12">
+                    <h1 class="text-white text-uppercase">
+                        Pengumuman
+                    </h1>
+                    <p class="text-white link-nav text-center"> Program Studi <span class="lnr lnr-arrow-right"></span><a
+                            href="{{ route('static.pengumuman') }}"></p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End banner Area -->
+
+    <!-- Start post-content Area -->
+    <section class="post-content-area single-post-area">
+        <div class="container">
+            <div class="row d-flex justify-content-center align-items-center">
+                <div class="col-lg-8 posts-list">
+                    <div class="single-post row ">
+                        <div class="col ">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <h1>Pengumuman Terbaru</h1>
+                                    <p></p>
+                                    <p></a>.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <!-- End post-content Area -->
+@endsection
