@@ -43,6 +43,7 @@
         "VIEW_COMPILED_PATH": "/tmp/views",
         "SSR_TEMP_PATH": "/tmp/ssr",
         "NODE_PATH": "node",
+        "ASSET_URL": "https://prodi-ti.vercel.app",
 
         "APP_KEY": "base64:t+QoByPxTgYU0NjN//PjTmV9LtmP4c5nmw4wa38vrhw=",
         "DB_CONNECTION": "sqlite"
