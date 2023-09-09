@@ -71,6 +71,7 @@
                                 <ul>
                                     <li><a href="blog-home.html">Data Dosen</a></li>
                                     <li><a href="blog-single.html">Fasilitas</a></li>
+                                    <li><a href="{{route('static.dataMahasiswa')}}">Data Mahasiswa</a></li>
                                 </ul>
                             </li>
                             <li><a href="contact.html">PENGUMUMAN</a></li>
