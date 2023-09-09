@@ -10,7 +10,7 @@
         }
     ],
     "routes": [{
-            "src": "/(css|js)/(.*)",
+            "src": "/(css|js|public)/(.*)",
             "dest": "public/$1/$2"
         },
         {
