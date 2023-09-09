@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\commonController;
+use App\Http\Controllers\staticController;
 
 /*
 |--------------------------------------------------------------------------
@@ -14,4 +14,6 @@ use App\Http\Controllers\commonController;
 |
 */
 
-Route::resource('/', commonController::class)->only(['index']);
+Route::controller(staticController::class)->group(function () {
+    Route::get('/', 'index');
+});
