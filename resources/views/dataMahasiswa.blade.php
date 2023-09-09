@@ -53,9 +53,11 @@
                                 </ul>
                             </div>
                         </div> --}}
-                        <div class="col-lg-12 col-md-12 my-2 text-center">
-                            <h3 class="mt-20 mb-20">Data Mahasiswa</h3>
-                            <h3 class="mt-20 mb-20">Program Studi Teknik Informatika</h3>
+                        <div class="col-lg-12 col-md-12">
+                            <h3 class="mt-20 mb-20">DATA MAHASISWA</h3>
+                        </div>
+                        <div class="col-lg-12 col-md-12 my-2">
+                            <p> Data Mahasiswa Program Studi Teknik Informatika</p>
                         </div>
                         <div class="row">
                             <div class="col-lg-4">
@@ -116,7 +118,7 @@
                             <div class="col-lg-4">
                                 <div class="card" style="width: 15rem;">
                                     <a href="https://drive.google.com/open?id=1Ud9DpufImnWFVVKvP7F_CWbDDX7DYsxr">
-                                    <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
+                                        <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
                                         <div class="card-body text-center">
                                             <h5 class="card-title">Data Mahasiswa</h5>
                                             <p class="card-text">Angkatan 2017-2018</p>
@@ -126,8 +128,9 @@
                             </div>
                             <div class="col-lg-4">
                                 <div class="card" style="width: 15rem;">
-                                    <a href="https://docs.google.com/spreadsheets/d/12-ZUVWEZz51y4pMs-YdZ6HHmXtl-4Wmt-iQkWsDV2SA/edit?usp=sharing">
-                                    <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
+                                    <a
+                                        href="https://docs.google.com/spreadsheets/d/12-ZUVWEZz51y4pMs-YdZ6HHmXtl-4Wmt-iQkWsDV2SA/edit?usp=sharing">
+                                        <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
                                         <div class="card-body text-center">
                                             <h5 class="card-title">Data Mahasiswa</h5>
                                             <p class="card-text">Angkatan 2016-2017</p>
@@ -137,8 +140,9 @@
                             </div>
                             <div class="col-lg-4">
                                 <div class="card" style="width: 15rem;">
-                                    <a href="https://docs.google.com/spreadsheets/d/1lUBRn0KLb7bARMfrnuQaJ9K-cj_39gEZNixE09Yxio8/edit?usp=sharing">
-                                    <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
+                                    <a
+                                        href="https://docs.google.com/spreadsheets/d/1lUBRn0KLb7bARMfrnuQaJ9K-cj_39gEZNixE09Yxio8/edit?usp=sharing">
+                                        <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
                                         <div class="card-body text-center">
                                             <h5 class="card-title">Data Mahasiswa</h5>
                                             <p class="card-text">Angkatan 2015-2016</p>
@@ -148,8 +152,9 @@
                             </div>
                             <div class="col-lg-4">
                                 <div class="card" style="width: 15rem;">
-                                    <a href="https://docs.google.com/spreadsheets/d/1AZD8x0A5k_Zk3l3SGCyd6OzLv-BPQVN20thEoZUSFPw/edit?usp=sharing">
-                                    <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
+                                    <a
+                                        href="https://docs.google.com/spreadsheets/d/1AZD8x0A5k_Zk3l3SGCyd6OzLv-BPQVN20thEoZUSFPw/edit?usp=sharing">
+                                        <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
                                         <div class="card-body text-center">
                                             <h5 class="card-title">Data Mahasiswa</h5>
                                             <p class="card-text">Angkatan 2014-2015</p>

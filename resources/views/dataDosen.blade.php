@@ -10,8 +10,8 @@
                     <h1 class="text-white text-uppercase">
                         Data Dosen
                     </h1>
-                    <p class="text-white link-nav"> Program Studi <span
-                            class="lnr lnr-arrow-right"></span><a href="{{ route('static.dataDosen') }}">Data Dosen</a></p>
+                    <p class="text-white link-nav"> Program Studi <span class="lnr lnr-arrow-right"></span><a
+                            href="{{ route('static.dataDosen') }}">Data Dosen</a></p>
                 </div>
             </div>
         </div>
@@ -53,165 +53,207 @@
                                 </ul>
                             </div>
                         </div> --}}
-                        <div class="col-lg-12 col-md-12 my-2 text-center">
-                            <h3 class="mt-20 mb-20">Data Dosen</h3>
-                            <h3 class="mt-20 mb-20">Program Studi Teknik Informatika</h3>
+                        <div class="col-lg-12 col-md-12">
+                            <h3 class="mt-20 mb-20">DATA DOSEN</h3>
+                        </div>
+                        <div class="col-lg-12 col-md-12 my-2">
+                            <p> Data Dosen Program Studi Teknik Informatika</p>
                         </div>
                         <div class="row">
                             <div class="col-lg-4 mb-4">
                                 <div class="card" style="width: 15rem;">
-                                    <img src="{{ asset('image/prodi/salahuddin.jpg') }}" class="card-img-top" alt="...">
-                                        <div class="card-body text-center">
-                                            <h5 class="card-text text-black font-bold mb-2 font-italic" style="text-decoration: underline;">Ketua Jurusan</h5>
-                                            <a href="http://ti.pnl.ac.id/file/cv/a17442dab206da4b9aabf34158f65df3.pdf" class="card-text font-weight-bold text-secondary">Detail CV</a>
-                                        </div>
+                                    <img src="{{ asset('image/prodi/salahuddin.jpg') }}" class="card-img-top"
+                                        alt="...">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-text text-black font-bold mb-2 font-italic"
+                                            style="text-decoration: underline;">Ketua Jurusan</h5>
+                                        <a href="http://ti.pnl.ac.id/file/cv/a17442dab206da4b9aabf34158f65df3.pdf"
+                                            class="card-text font-weight-bold text-secondary">Detail CV</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card" style="width: 15rem;">
-                                    <img src="{{ asset('image/prodi/salahuddin.jpg') }}" class="card-img-top" alt="...">
-                                        <div class="card-body text-center">
-                                            <h5 class="card-text text-black font-bold mb-2 font-italic" style="text-decoration: underline;">Ketua Program Studi</h5>
-                                            <a href="http://ti.pnl.ac.id/file/cv/ec1c1391a4214b00824e225e35fb337c.pdf" class="card-text font-weight-bold text-secondary">Detail CV</a>
-                                        </div>
+                                    <img src="{{ asset('image/prodi/salahuddin.jpg') }}" class="card-img-top"
+                                        alt="...">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-text text-black font-bold mb-2 font-italic"
+                                            style="text-decoration: underline;">Ketua Program Studi</h5>
+                                        <a href="http://ti.pnl.ac.id/file/cv/ec1c1391a4214b00824e225e35fb337c.pdf"
+                                            class="card-text font-weight-bold text-secondary">Detail CV</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/zulfan.jpg') }}" class="card-img-top" alt="...">
-                                        <div class="card-body text-center">
-                                            <h5 class="card-text text-black font-bold mb-2 font-italic" style="text-decoration: underline;">Staff Pengajar</h5>
-                                            <a href="http://ti.pnl.ac.id/file/cv/918233791be00ce59c28a7498cad3362.pdf" class="card-text font-weight-bold text-secondary">Detail CV</a>
-                                        </div>
+                                    <div class="card-body text-center">
+                                        <h5 class="card-text text-black font-bold mb-2 font-italic"
+                                            style="text-decoration: underline;">Staff Pengajar</h5>
+                                        <a href="http://ti.pnl.ac.id/file/cv/918233791be00ce59c28a7498cad3362.pdf"
+                                            class="card-text font-weight-bold text-secondary">Detail CV</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/sila.jpg') }}" class="card-img-top" alt="...">
-                                        <div class="card-body text-center">
-                                            <h5 class="card-text text-black font-bold mb-2 font-italic" style="text-decoration: underline;">Staff Pengajar</h5>
-                                            <a href="http://ti.pnl.ac.id/file/cv/e4b90d25f5047f6b03110d2252662485.pdf" class="card-text font-weight-bold text-secondary">Detail CV</a>
-                                        </div>
+                                    <div class="card-body text-center">
+                                        <h5 class="card-text text-black font-bold mb-2 font-italic"
+                                            style="text-decoration: underline;">Staff Pengajar</h5>
+                                        <a href="http://ti.pnl.ac.id/file/cv/e4b90d25f5047f6b03110d2252662485.pdf"
+                                            class="card-text font-weight-bold text-secondary">Detail CV</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/rizka.jpg') }}" class="card-img-top" alt="...">
-                                        <div class="card-body text-center">
-                                            <h5 class="card-text text-black font-bold mb-2 font-italic" style="text-decoration: underline;">Staff Pengajar</h5>
-                                            <a href="http://ti.pnl.ac.id/file/cv/eee2fe7ab6ec58fae6944940a4ba38af.docx" class="card-text font-weight-bold text-secondary">Detail CV</a>
-                                        </div>
+                                    <div class="card-body text-center">
+                                        <h5 class="card-text text-black font-bold mb-2 font-italic"
+                                            style="text-decoration: underline;">Staff Pengajar</h5>
+                                        <a href="http://ti.pnl.ac.id/file/cv/eee2fe7ab6ec58fae6944940a4ba38af.docx"
+                                            class="card-text font-weight-bold text-secondary">Detail CV</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/husaini.jpg') }}" class="card-img-top" alt="...">
-                                        <div class="card-body text-center">
-                                            <h5 class="card-text text-black font-bold mb-2 font-italic" style="text-decoration: underline;">Staff Pengajar</h5>
-                                            <a href="http://ti.pnl.ac.id/file/cv/9bf9a85c00b6e6529b378916ac8e4444.docx" class="card-text font-weight-bold text-secondary">Detail CV</a>
-                                        </div>
+                                    <div class="card-body text-center">
+                                        <h5 class="card-text text-black font-bold mb-2 font-italic"
+                                            style="text-decoration: underline;">Staff Pengajar</h5>
+                                        <a href="http://ti.pnl.ac.id/file/cv/9bf9a85c00b6e6529b378916ac8e4444.docx"
+                                            class="card-text font-weight-bold text-secondary">Detail CV</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/mulyadi.jpg') }}" class="card-img-top" alt="...">
-                                        <div class="card-body text-center">
-                                            <h5 class="card-text text-black font-bold mb-2 font-italic" style="text-decoration: underline;">Staff Pengajar</h5>
-                                            <a href="http://ti.pnl.ac.id/file/cv/9476592064ff587cee5715ad63d321ec.docx" class="card-text font-weight-bold text-secondary">Detail CV</a>
-                                        </div>
+                                    <div class="card-body text-center">
+                                        <h5 class="card-text text-black font-bold mb-2 font-italic"
+                                            style="text-decoration: underline;">Staff Pengajar</h5>
+                                        <a href="http://ti.pnl.ac.id/file/cv/9476592064ff587cee5715ad63d321ec.docx"
+                                            class="card-text font-weight-bold text-secondary">Detail CV</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card" style="width: 15rem;">
-                                    <img src="{{ asset('image/prodi/hendrawaty.jpg') }}" class="card-img-top" alt="...">
-                                        <div class="card-body text-center">
-                                            <h5 class="card-text text-black font-bold mb-2 font-italic" style="text-decoration: underline;">Staff Pengajar</h5>
-                                            <a href="http://ti.pnl.ac.id/file/cv/54665e00183e34aaa967cb27bd5ab36b.docx" class="card-text font-weight-bold text-secondary">Detail CV</a>
-                                        </div>
+                                    <img src="{{ asset('image/prodi/hendrawaty.jpg') }}" class="card-img-top"
+                                        alt="...">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-text text-black font-bold mb-2 font-italic"
+                                            style="text-decoration: underline;">Staff Pengajar</h5>
+                                        <a href="http://ti.pnl.ac.id/file/cv/54665e00183e34aaa967cb27bd5ab36b.docx"
+                                            class="card-text font-weight-bold text-secondary">Detail CV</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/azhar.jpg') }}" class="card-img-top" alt="...">
-                                        <div class="card-body text-center">
-                                            <h5 class="card-text text-black font-bold mb-2 font-italic" style="text-decoration: underline;">Staff Pengajar</h5>
-                                            <a href="http://ti.pnl.ac.id/file/cv/96bbb805f4d55b4553c2c472081e45a9.pdf" class="card-text font-weight-bold text-secondary">Detail CV</a>
-                                        </div>
+                                    <div class="card-body text-center">
+                                        <h5 class="card-text text-black font-bold mb-2 font-italic"
+                                            style="text-decoration: underline;">Staff Pengajar</h5>
+                                        <a href="http://ti.pnl.ac.id/file/cv/96bbb805f4d55b4553c2c472081e45a9.pdf"
+                                            class="card-text font-weight-bold text-secondary">Detail CV</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card" style="width: 15rem;">
-                                    <img src="{{ asset('image/prodi/akmalul.jpg') }}" class="card-img-top" alt="...">
-                                        <div class="card-body text-center">
-                                            <h5 class="card-text text-black font-bold mb-2 font-italic" style="text-decoration: underline;">Staff Pengajar</h5>
-                                            <a href="http://ti.pnl.ac.id/file/cv/10925574c7e15b9b305437ac68fc44dc.pdf" class="card-text font-weight-bold text-secondary">Detail CV</a>
-                                        </div>
+                                    <img src="{{ asset('image/prodi/akmalul.jpg') }}" class="card-img-top"
+                                        alt="...">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-text text-black font-bold mb-2 font-italic"
+                                            style="text-decoration: underline;">Staff Pengajar</h5>
+                                        <a href="http://ti.pnl.ac.id/file/cv/10925574c7e15b9b305437ac68fc44dc.pdf"
+                                            class="card-text font-weight-bold text-secondary">Detail CV</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/mahdi.jpg') }}" class="card-img-top" alt="...">
-                                        <div class="card-body text-center">
-                                            <h5 class="card-text text-black font-bold mb-2 font-italic" style="text-decoration: underline;">Staff Pengajar</h5>
-                                            <a href="http://ti.pnl.ac.id/file/cv/a03046fb7009208f13d78ee68651a974.pdf" class="card-text font-weight-bold text-secondary">Detail CV</a>
-                                        </div>
+                                    <div class="card-body text-center">
+                                        <h5 class="card-text text-black font-bold mb-2 font-italic"
+                                            style="text-decoration: underline;">Staff Pengajar</h5>
+                                        <a href="http://ti.pnl.ac.id/file/cv/a03046fb7009208f13d78ee68651a974.pdf"
+                                            class="card-text font-weight-bold text-secondary">Detail CV</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/amri.jpg') }}" class="card-img-top" alt="...">
-                                        <div class="card-body text-center">
-                                            <h5 class="card-text text-black font-bold mb-2 font-italic" style="text-decoration: underline;">Staff Pengajar</h5>
-                                            <a href="http://ti.pnl.ac.id/file/cv/ceeea7990761ed30efdd42a4b43a8471.docx" class="card-text font-weight-bold text-secondary">Detail CV</a>
-                                        </div>
+                                    <div class="card-body text-center">
+                                        <h5 class="card-text text-black font-bold mb-2 font-italic"
+                                            style="text-decoration: underline;">Staff Pengajar</h5>
+                                        <a href="http://ti.pnl.ac.id/file/cv/ceeea7990761ed30efdd42a4b43a8471.docx"
+                                            class="card-text font-weight-bold text-secondary">Detail CV</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card" style="width: 15rem;">
-                                    <img src="{{ asset('image/prodi/husaini2.jpg') }}" class="card-img-top" alt="...">
-                                        <div class="card-body text-center">
-                                            <h5 class="card-text text-black font-bold mb-2 font-italic" style="text-decoration: underline;">Staff Pengajar</h5>
-                                            <a href="http://ti.pnl.ac.id/file/cv/00489f4bdecb0d07950ab40b9fd35fff.docx" class="card-text font-weight-bold text-secondary">Detail CV</a>
-                                        </div>
+                                    <img src="{{ asset('image/prodi/husaini2.jpg') }}" class="card-img-top"
+                                        alt="...">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-text text-black font-bold mb-2 font-italic"
+                                            style="text-decoration: underline;">Staff Pengajar</h5>
+                                        <a href="http://ti.pnl.ac.id/file/cv/00489f4bdecb0d07950ab40b9fd35fff.docx"
+                                            class="card-text font-weight-bold text-secondary">Detail CV</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/anwar.jpg') }}" class="card-img-top" alt="...">
-                                        <div class="card-body text-center">
-                                            <h5 class="card-text text-black font-bold mb-2 font-italic" style="text-decoration: underline;">Staff Pengajar</h5>
-                                            <a href="http://ti.pnl.ac.id/file/cv/7be998c54c0dd53c95921f04ca6d9e16.docx" class="card-text font-weight-bold text-secondary">Detail CV</a>
-                                        </div>
+                                    <div class="card-body text-center">
+                                        <h5 class="card-text text-black font-bold mb-2 font-italic"
+                                            style="text-decoration: underline;">Staff Pengajar</h5>
+                                        <a href="http://ti.pnl.ac.id/file/cv/7be998c54c0dd53c95921f04ca6d9e16.docx"
+                                            class="card-text font-weight-bold text-secondary">Detail CV</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/nasir.jpg') }}" class="card-img-top" alt="...">
-                                        <div class="card-body text-center">
-                                            <h5 class="card-text text-black font-bold mb-2 font-italic" style="text-decoration: underline;">Staff Pengajar</h5>
-                                            <a href="http://ti.pnl.ac.id/file/cv/520694c7856730f500b3a05186011220.docx" class="card-text font-weight-bold text-secondary">Detail CV</a>
-                                        </div>
+                                    <div class="card-body text-center">
+                                        <h5 class="card-text text-black font-bold mb-2 font-italic"
+                                            style="text-decoration: underline;">Staff Pengajar</h5>
+                                        <a href="http://ti.pnl.ac.id/file/cv/520694c7856730f500b3a05186011220.docx"
+                                            class="card-text font-weight-bold text-secondary">Detail CV</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card" style="width: 15rem;">
-                                    <img src="{{ asset('image/prodi/nanang.jpg') }}" class="card-img-top" alt="...">
-                                        <div class="card-body text-center">
-                                            <h5 class="card-text text-black font-bold mb-2 font-italic" style="text-decoration: underline;">Staff Pengajar</h5>
-                                            <a href="http://ti.pnl.ac.id/file/cv/520694c7856730f500b3a05186011220.docx" class="card-text font-weight-bold text-secondary">Detail CV</a>
-                                        </div>
+                                    <img src="{{ asset('image/prodi/nanang.jpg') }}" class="card-img-top"
+                                        alt="...">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-text text-black font-bold mb-2 font-italic"
+                                            style="text-decoration: underline;">Staff Pengajar</h5>
+                                        <a href="http://ti.pnl.ac.id/file/cv/520694c7856730f500b3a05186011220.docx"
+                                            class="card-text font-weight-bold text-secondary">Detail CV</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/nelly.jpg') }}" class="card-img-top" alt="...">
-                                        <div class="card-body text-center">
-                                            <h5 class="card-text text-black font-bold mb-2 font-italic" style="text-decoration: underline;">Staff Pengajar</h5>
-                                            <a href="http://ti.pnl.ac.id/file/cv/520694c7856730f500b3a05186011220.docx" class="card-text font-weight-bold text-secondary">Detail CV</a>
-                                        </div>
+                                    <div class="card-body text-center">
+                                        <h5 class="card-text text-black font-bold mb-2 font-italic"
+                                            style="text-decoration: underline;">Staff Pengajar</h5>
+                                        <a href="http://ti.pnl.ac.id/file/cv/520694c7856730f500b3a05186011220.docx"
+                                            class="card-text font-weight-bold text-secondary">Detail CV</a>
+                                    </div>
                                 </div>
                             </div>
-                            
+
                         </div>
                     </div>
                     {{-- <hr> --}}
@@ -249,12 +291,12 @@
                     </div> --}}
                     {{-- <hr> --}}
                     {{-- <div class="single-post row"> --}}
-                        {{-- <div class="col-lg-12">
+                    {{-- <div class="col-lg-12">
                             <div class="feature-img">
                                 <img class="img-fluid" src="{{ env('APP_URL') . '/image/blog/feature-img1.jpg' }}" alt="">
                             </div>
                         </div> --}}
-                        {{-- <div class="col-lg-3  col-md-3 meta-details">
+                    {{-- <div class="col-lg-3  col-md-3 meta-details">
                             <ul class="tags">
                                 <li><a href="#">Food,</a></li>
                                 <li><a href="#">Technology,</a></li>
@@ -453,7 +495,7 @@
                                 <li><a href="#">Adventure</a></li>
                             </ul>
                         </div> --}}
-                    </div> 
+                    </div>
                 </div>
             </div>
         </div>
