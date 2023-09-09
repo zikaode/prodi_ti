@@ -24,7 +24,7 @@ class staticController extends Controller
     {
         return view('dataMahasiswa');
     }
-
+  
     public function strukturPimpinan()
     {
         return view('strukturPimpinan');
@@ -33,5 +33,10 @@ class staticController extends Controller
     public function kuesionerMahasiswa()
     {
         return view('kuesionerMahasiswa');
+    }
+  
+    public function dataDosen()
+    {
+        return view('dataDosen');
     }
 }

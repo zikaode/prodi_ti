@@ -70,7 +70,7 @@
                             <li><a href="{{ route('static.profil') }}">TENTANG</a></li>
                             <li class="menu-has-children"><a href="">PROGRAM STUDI</a>
                                 <ul>
-                                    <li><a href="blog-home.html">Data Dosen</a></li>
+                                    <li><a href="{{route('static.dataDosen')}}">Data Dosen</a></li>
                                     <li><a href="{{ route('static.dataMahasiswa') }}">Data Mahasiswa</a></li>
                                     <li><a href="{{ route('static.strukturPimpinan') }}">Struktur Pimpinan</a></li>
                                     <li><a href="blog-single.html">Fasilitas</a></li>
