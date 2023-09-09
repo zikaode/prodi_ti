@@ -5,7 +5,7 @@
     <!-- Mobile Specific Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon-->
-    <link rel="shortcut icon" href="{{ asset('image/fav.ico') }}">
+    <link rel="shortcut icon" href="{{ env('APP_URL') . '/image/fav.ico' }}">
     <!-- Author Meta -->
     <meta name="author" content="colorlib">
     <!-- Meta Description -->
@@ -60,13 +60,13 @@
             <div class="container main-menu">
                 <div class="row align-items-center justify-content-between d-flex">
                     <div id="logo">
-                        <a href="index.html"><img src="{{ asset('image/prodi/logo_ti.png') }}" alt=""
-                                title="" /></a>
+                        <a href="index.html"><img src="{{ env('APP_URL') . '/image/prodi/logo_ti.png' }}"
+                                alt="" title="" /></a>
                     </div>
                     <nav id="nav-menu-container">
                         <ul class="nav-menu">
-                            <li><a href="index.html">HOME</a></li>
-                            <li><a href="about.html">TENTANG</a></li>
+                            <li><a href="{{ route('static.index') }}">HOME</a></li>
+                            <li><a href="{{ route('static.profil') }}">PROFIL</a></li>
                             <li class="menu-has-children"><a href="">PROGRAM STUDI</a>
                                 <ul>
                                     <li><a href="blog-home.html">Data Dosen</a></li>

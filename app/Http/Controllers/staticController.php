@@ -14,4 +14,9 @@ class staticController extends Controller
     {
         return view('home');
     }
+    
+    public function profil()
+    {
+        return view('profil');
+    }
 }
