@@ -60,7 +60,7 @@
                             <p> Data Mahasiswa Program Studi Teknik Informatika</p>
                         </div>
                         <div class="row">
-                            <div class="col-lg-4">
+                            <div class="col-lg-4 mb-3 col-md-6 d-flex justify-content-center align-items-center">
                                 <div class="card" style="width: 15rem;">
                                     <a href="https://www.example.com">
                                         <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
@@ -71,7 +71,7 @@
                                         </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-lg-4 mb-3 col-md-6 d-flex justify-content-center align-items-center">
                                 <div class="card" style="width: 15rem;">
                                     <a href="https://www.example.com">
                                         <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
@@ -82,7 +82,7 @@
                                         </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-lg-4 mb-3 col-md-6 d-flex justify-content-center align-items-center">
                                 <div class="card" style="width: 15rem;">
                                     <a href="https://www.example.com">
                                         <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
@@ -93,7 +93,7 @@
                                         </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-lg-4 mb-3 col-md-6 d-flex justify-content-center align-items-center">
                                 <div class="card" style="width: 15rem;">
                                     <a href="https://www.example.com">
                                         <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
@@ -104,7 +104,7 @@
                                         </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-lg-4 mb-3 col-md-6 d-flex justify-content-center align-items-center">
                                 <div class="card" style="width: 15rem;">
                                     <a href="https://www.example.com">
                                         <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
@@ -115,7 +115,7 @@
                                         </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-lg-4 mb-3 col-md-6 d-flex justify-content-center align-items-center">
                                 <div class="card" style="width: 15rem;">
                                     <a href="https://drive.google.com/open?id=1Ud9DpufImnWFVVKvP7F_CWbDDX7DYsxr">
                                         <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
@@ -126,7 +126,7 @@
                                         </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-lg-4 mb-3 col-md-6 d-flex justify-content-center align-items-center">
                                 <div class="card" style="width: 15rem;">
                                     <a
                                         href="https://docs.google.com/spreadsheets/d/12-ZUVWEZz51y4pMs-YdZ6HHmXtl-4Wmt-iQkWsDV2SA/edit?usp=sharing">
@@ -138,7 +138,7 @@
                                         </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-lg-4 mb-3 col-md-6 d-flex justify-content-center align-items-center">
                                 <div class="card" style="width: 15rem;">
                                     <a
                                         href="https://docs.google.com/spreadsheets/d/1lUBRn0KLb7bARMfrnuQaJ9K-cj_39gEZNixE09Yxio8/edit?usp=sharing">
@@ -150,7 +150,7 @@
                                         </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-lg-4 mb-3 col-md-6 d-flex justify-content-center align-items-center">
                                 <div class="card" style="width: 15rem;">
                                     <a
                                         href="https://docs.google.com/spreadsheets/d/1AZD8x0A5k_Zk3l3SGCyd6OzLv-BPQVN20thEoZUSFPw/edit?usp=sharing">

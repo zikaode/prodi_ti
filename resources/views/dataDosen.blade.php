@@ -60,7 +60,7 @@
                             <p> Data Dosen Program Studi Teknik Informatika</p>
                         </div>
                         <div class="row">
-                            <div class="col-lg-4 mb-4">
+                            <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/salahuddin.jpg') }}" class="card-img-top"
                                         alt="...">
@@ -72,7 +72,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 mb-4">
+                            <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/salahuddin.jpg') }}" class="card-img-top"
                                         alt="...">
@@ -84,7 +84,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 mb-4">
+                            <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/zulfan.jpg') }}" class="card-img-top" alt="...">
                                     <div class="card-body text-center">
@@ -95,7 +95,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 mb-4">
+                            <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/sila.jpg') }}" class="card-img-top" alt="...">
                                     <div class="card-body text-center">
@@ -106,7 +106,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 mb-4">
+                            <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/rizka.jpg') }}" class="card-img-top" alt="...">
                                     <div class="card-body text-center">
@@ -117,7 +117,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 mb-4">
+                            <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/husaini.jpg') }}" class="card-img-top" alt="...">
                                     <div class="card-body text-center">
@@ -128,7 +128,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 mb-4">
+                            <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/mulyadi.jpg') }}" class="card-img-top" alt="...">
                                     <div class="card-body text-center">
@@ -139,7 +139,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 mb-4">
+                            <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/hendrawaty.jpg') }}" class="card-img-top"
                                         alt="...">
@@ -151,7 +151,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 mb-4">
+                            <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/azhar.jpg') }}" class="card-img-top" alt="...">
                                     <div class="card-body text-center">
@@ -162,7 +162,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 mb-4">
+                            <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/akmalul.jpg') }}" class="card-img-top"
                                         alt="...">
@@ -174,7 +174,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 mb-4">
+                            <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/mahdi.jpg') }}" class="card-img-top" alt="...">
                                     <div class="card-body text-center">
@@ -185,7 +185,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 mb-4">
+                            <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/amri.jpg') }}" class="card-img-top" alt="...">
                                     <div class="card-body text-center">
@@ -196,7 +196,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 mb-4">
+                            <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/husaini2.jpg') }}" class="card-img-top"
                                         alt="...">
@@ -208,7 +208,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 mb-4">
+                            <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/anwar.jpg') }}" class="card-img-top" alt="...">
                                     <div class="card-body text-center">
@@ -219,7 +219,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 mb-4">
+                            <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/nasir.jpg') }}" class="card-img-top" alt="...">
                                     <div class="card-body text-center">
@@ -230,7 +230,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 mb-4">
+                            <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/nanang.jpg') }}" class="card-img-top"
                                         alt="...">
@@ -242,7 +242,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 mb-4">
+                            <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center mb-4">
                                 <div class="card" style="width: 15rem;">
                                     <img src="{{ asset('image/prodi/nelly.jpg') }}" class="card-img-top" alt="...">
                                     <div class="card-body text-center">
