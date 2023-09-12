@@ -22,7 +22,7 @@ Route::controller(staticController::class)->group(function () {
     Route::get('/kuesioner-mahasiswa', 'kuesionerMahasiswa')->name('static.kuesionerMahasiswa');
     Route::get('/kuesioner-alumni', 'kuesionerAlumni')->name('static.kuesionerAlumni');
     Route::get('/data-dosen', 'dataDosen')->name('static.dataDosen');
-    Route::get('/pengumuman','pengumuman')->name('static.pengumuman');
+    Route::get('/berita','berita')->name('static.berita');
 
     // Fasilitas
     Route::get('/fasilitas/laboratorium', 'laboratorium')->name('static.laboratorium');

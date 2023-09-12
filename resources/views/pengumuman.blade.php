@@ -32,7 +32,7 @@
             <div class="row d-flex align-items-center justify-content-center">
                 <div class="about-content col-lg-12">
                     <h1 class="text-white text-uppercase">
-                        Pengumuman
+                        Berita
                     </h1>
                     <p class="text-white link-nav text-center"> Program Studi <span class="lnr lnr-arrow-right"></span><a
                             href="{{ route('static.pengumuman') }}"></p>
@@ -51,7 +51,7 @@
                         <div class="col ">
                             <div class="card">
                                 <div class="card-body text-center">
-                                    <h1>Pengumuman Terbaru</h1>
+                                    <h1>Berita Terbaru</h1>
                                     <p></p>
                                     <p></a>.
                                     </p>

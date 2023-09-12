@@ -24,22 +24,22 @@ class staticController extends Controller
     {
         return view('dataMahasiswa');
     }
-  
+
     public function strukturPimpinan()
     {
         return view('strukturPimpinan');
     }
-    
+
     public function kuesionerMahasiswa()
     {
         return view('kuesionerMahasiswa');
     }
-  
+
     public function kuesionerAlumni()
     {
         return view('kuesionerAlumni');
     }
-    
+
     public function dataDosen()
     {
         return view('dataDosen');
@@ -49,8 +49,8 @@ class staticController extends Controller
     {
         return view('laboratorium');
     }
-    public function pengumuman()
+    public function Berita()
     {
-        return view('pengumuman');
+        return view('Berita');
     }
 }
