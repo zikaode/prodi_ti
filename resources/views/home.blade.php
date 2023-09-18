@@ -84,18 +84,18 @@
     <section class="blog-area section-gap" id="blog">
         <div class="container">
             <div class="row d-flex justify-content-center">
-                <div class="menu-content pb-70 col-lg-8">
+                <div class="menu-content pb-40   col-lg-8">
                     <div class="title text-center">
-                        <h1 class="mb-10">Pengumuman Terbaru</h1>
-                        <p>Orang yang selalu mengetahui setiap pengumuman baru adalah seperti seorang wisatawan bijak yang
-                            menjelajahi kehidupan dengan kompas pengetahuan.</p>
+                        <h1 class="mb-10">Berita TI Terbaru</h1>
+                        <p>Baca Lebih Banyak Berita Seputar Program Studi TI(Teknik Informatika) Kami Disini!
+                        </p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-6 single-blog">
                     <div class="thumb">
-                        <img class="img-fluid" src="img/b1.jpg" alt="">
+                        <img class="img-fluid" src="{{ env('APP_URL') . '/image/b1.jpg' }}" alt="">
                     </div>
                     <p class="meta">25 April, 2018 | By <a href="#">Mark Wiens</a></p>
                     <a href="../blog-single.html">
@@ -110,7 +110,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 single-blog">
                     <div class="thumb">
-                        <img class="img-fluid" src="img/b2.jpg" alt="">
+                        <img class="img-fluid" src="{{ env('APP_URL') . '/image/b2.jpg' }}" alt="">
                     </div>
                     <p class="meta">25 April, 2018 | By <a href="#">Mark Wiens</a></p>
                     <a href="../blog-single.html">
@@ -125,7 +125,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 single-blog">
                     <div class="thumb">
-                        <img class="img-fluid" src="img/b3.jpg" alt="">
+                        <img class="img-fluid" src="{{ env('APP_URL') . '/image/b3.jpg' }}" alt="">
                     </div>
                     <p class="meta">25 April, 2018 | By <a href="#">Mark Wiens</a></p>
                     <a href="../blog-single.html">
@@ -140,7 +140,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 single-blog">
                     <div class="thumb">
-                        <img class="img-fluid" src="img/b4.jpg" alt="">
+                        <img class="img-fluid" src="{{ env('APP_URL') . '/image/b4.jpg' }}" alt="">
                     </div>
                     <p class="meta">25 April, 2018 | By <a href="#">Mark Wiens</a></p>
                     <a href="../blog-single.html">
@@ -196,7 +196,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 search-course-right section-gap">
+                <div class="col-lg-6 col-md-6 search-course-right section-gap">
                     <form class="form-wrap" action="#">
                         <h4 class="text-white pb-20 text-center mb-30">Search for Available Course</h4>
                         <input type="text" class="form-control" name="name" placeholder="Your Name"
@@ -232,7 +232,7 @@
     <!-- End search-course Area -->
 
     <!-- Start upcoming-event Area -->
-    <section class="upcoming-event-area section-gap">
+    {{-- <section class="upcoming-event-area section-gap">
         <div class="container">
             <div class="row d-flex justify-content-center">
                 <div class="menu-content pb-70 col-lg-8">
@@ -343,7 +343,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- End upcoming-event Area -->
 
     <!-- Start cta-two Area -->
