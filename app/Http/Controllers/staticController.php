@@ -49,4 +49,9 @@ class staticController extends Controller
     {
         return view('laboratorium');
     }
+
+    public function pages()
+    {
+        return view('page');
+    }
 }
