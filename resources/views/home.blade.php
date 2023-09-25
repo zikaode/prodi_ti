@@ -84,75 +84,80 @@
     <section class="blog-area section-gap" id="blog">
         <div class="container">
             <div class="row d-flex justify-content-center">
-                <div class="menu-content pb-70 col-lg-8">
+                <div class="menu-content pb-40   col-lg-8">
                     <div class="title text-center">
-                        <h1 class="mb-10">Pengumuman Terbaru</h1>
-                        <p>Orang yang selalu mengetahui setiap pengumuman baru adalah seperti seorang wisatawan bijak yang
-                            menjelajahi kehidupan dengan kompas pengetahuan.</p>
+                        <h1 class="mb-10">Berita TI Terbaru</h1>
+                        <p>Baca Lebih Banyak Berita Seputar Program Studi TI(Teknik Informatika) Kami Disini!
+                        </p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-6 single-blog">
                     <div class="thumb">
-                        <img class="img-fluid" src="img/b1.jpg" alt="">
+                        <img class="object-fit-cover border rounded" height="180px" style="object-fit: cover"
+                            src="{{ env('APP_URL') . '/image/blog/blog-1.jpeg' }}" alt="">
                     </div>
-                    <p class="meta">25 April, 2018 | By <a href="#">Mark Wiens</a></p>
-                    <a href="../blog-single.html">
-                        <h5>Addiction When Gambling Becomes A Problem</h5>
+                    <p class="meta">18 September 2023 | By <a href="#">Admin</a></p>
+                    <a href="/articles/1">
+                        <h5>Wakil Direktur III PNL Hadiri Pembukaan POMDA 2023</h5>
                     </a>
                     <p>
-                        Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend
-                        hours in front of their.
+                        Wakil Direktur III Ir. Sariyusda, M.T hadiri acara pembukaan Pekan Olahraga Mahasiswa Daerah
+                        (POMDA)..
                     </p>
-                    <a href="#" class="details-btn d-flex justify-content-center align-items-center"><span
+                    <a href="/articles/1" class="details-btn d-flex justify-content-center align-items-center"><span
                             class="details">Details</span><span class="lnr lnr-arrow-right"></span></a>
                 </div>
                 <div class="col-lg-3 col-md-6 single-blog">
                     <div class="thumb">
-                        <img class="img-fluid" src="img/b2.jpg" alt="">
+                        <img class="object-fit-cover border rounded" height="180px" style="object-fit: cover"
+                            src="{{ env('APP_URL') . '/image/blog/blog-1.jpeg' }}" alt="">
                     </div>
-                    <p class="meta">25 April, 2018 | By <a href="#">Mark Wiens</a></p>
-                    <a href="../blog-single.html">
-                        <h5>Computer Hardware Desktops And Notebooks</h5>
+                    <p class="meta">18 September 2023 | By <a href="#">Admin</a></p>
+                    <a href="/articles/1">
+                        <h5>Wakil Direktur III PNL Hadiri Pembukaan POMDA 2023</h5>
                     </a>
                     <p>
-                        Ah, the technical interview. Nothing like it. Not only does it cause anxiety, but it causes anxiety
-                        for several different reasons.
+                        Wakil Direktur III Ir. Sariyusda, M.T hadiri acara pembukaan Pekan Olahraga Mahasiswa Daerah
+                        (POMDA)..
                     </p>
-                    <a href="#" class="details-btn d-flex justify-content-center align-items-center"><span
+                    <a href="/articles/1" class="details-btn d-flex justify-content-center align-items-center"><span
                             class="details">Details</span><span class="lnr lnr-arrow-right"></span></a>
                 </div>
                 <div class="col-lg-3 col-md-6 single-blog">
                     <div class="thumb">
-                        <img class="img-fluid" src="img/b3.jpg" alt="">
+                        <img class="object-fit-cover border rounded" height="180px" style="object-fit: cover"
+                            src="{{ env('APP_URL') . '/image/blog/blog-1.jpeg' }}" alt="">
                     </div>
-                    <p class="meta">25 April, 2018 | By <a href="#">Mark Wiens</a></p>
-                    <a href="../blog-single.html">
-                        <h5>Make Myspace Your Best Designed Space</h5>
+                    <p class="meta">18 September 2023 | By <a href="#">Admin</a></p>
+                    <a href="/articles/1">
+                        <h5>Wakil Direktur III PNL Hadiri Pembukaan POMDA 2023</h5>
                     </a>
                     <p>
-                        Plantronics with its GN Netcom wireless headset creates the next generation of wireless headset and
-                        other products such as wireless.
+                        Wakil Direktur III Ir. Sariyusda, M.T hadiri acara pembukaan Pekan Olahraga Mahasiswa Daerah
+                        (POMDA)..
                     </p>
-                    <a href="#" class="details-btn d-flex justify-content-center align-items-center"><span
+                    <a href="/articles/1" class="details-btn d-flex justify-content-center align-items-center"><span
                             class="details">Details</span><span class="lnr lnr-arrow-right"></span></a>
                 </div>
                 <div class="col-lg-3 col-md-6 single-blog">
                     <div class="thumb">
-                        <img class="img-fluid" src="img/b4.jpg" alt="">
+                        <img class="object-fit-cover border rounded" height="180px" style="object-fit: cover"
+                            src="{{ env('APP_URL') . '/image/blog/blog-1.jpeg' }}" alt="">
                     </div>
-                    <p class="meta">25 April, 2018 | By <a href="#">Mark Wiens</a></p>
-                    <a href="../blog-single.html">
-                        <h5>Video Games Playing With Imagination</h5>
+                    <p class="meta">18 September 2023 | By <a href="#">Admin</a></p>
+                    <a href="/articles/1">
+                        <h5>Wakil Direktur III PNL Hadiri Pembukaan POMDA 2023</h5>
                     </a>
                     <p>
-                        About 64% of all on-line teens say that do things online that they wouldn’t want their parents to
-                        know about. 11% of all adult internet
+                        Wakil Direktur III Ir. Sariyusda, M.T hadiri acara pembukaan Pekan Olahraga Mahasiswa Daerah
+                        (POMDA)..
                     </p>
-                    <a href="#" class="details-btn d-flex justify-content-center align-items-center"><span
+                    <a href="/articles/1" class="details-btn d-flex justify-content-center align-items-center"><span
                             class="details">Details</span><span class="lnr lnr-arrow-right"></span></a>
                 </div>
+
             </div>
         </div>
     </section>
@@ -163,67 +168,25 @@
         <div class="overlay overlay-bg"></div>
         <div class="container">
             <div class="row justify-content-between align-items-center">
-                <div class="col-lg-6 col-md-6 search-course-left">
-                    <h1 class="text-white">
-                        Get reduced fee <br>
-                        during this Summer!
-                    </h1>
-                    <p>
-                        inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct
-                        standards especially in the workplace. That’s why it’s crucial that, as women, our behavior on the
-                        job is beyond reproach.
-                    </p>
-                    <div class="row details-content">
-                        <div class="col single-detials">
-                            <span class="lnr lnr-graduation-hat"></span>
-                            <a href="#">
-                                <h4>Expert Instructors</h4>
-                            </a>
-                            <p>
-                                Usage of the Internet is becoming more common due to rapid advancement of technology and
-                                power.
-                            </p>
-                        </div>
-                        <div class="col single-detials">
-                            <span class="lnr lnr-license"></span>
-                            <a href="#">
-                                <h4>Certification</h4>
-                            </a>
-                            <p>
-                                Usage of the Internet is becoming more common due to rapid advancement of technology and
-                                power.
-                            </p>
-                        </div>
+                <div class="col-lg-6 col-md-6 search-course-left py-4">
+                    <h3 class="text-white text-center my-4">Lokasi Politeknik Negeri Lhokseumawe</h3>
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.6348547170014!2d97.15502971435029!3d5.119574796284543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304777a35c813bbf%3A0xfac9e2831347f07f!2sPoliteknik+Negeri+Lhokseumawe!5e0!3m2!1sid!2sid!4v1511899636175"
+                            width="320" height="258" frameborder="0" style="border:0" allowfullscreen=""></iframe>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 search-course-right section-gap">
+                <div class="col-lg-6 col-md-6 search-course-right py-4">
+                    <h3 class="text-white text-center my-4">Hubungi Kami</h3>
                     <form class="form-wrap" action="#">
-                        <h4 class="text-white pb-20 text-center mb-30">Search for Available Course</h4>
-                        <input type="text" class="form-control" name="name" placeholder="Your Name"
-                            onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name'">
-                        <input type="phone" class="form-control" name="phone" placeholder="Your Phone Number"
-                            onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Phone Number'">
-                        <input type="email" class="form-control" name="email" placeholder="Your Email Address"
-                            onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address'">
-                        <div class="form-select" id="service-select">
-                            <select style="display: none;">
-                                <option datd-display="">Choose Course</option>
-                                <option value="1">Course One</option>
-                                <option value="2">Course Two</option>
-                                <option value="3">Course Three</option>
-                                <option value="4">Course Four</option>
-                            </select>
-                            <div class="nice-select" tabindex="0"><span class="current">Choose Course</span>
-                                <ul class="list">
-                                    <li data-value="Choose Course" class="option selected">Choose Course</li>
-                                    <li data-value="1" class="option">Course One</li>
-                                    <li data-value="2" class="option">Course Two</li>
-                                    <li data-value="3" class="option">Course Three</li>
-                                    <li data-value="4" class="option">Course Four</li>
-                                </ul>
-                            </div>
+                        <input type="text" class="form-control" name="name" placeholder="Full Name"
+                            onfocus="this.placeholder = ''" onblur="this.placeholder = 'Full Name'">
+                        <input type="phone" class="form-control" name="phone" placeholder="Email Address"
+                            onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email Address'">
+                        <div class="form-group">
+                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="5" placeholder="Massage"></textarea>
                         </div>
-                        <button class="primary-btn text-uppercase">Submit</button>
+                        <button class="primary-btn text-uppercase">Kirim</button>
                     </form>
                 </div>
             </div>
@@ -232,7 +195,7 @@
     <!-- End search-course Area -->
 
     <!-- Start upcoming-event Area -->
-    <section class="upcoming-event-area section-gap">
+    {{-- <section class="upcoming-event-area section-gap">
         <div class="container">
             <div class="row d-flex justify-content-center">
                 <div class="menu-content pb-70 col-lg-8">
@@ -343,7 +306,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- End upcoming-event Area -->
 
     <!-- Start cta-two Area -->
@@ -351,10 +314,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 cta-left">
-                    <h1>Butuh Artikel Yang Lain?</h1>
+                    <h1>Butuh Berita & Info Yang Lain?</h1>
                 </div>
                 <div class="col-lg-4 cta-right">
-                    <button class="primary-btn wh" href="/blog" disabled>Kunjungi Blog Kami</button>
+                    <button class="primary-btn wh" href="/articles" disabled>Kunjungi</button>
                 </div>
             </div>
         </div>

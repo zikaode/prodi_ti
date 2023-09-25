@@ -75,16 +75,20 @@
                                     <li><a href="{{ route('static.strukturPimpinan') }}">Struktur Pimpinan</a></li>
                                     <li class="menu-has-children"><a href="">Fasilitas </a>
                                         <ul>
+                                            <li><a href="{{ route('static.laboratorium') }}">Umum</a></li>
+                                            <li><a href="{{ route('static.laboratorium') }}">Ruang Kuliah</a></li>
+                                            <li><a href="{{ route('static.laboratorium') }}">Ruang Dosen</a></li>
                                             <li><a href="{{ route('static.laboratorium') }}">laboratorium</a></li>
-                                            <li><a href="#">Item Two</a></li>
+                                            <li><a href="{{ route('static.laboratorium') }}">Perpustakaan</a></li>
+                                            {{-- <li><a href="{{ route('static.laboratorium') }}">Akses Internet</a></li> --}}
                                         </ul>
                                     </li>
                                     <li><a href="{{ route('static.kuesionerMahasiswa') }}">Kuesioner Mahasiswa</a></li>
                                     <li><a href="{{ route('static.kuesionerAlumni') }}">Kuesioner Alumni</a></li>
                                 </ul>
                             </li>
-                            <li><a href="{{route('static.pengumuman')}}">PENGUMUMAN</a></li>
-                            <li><a href="contact.html">KURIKULUM</a></li>
+                            <li><a href="contact.html">BERITA & INFO</a></li>
+                            <li><a href="{{ route('static.kurikulum') }}">KURIKULUM</a></li>
                         </ul>
                     </nav><!-- #nav-menu-container -->
                 </div>
@@ -106,8 +110,7 @@
                         <ul>
                             <li><a href="#">Home</a></li>
                             <li><a href="#">Tentang</a></li>
-                            <li><a href="#">Pengumuman</a></li>
-                            <li><a href="#">Blog</a></li>
+                            <li><a href="#">Berita & Info</a></li>
                         </ul>
                     </div>
                 </div>
@@ -124,7 +127,6 @@
                     <div class="single-footer-widget">
                         <h4>Kurikulum</h4>
                         <ul>
-                            <li><a href="#">SOP dan Panduan</a></li>
                             <li><a href="#">Jadwal Pembelajaran</a></li>
                             <li><a href="#">Mata Kuliah</a></li>
                         </ul>

@@ -22,10 +22,13 @@ Route::controller(staticController::class)->group(function () {
     Route::get('/kuesioner-mahasiswa', 'kuesionerMahasiswa')->name('static.kuesionerMahasiswa');
     Route::get('/kuesioner-alumni', 'kuesionerAlumni')->name('static.kuesionerAlumni');
     Route::get('/data-dosen', 'dataDosen')->name('static.dataDosen');
-    Route::get('/pengumuman','pengumuman')->name('static.pengumuman');
 
     // Fasilitas
     Route::get('/fasilitas/laboratorium', 'laboratorium')->name('static.laboratorium');
+
+    // Page
+    Route::get('/articles/1', 'pages')->name('static.pages');
+
+    //Kurikulum
+    Route::get('/kurikulum', 'kurikulum')->name('static.kurikulum');
 });
-
-
