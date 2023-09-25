@@ -28,4 +28,7 @@ Route::controller(staticController::class)->group(function () {
 
     // Page
     Route::get('/articles/1', 'pages')->name('static.pages');
+
+    //Kurikulum
+    Route::get('/kurikulum', 'kurikulum')->name('static.kurikulum');
 });

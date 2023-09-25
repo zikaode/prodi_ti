@@ -655,8 +655,7 @@ th {
     background: #fff;
 }
 .section-top-border {
-    padding: 50px 0;
-    border-top: 1px dotted #eee;
+    padding: 0 0;
 }
 .switch-wrap {
     margin-bottom: 10px;
@@ -950,39 +949,54 @@ h6 {
 .progress-table {
     background: #fff;
     padding: 15px 0px 30px 0px;
-    min-width: 800px;
 }
-.progress-table .serial {
-    width: 11.83%;
+.progress-table .urutan {
+    width: 8%;
     padding-left: 30px;
 }
-.progress-table .country {
-    width: 28.07%;
+.progress-table .kode {
+    width: 15%;
 }
-.progress-table .visit {
-    width: 19.74%;
+.progress-table .mata-kuliah {
+    width: 38%;
 }
-.progress-table .percentage {
-    width: 40.36%;
+.progress-table .jam {
+    width: 12%;
+    padding-right: 50px;
+}
+.progress-table .sks {
+    width: 12%;
+    padding-right: 50px;
+}
+.progress-table .rps {
+    width: 15%;
     padding-right: 50px;
 }
 .progress-table .table-head {
     display: flex;
 }
-.progress-table .table-head .serial,
-.progress-table .table-head .country,
-.progress-table .table-head .visit,
-.progress-table .table-head .percentage {
+.progress-table .table-head .urutan,
+.progress-table .table-head .kode,
+.progress-table .table-head .mata-kuliah,
+.progress-table .table-head .jam,
+.progress-table .table-head .sks,
+.progress-table .table-head .rps {
     color: #222;
-    line-height: 40px;
+    line-height: 28px;
     text-transform: uppercase;
     font-weight: 500;
+    text-align: center;
 }
 .progress-table .table-row {
-    padding: 15px 0;
+    padding: 8px 0;
     border-top: 1px solid #edf3fd;
     display: flex;
+    text-align: center;
 }
+.progress-table .table-row .mata-kuliah{
+    text-align: left;
+}
+
 .progress-table .table-row .serial,
 .progress-table .table-row .country,
 .progress-table .table-row .visit,

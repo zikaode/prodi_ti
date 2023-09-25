@@ -88,7 +88,7 @@
                                 </ul>
                             </li>
                             <li><a href="contact.html">BERITA & INFO</a></li>
-                            <li><a href="contact.html">KURIKULUM</a></li>
+                            <li><a href="{{ route('static.kurikulum') }}">KURIKULUM</a></li>
                         </ul>
                     </nav><!-- #nav-menu-container -->
                 </div>
