@@ -144,7 +144,8 @@
                                         <div class="jam">3</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/1RdXakZcfE8QPIMHPv1BL1TdWsFeUK4yh/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/1RdXakZcfE8QPIMHPv1BL1TdWsFeUK4yh/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
@@ -173,7 +174,8 @@
                                         <div class="jam">3</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/1SRQJ0jlCUDjjN8GCamQE1kH4KWwK2jAZ/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/1SRQJ0jlCUDjjN8GCamQE1kH4KWwK2jAZ/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
@@ -184,7 +186,8 @@
                                         <div class="jam">3</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/1lLIZLQFslcKwt4NTXXbYha_AVArSZfxQ/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/1lLIZLQFslcKwt4NTXXbYha_AVArSZfxQ/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
@@ -195,7 +198,8 @@
                                         <div class="jam">3</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/1Po_JM6RA3JUzfcOb9q-Uk97QlRvWQfnl/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/1Po_JM6RA3JUzfcOb9q-Uk97QlRvWQfnl/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
@@ -206,7 +210,8 @@
                                         <div class="jam">3</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/1TSxYZHDlJGmXzha4vhW3t-L4amiyIISC/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/1TSxYZHDlJGmXzha4vhW3t-L4amiyIISC/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
@@ -300,7 +305,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/1dKzoyJFr9fZ7VaHyU4g-N0-sA4r51I_L/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/1dKzoyJFr9fZ7VaHyU4g-N0-sA4r51I_L/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
@@ -324,7 +330,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/1LYTNnORPDVRBZl0Lfh0yUMzJGqGTiA_5/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/1LYTNnORPDVRBZl0Lfh0yUMzJGqGTiA_5/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
@@ -359,7 +366,8 @@
                                         <div class="jam">4</div>
                                         <div class="sks">1</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/1A4eRi_KPgLOIwgiTGifekxwwK5fBEjD_/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/1A4eRi_KPgLOIwgiTGifekxwwK5fBEjD_/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
@@ -372,7 +380,8 @@
                                         <div class="jam">6</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/1n0ppQJTrD8xvZiLDp4DeLi3B7wekPmJF/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/1n0ppQJTrD8xvZiLDp4DeLi3B7wekPmJF/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
@@ -462,7 +471,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/1GT5Vc6gn8eGqG7GGa1aR-CAZUHcBZP2E/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/1GT5Vc6gn8eGqG7GGa1aR-CAZUHcBZP2E/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
@@ -619,7 +629,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/17RRSYPSMMoRuz2YALxb1bZJDhBpeqgn0/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/17RRSYPSMMoRuz2YALxb1bZJDhBpeqgn0/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
@@ -632,7 +643,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/1hwh0maqEtRznJDIf1AhaN2Zqolf8sr_L/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/1hwh0maqEtRznJDIf1AhaN2Zqolf8sr_L/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
@@ -678,7 +690,8 @@
                                         <div class="jam">3</div>
                                         <div class="sks">1</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/18edbVe-A1RGUvOQjEByLPPPhQ9cjaoNR/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/18edbVe-A1RGUvOQjEByLPPPhQ9cjaoNR/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
@@ -779,7 +792,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/1v99b9WxVpDYGvWh8YH4iTuZinpeT6tvy/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/1v99b9WxVpDYGvWh8YH4iTuZinpeT6tvy/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
@@ -792,7 +806,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/1_tGpEeAbVWdXaHe2uMWK5MsCgtPsJzQJ/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/1_tGpEeAbVWdXaHe2uMWK5MsCgtPsJzQJ/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
@@ -816,7 +831,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/1Tc-cRSZQjeuVjRn9_rU7ucTR3dAodCHE/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/1Tc-cRSZQjeuVjRn9_rU7ucTR3dAodCHE/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
@@ -862,7 +878,8 @@
                                         <div class="jam">6</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/1EIxqSqdXWo8OMNz1V6fPMTFAN0JEyDeU/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/1EIxqSqdXWo8OMNz1V6fPMTFAN0JEyDeU/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
@@ -909,7 +926,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/130EuHTQDGndaAC18ZYhHNZF_ZqkU339k/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/130EuHTQDGndaAC18ZYhHNZF_ZqkU339k/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
@@ -978,7 +996,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/1zKmv3MguJWpyog24lGMwOfdhVQvYAPBq/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/1zKmv3MguJWpyog24lGMwOfdhVQvYAPBq/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
@@ -991,7 +1010,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                                href="https://drive.google.com/file/d/13uTXsrn9lKMaw5vO14_bbIQI_drfXO_K/view?usp=drive_link">Unduh</a>
+                                                href="https://drive.google.com/file/d/13uTXsrn9lKMaw5vO14_bbIQI_drfXO_K/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
                                         </div>
                                     </div>
                                     <div class="table-row">
