@@ -76,8 +76,8 @@ class staticController extends Controller
         return view('kurikulum');
     }
 
-    public function articles()
+    public function berita()
     {
-        return view('articles');
+        return view('berita');
     }
 }

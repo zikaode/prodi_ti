@@ -88,7 +88,7 @@
                                     <li><a href="{{ route('static.kuesionerAlumni') }}">Kuesioner Alumni</a></li>
                                 </ul>
                             </li>
-                            <li><a href="contact.html">BERITA & INFO</a></li>
+                            <li><a href="{{ route('static.berita') }}">BERITA & INFO</a></li>
                             <li><a href="{{ route('static.kurikulum') }}">KURIKULUM</a></li>
                         </ul>
                     </nav><!-- #nav-menu-container -->
