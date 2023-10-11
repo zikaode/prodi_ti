@@ -65,7 +65,7 @@
                                         <h5 class="mb-0">
                                             <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"
                                                 aria-expanded="true" aria-controls="collapseOne" style="padding-left:0">
-                                                Jadwal Pembelajaran 2018-2019
+                                                Jadwal Pembelajaran 2020-2021
                                             </button>
                                         </h5>
                                     </div>
@@ -84,7 +84,7 @@
                                         <h5 class="mb-0">
                                             <button class="btn btn-link" data-toggle="collapse" data-target="#collapseTwo"
                                                 aria-expanded="true" aria-controls="collapseTwo" style="padding-left:0">
-                                                Jadwal Pembelajaran 2018-2019
+                                                Jadwal Pembelajaran 2021-2022
                                             </button>
                                         </h5>
                                     </div>
@@ -95,7 +95,7 @@
                                                 Politeknik
                                                 Negeri Lhokseumawe, Berikut Jadwal Pembelajaran Tahun 2018-2019. </p>
                                             <a href="#" class="btn btn-primary">Download</a>
-                                        </div>
+                                        </div>s
                                     </div>
                                 </div>
                                 <div class="card mb-2">
@@ -103,7 +103,7 @@
                                         <h5 class="mb-0">
                                             <button class="btn btn-link" data-toggle="collapse" data-target="#collapseThree"
                                                 aria-expanded="true" aria-controls="collapseThree" style="padding-left:0">
-                                                Jadwal Pembelajaran 2018-2019
+                                                Jadwal Pembelajaran 2022-2023
                                             </button>
                                         </h5>
                                     </div>

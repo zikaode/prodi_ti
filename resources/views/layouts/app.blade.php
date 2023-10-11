@@ -16,6 +16,7 @@
     <meta charset="UTF-8">
     <!-- Site Title -->
     <title>Teknik Informatika - PNL</title>
+    <link rel="shortcut icon" href="{{ env('APP_URL') . '/favicon.ico' }}">
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
     <!--
@@ -87,7 +88,7 @@
                                     <li><a href="{{ route('static.kuesionerAlumni') }}">Kuesioner Alumni</a></li>
                                 </ul>
                             </li>
-                            <li><a href="contact.html">BERITA & INFO</a></li>
+                            <li><a href="{{ route('static.berita') }}">BERITA & INFO</a></li>
                             <li><a href="{{ route('static.kurikulum') }}">KURIKULUM</a></li>
                         </ul>
                     </nav><!-- #nav-menu-container -->
