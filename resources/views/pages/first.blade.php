@@ -11,7 +11,7 @@
                         Articles
                     </h1>
                     <p class="text-white link-nav"><a href="{{ route('static.index') }}">Home </a> <span
-                            class="lnr lnr-arrow-right"></span><a href="{{ route('static.pages') }}">Articles</a>
+                            class="lnr lnr-arrow-right"></span><a href="{{ route('static.articles') }}">Articles</a>
                     </p>
                 </div>
             </div>

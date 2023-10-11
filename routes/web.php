@@ -27,7 +27,10 @@ Route::controller(staticController::class)->group(function () {
     Route::get('/fasilitas/laboratorium', 'laboratorium')->name('static.laboratorium');
 
     // Page
-    Route::get('/articles/1', 'pages')->name('static.pages');
+    Route::get('/articles/{param}', 'pages')->name('static.pages');
+
+    // Berita & Info
+    Route::get('/articles', 'articles')->name('static.articles');
 
     //Kurikulum
     Route::get('/kurikulum', 'kurikulum')->name('static.kurikulum');
