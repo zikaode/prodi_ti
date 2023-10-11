@@ -8,10 +8,10 @@
             <div class="row d-flex align-items-center justify-content-center">
                 <div class="about-content col-lg-12">
                     <h1 class="text-white text-uppercase">
-                        Articles
+                        BERITA & INFORMASI
                     </h1>
                     <p class="text-white link-nav"><a href="{{ route('static.index') }}">Home </a> <span
-                            class="lnr lnr-arrow-right"></span><a href="{{ route('static.articles') }}">Articles</a>
+                            class="lnr lnr-arrow-right"></span><a href="{{ route('static.berita') }}">Berita</a>
                     </p>
                 </div>
             </div>
@@ -55,17 +55,17 @@
                             </div>
                         </div> --}}
                         <div class="col-lg-12 col-md-12 my-2">
-                            <h3 class="mt-20 mb-10">Wakil Direktur III PNL Hadiri Pembukaan POMDA 2023</h3>
+                            <h3 class="mt-20 mb-10">Mahasiswa PNL Terus Dulang Medali POMDA 2023</h3>
                         </div>
                         <div class="col-lg-12 col-md-12 ">
                             <div class="text-black-50 text-sm-right display-6">
-                                18 September 2023 | 3 Dikunjungi
+                                22 September 2023 | 167 Dikunjungi
                             </div>
                         </div>
                         <div class="my-2 col-lg-12">
                             <div class="feature-img">
                                 <img class="img-fluid object-fit-cover border rounded"
-                                    src="{{ env('APP_URL') . '/image/blog/blog-1.jpeg' }}" alt="Gambar Akreditasi"
+                                    src="{{ env('APP_URL') . '/image/blog/blog-2.jpeg' }}" alt="Gambar Akreditasi"
                                     style="aspect-ratio: 16 / 9; object-fit: cover; object-position: center center">
                             </div>
                         </div>
@@ -73,30 +73,34 @@
                     <div class="single-post row">
                         <div class="col-lg-12 col-md-12">
                             <p class="text-justify" style="font-size: 1rem">
-                                <strong>Lhokseumawe</strong> - Direktur Politeknik Negeri Lhokseumawe (PNL) Ir. Rizal
-                                Syahyadi, ST.,
-                                M.Eng.Sc., IPM., ASEAN.Eng melalui Wakil Direktur III Bidang Perencanaan, Kerjasama, dan
-                                Sistem Informasi Ir. Sariyusda, M.T hadiri acara pembukaan Pekan Olahraga Mahasiswa Daerah
-                                (POMDA) 2023 di Lapangan bola Universitas Malikussaleh, minggu (17/09/2023). <br><br>
+                                <strong>Lhokseumawe</strong> - Mahasiswa Politeknik Negeri Lhokseumawe (PNL) kembali
+                                mendulang medali di ajang Pekan Olahraga Mahasiswa Daerah (POMDA) 2023 di Universitas
+                                Malikussaleh Lhokseumawe.<br><br>
 
-                                Dalam keterangannya Sariyusda mengatakan kepada seluruh atlit untuk selalu jaga nama baik
-                                almamater, jaga sportifitas, jaga kesehatan, dan selalu disiplin karena disiplin merupakan
-                                kunci kesuksesan.<br><br>
+                                Kabar gembira ini disampakan langsung oleh Wakil Direktur I Bidang Akademik, Kemahasiswaan,
+                                dan Alumni Ir. Zamzami, ST., M.Eng.<br><br>
 
-                                "Sebagai atlit kalian harus disiplin tidak boleh begadang dan jangan makan sembarangan,"
-                                kata Yusda demikian biasa ia disapa.<br><br>
+                                Alhamdulillah mahasiswa kita kembali meraih medali di ajang POMDA di cabor Karate PNL meraih
+                                1 emas 1 perak 2 perunggu dan Pencak silat PNL meraih 4 perunggu setelah sebelumnya dari
+                                taekwondo dan kempo kita juga meraih medali," Jelasnya kepada tim humas PNL Jumat,
+                                (22/09/2023).<br><br>
 
-                                Lebih lanjut Yusda menegaskan kepada seluruh peserta, PNL akan bertindak tegas kepada
-                                peserta yang tidak disiplin.<br><br>
+                                Lebih lanjut Zamzami berpesan kepada seluruh atlit agar tetap semangat dan tetap menjaga
+                                kondisi.<br><br>
 
-                                "Kenapa saya tegas karena ini untuk kesuksesan kalian dan juga PNL, izin dengan orang tua
-                                minta restu dengan orang tua berikan yang terbaik untuk PNL," jelas Yusda.<br><br>
+                                "Untuk atlit yang belum meraih medali jangan berkecil hati terus berlatih dan tingkatkan
+                                memampuan dan untuk cabor yang berpotensi meraih medali manfaatkan kesempatan yang ada, "
+                                harap Zamzami.<br><br>
 
-                                Seperti yang diketahui POMDA 2023 akan diselenggarankan di Universutas Malikussaleh
-                                Lhokseumawe pada 16 hingga 23 September 2023.<br><br>
+                                Adapun mahasiswa yang meraih medali dari cabor Pencak Silat yaitu Wiesnu Hadi Sunjaya peraih
+                                medali perunggu dari Jurusan Teknik Kimia, T.M. Sultan peraih medali perunggu dari Jurusan
+                                Teknik Sipil, Rahman Ardhani peraih medali perunggu dari Jurusan Teknik Mesin, dan Rafdy
+                                Fahreza peraih medali perunggu dari Jurusan Teknik Elektro.<br><br>
 
-                                Ditahun ini PNL mengirim 46 orangatlit dari 8 cabang olah raya yaitu Silat, Bulu tangkis,
-                                Karate, Taekwondo, Atletik, Panjat Tebing, Kempo, dan Catur.<br><br>
+                                Selanjutnya dari cabor Karate yaitu Frans Halomoan peraih medali emas dari Jurusan TIK, Suci
+                                Ramadhani peraih medali perak dari Jurusan Teknik Kimia, Dian Safira peraih medali perunggu
+                                dari Jurusan TIK, dan Kausar Khawarizmi peraih medali perunggu dari Jurusan Teknik
+                                Elektro.<br><br>
                         </div>
                     </div>
                 </div>

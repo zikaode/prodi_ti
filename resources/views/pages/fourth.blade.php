@@ -8,10 +8,10 @@
             <div class="row d-flex align-items-center justify-content-center">
                 <div class="about-content col-lg-12">
                     <h1 class="text-white text-uppercase">
-                        Articles
+                        BERITA & INFORMASI
                     </h1>
                     <p class="text-white link-nav"><a href="{{ route('static.index') }}">Home </a> <span
-                            class="lnr lnr-arrow-right"></span><a href="{{ route('static.articles') }}">Articles</a>
+                            class="lnr lnr-arrow-right"></span><a href="{{ route('static.berita') }}">Berita</a>
                     </p>
                 </div>
             </div>
@@ -55,17 +55,18 @@
                             </div>
                         </div> --}}
                         <div class="col-lg-12 col-md-12 my-2">
-                            <h3 class="mt-20 mb-10">Wakil Direktur III PNL Hadiri Pembukaan POMDA 2023</h3>
+                            <h3 class="mt-20 mb-10">Rakornas Satgas PPKS Dihadiri Mendikbudristek, Satgas PPKS PNL Ikut
+                                Diundang</h3>
                         </div>
                         <div class="col-lg-12 col-md-12 ">
                             <div class="text-black-50 text-sm-right display-6">
-                                18 September 2023 | 3 Dikunjungi
+                                05 Oktober 2023 | 90 Dikunjungi
                             </div>
                         </div>
                         <div class="my-2 col-lg-12">
                             <div class="feature-img">
                                 <img class="img-fluid object-fit-cover border rounded"
-                                    src="{{ env('APP_URL') . '/image/blog/blog-1.jpeg' }}" alt="Gambar Akreditasi"
+                                    src="{{ env('APP_URL') . '/image/blog/blog-4.jpeg' }}" alt="Gambar Akreditasi"
                                     style="aspect-ratio: 16 / 9; object-fit: cover; object-position: center center">
                             </div>
                         </div>
@@ -73,30 +74,40 @@
                     <div class="single-post row">
                         <div class="col-lg-12 col-md-12">
                             <p class="text-justify" style="font-size: 1rem">
-                                <strong>Lhokseumawe</strong> - Direktur Politeknik Negeri Lhokseumawe (PNL) Ir. Rizal
-                                Syahyadi, ST.,
-                                M.Eng.Sc., IPM., ASEAN.Eng melalui Wakil Direktur III Bidang Perencanaan, Kerjasama, dan
-                                Sistem Informasi Ir. Sariyusda, M.T hadiri acara pembukaan Pekan Olahraga Mahasiswa Daerah
-                                (POMDA) 2023 di Lapangan bola Universitas Malikussaleh, minggu (17/09/2023). <br><br>
+                                <strong>Jakarta</strong> - Satuan Tugas Pencegahan dan Penanganan Kekerasan Seksual
+                                (Satgas PPKS) yang merupakan bagian dari perguruan tinggi yang berfungsi sebagai pusat
+                                pencegahan dan penanganan kekerasan seksual di perguruan tinggi, berkumpul di Jakarta pada
+                                Selasa, (03/10/2023) dalam rangka Rapat Koordinasi Nasional (Rakornas). Hadir dalam kegiatan
+                                tersebut Mendikbudristek Nadiem Makarim beserta jajarannya.<br><br>
 
-                                Dalam keterangannya Sariyusda mengatakan kepada seluruh atlit untuk selalu jaga nama baik
-                                almamater, jaga sportifitas, jaga kesehatan, dan selalu disiplin karena disiplin merupakan
-                                kunci kesuksesan.<br><br>
+                                Dalam Rakornas PPKS tersebut, Mendikbudristek Nadiem Makarim menyampaikan bahwa tugas Satgas
+                                PPKS ini sebenarnya merupakan tugas pimpinan perguruan tinggi, "kalau pimpinan tidak
+                                memberikan dukungan, bisa melaporkan ke kita," kata Nadiem.<br><br>
 
-                                "Sebagai atlit kalian harus disiplin tidak boleh begadang dan jangan makan sembarangan,"
-                                kata Yusda demikian biasa ia disapa.<br><br>
+                                "Kemendikbudristek akan segera keluarkan aturan baru tentang standar minimal yang harus
+                                disediakan pimpinan universitas untuk Satgas PPKS," tegas Nadiem.<br><br>
 
-                                Lebih lanjut Yusda menegaskan kepada seluruh peserta, PNL akan bertindak tegas kepada
-                                peserta yang tidak disiplin.<br><br>
+                                Dalam kesempatan itu, Menteri Nadiem mengharapkan agar Satgas PPKS dapat membangun jejaring
+                                komunikasi antar Satgas PPKS di seluruh Indonesia.<br><br>
 
-                                "Kenapa saya tegas karena ini untuk kesuksesan kalian dan juga PNL, izin dengan orang tua
-                                minta restu dengan orang tua berikan yang terbaik untuk PNL," jelas Yusda.<br><br>
+                                "Satgas PPKS harus membangun kolaborasi dan membuat MOU dengan pihak internal dan
+                                eksternal," saran Nadiem.<br><br>
 
-                                Seperti yang diketahui POMDA 2023 akan diselenggarankan di Universutas Malikussaleh
-                                Lhokseumawe pada 16 hingga 23 September 2023.<br><br>
+                                "Saya memberi dukungan penuh kepada Satgas PPKS, agar dapat memberikan rekomendasi tindakan
+                                tegas bagi pelaku untuk meningkatkan kepercayaan masyarakat terhadap satgas," lanjut
+                                Nadiem.<br><br>
 
-                                Ditahun ini PNL mengirim 46 orangatlit dari 8 cabang olah raya yaitu Silat, Bulu tangkis,
-                                Karate, Taekwondo, Atletik, Panjat Tebing, Kempo, dan Catur.<br><br>
+                                Menurut Nadiem, Satgas PPKS merupakan pekerjaan mulia yang layak mendapatkan reward dan
+                                penghargaan atas dedikasinya berjuang di garda terdepan dalam menyelamatkan masa depan
+                                generasi bangsa.<br><br>
+
+                                Siti Aminah, S.E., M.S.M yang merupakan Sekretaris Satgas PPKS Politeknik Negeri Lhokseumawe
+                                (PNL) yang hadir dalam kegiatan tersebut bersama Amanda Fauza, yang merupakan anggota PPKS
+                                dari unsur mahasiswa, mengaku bangga ikut diundang dalam kegiatan nasional tersebut.<br><br>
+
+                                "Tentu kehadiran kami yang mewakili Satgas PPKS PNL akan sangat berguna, apalagi kegiatan
+                                tersebut dihadiri oleh menteri. Mudah-mudahan informasi yang kami peroleh di Jakarta bisa
+                                berguna untuk PNL," pungkas Siti Aminah.<br><br>
                         </div>
                     </div>
                 </div>
