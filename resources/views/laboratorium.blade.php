@@ -38,7 +38,7 @@
                 </div>
                 
                 <div class="row justify-content-center mb-15">
-                    <div class="col-lg-3 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
+                    <div class="col-lg-3 col-md-6 d-flex justify-content-center align-items-center mb-3" style="box-shadow: 100px">
                         <div class="card mx-1" style="width: 18rem; height: 15rem;">
                             <img src="{{ asset('image/gallery/labrkss.jpg') }}" class="card-img-top" alt="..." style="height: 10rem">
                             <div class="card-body">
@@ -72,7 +72,7 @@
                     </div>
                 </div>
                 <div class="row justify-content-center mb-15">
-                    <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
+                    <div class="col-lg-3 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
                         <div class="card mx-1" style="width: 18rem; height: 15rem;">
                             <img src="{{ asset('image/gallery/labsko.jpg') }}" class="card-img-top" alt="..." style="height: 10rem">
                             <div class="card-body">
@@ -80,21 +80,21 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
+                    <div class="col-lg-3 col-md-6  d-flex justify-content-center align-items-center" style="box-shadow: 100px">
                         <div class="card mx-1" style="width: 18rem; height: 15rem;">
                             <img src="{{ asset('image/gallery/labip.jpg') }}" class="card-img-top" alt="..." style="height: 10rem">
                             <div class="card-body">
                               <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM INFORMATION PROCESSING</a></h5>
                             </div>
                         </div>
-                    </div> <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
+                    </div> <div class="col-lg-3 col-md-6  d-flex justify-content-center align-items-center" style="box-shadow: 100px">
                         <div class="card mx-1" style="width: 18rem; height: 15rem;">
                             <img src="{{ asset('image/gallery/labcv.jpg') }}" class="card-img-top" alt="..." style="height: 10rem">
                             <div class="card-body">
                               <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM COMPUTER VISION</a></h5>
                             </div>
                         </div>
-                    </div> <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
+                    </div> <div class="col-lg-3 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
                         <div class="card mx-1" style="width: 18rem; height: 15rem;">
                             <img src="{{ asset('image/gallery/labtl.jpg') }}" class="card-img-top" alt="..." style="height: 10rem">
                             <div class="card-body">
