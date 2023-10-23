@@ -24,22 +24,22 @@ class staticController extends Controller
     {
         return view('dataMahasiswa');
     }
-  
+
     public function strukturPimpinan()
     {
         return view('strukturPimpinan');
     }
-    
+
     public function kuesionerMahasiswa()
     {
         return view('kuesionerMahasiswa');
     }
-  
+
     public function kuesionerAlumni()
     {
         return view('kuesionerAlumni');
     }
-    
+
     public function dataDosen()
     {
         return view('dataDosen');
@@ -49,8 +49,35 @@ class staticController extends Controller
     {
         return view('laboratorium');
     }
-    public function pengumuman()
+
+    public function pages($param)
     {
-        return view('pengumuman');
+        switch ($param) {
+            case '1':
+                return view('pages.first');
+                break;
+            case '2':
+                return view('pages.second');
+                break;
+            case '3':
+                return view('pages.third');
+                break;
+            case '4':
+                return view('pages.fourth');
+                break;
+            default:
+                abort(404);
+                break;
+        }
+    }
+
+    public function kurikulum()
+    {
+        return view('kurikulum');
+    }
+
+    public function berita()
+    {
+        return view('berita');
     }
 }

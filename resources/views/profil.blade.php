@@ -20,7 +20,7 @@
     <!-- End banner Area -->
 
     <!-- Start feature Area -->
-    <section class="feature-area pb-60">
+    <section class="feature-area pb-lg-5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4">
@@ -66,9 +66,13 @@
         </div>
     </section>
     <!-- Start course-mission Area -->
-    <section class="course-mission-area pb-120">
+    <section class="course-mission-area pb-lg-120 pb-60">
         <div class="container">
             <div class="row d-flex justify-content-center">
+                <div class="col-lg-5  d-block d-lg-none mb-4">
+                    <img class="img-fluid" style="" src="{{ env('APP_URL') . '/image/Tujuan_Lecture.png' }}"
+                        alt="">
+                </div>
                 <div class="menu-content col-lg-8">
                     <div class="title text-center">
                         <h2 class="mb-10">Sasaran Program Studi.</h2>
@@ -123,10 +127,9 @@
                     </dl>
                     <!-- accordion 2 end-->
                 </div>
-                <div class="col-md-5 video-right justify-content-center align-items-center d-flex relative">
-                    <div class="overlay overlay-bg"></div>
-                    <a class="play-btn" href="https://www.youtube.com/watch?v=ARA0AxrnHdM"><img class="img-fluid mx-auto"
-                            src="img/play.png" alt=""></a>
+                <div class="col-lg-5  d-lg-flex d-none">
+                    <img class="img-fluid" style="object-fit: cover"
+                        src="{{ env('APP_URL') . '/image/Lecture_Goals_Ilustration.webp' }}" alt="">
                 </div>
             </div>
         </div>
@@ -137,11 +140,11 @@
     <section class="info-area pb-60">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-5">
-                    <img class="img-fluid" style="" src="{{ env('APP_URL') . '/image/about-img.jpg' }}"
+                <div class="col-lg-5  d-lg-flex d-none">
+                    <img class="img-fluid" style="" src="{{ env('APP_URL') . '/image/Tujuan_Lecture.png' }}"
                         alt="">
                 </div>
-                <div class="col-lg-7">
+                <div class="col-lg-7 px-4 px-lg-1 pt-lg-4">
                     <h2>Tujuan Program Studi Teknik Informatika</h2><br>
                     <p class="text-justify">Menghasilkan lulusan sarjana terapan profesional dan terampil yang memiliki
                         kemampuan
