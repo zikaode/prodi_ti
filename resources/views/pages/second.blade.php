@@ -8,11 +8,10 @@
             <div class="row d-flex align-items-center justify-content-center">
                 <div class="about-content col-lg-12">
                     <h1 class="text-white text-uppercase">
-                        STRUKTUR PIMPINAN
+                        BERITA & INFORMASI
                     </h1>
                     <p class="text-white link-nav"><a href="{{ route('static.index') }}">Home </a> <span
-                            class="lnr lnr-arrow-right"></span><a href="{{ route('static.strukturPimpinan') }}">Struktur
-                            Pimpinan</a>
+                            class="lnr lnr-arrow-right"></span><a href="{{ route('static.berita') }}">Berita</a>
                     </p>
                 </div>
             </div>
@@ -55,24 +54,59 @@
                                 </ul>
                             </div>
                         </div> --}}
-                        <div class="col-lg-12 col-md-12">
-                            <h3 class="mt-20 mb-20">STRUKTUR PIMPINAN</h3>
-                        </div>
                         <div class="col-lg-12 col-md-12 my-2">
-                            <p> Struktur Pimpinan Program Studi Teknik Informatika</p>
+                            <h3 class="mt-20 mb-10">Mahasiswa PNL Terus Dulang Medali POMDA 2023</h3>
                         </div>
-                        <div class="col-lg-12">
+                        <div class="col-lg-12 col-md-12 ">
+                            <div class="text-black-50 text-sm-right display-6">
+                                22 September 2023 | 167 Dikunjungi
+                            </div>
+                        </div>
+                        <div class="my-2 col-lg-12">
                             <div class="feature-img">
-                                <img class="img-fluid" src="http://localhost:8000/image/prodi/Struktur_Pimpinan.png "
-                                    alt="Gambar Akreditasi" style="object-fit: cover; object-position: center center">
+                                <img class="img-fluid object-fit-cover border rounded"
+                                    src="{{ env('APP_URL') . '/image/blog/blog-2.jpeg' }}" alt="Gambar Akreditasi"
+                                    style="aspect-ratio: 16 / 9; object-fit: cover; object-position: center center">
                             </div>
                         </div>
                     </div>
-                    <hr>
+                    <div class="single-post row">
+                        <div class="col-lg-12 col-md-12">
+                            <p class="text-justify" style="font-size: 1rem">
+                                <strong>Lhokseumawe</strong> - Mahasiswa Politeknik Negeri Lhokseumawe (PNL) kembali
+                                mendulang medali di ajang Pekan Olahraga Mahasiswa Daerah (POMDA) 2023 di Universitas
+                                Malikussaleh Lhokseumawe.<br><br>
+
+                                Kabar gembira ini disampakan langsung oleh Wakil Direktur I Bidang Akademik, Kemahasiswaan,
+                                dan Alumni Ir. Zamzami, ST., M.Eng.<br><br>
+
+                                Alhamdulillah mahasiswa kita kembali meraih medali di ajang POMDA di cabor Karate PNL meraih
+                                1 emas 1 perak 2 perunggu dan Pencak silat PNL meraih 4 perunggu setelah sebelumnya dari
+                                taekwondo dan kempo kita juga meraih medali," Jelasnya kepada tim humas PNL Jumat,
+                                (22/09/2023).<br><br>
+
+                                Lebih lanjut Zamzami berpesan kepada seluruh atlit agar tetap semangat dan tetap menjaga
+                                kondisi.<br><br>
+
+                                "Untuk atlit yang belum meraih medali jangan berkecil hati terus berlatih dan tingkatkan
+                                memampuan dan untuk cabor yang berpotensi meraih medali manfaatkan kesempatan yang ada, "
+                                harap Zamzami.<br><br>
+
+                                Adapun mahasiswa yang meraih medali dari cabor Pencak Silat yaitu Wiesnu Hadi Sunjaya peraih
+                                medali perunggu dari Jurusan Teknik Kimia, T.M. Sultan peraih medali perunggu dari Jurusan
+                                Teknik Sipil, Rahman Ardhani peraih medali perunggu dari Jurusan Teknik Mesin, dan Rafdy
+                                Fahreza peraih medali perunggu dari Jurusan Teknik Elektro.<br><br>
+
+                                Selanjutnya dari cabor Karate yaitu Frans Halomoan peraih medali emas dari Jurusan TIK, Suci
+                                Ramadhani peraih medali perak dari Jurusan Teknik Kimia, Dian Safira peraih medali perunggu
+                                dari Jurusan TIK, dan Kausar Khawarizmi peraih medali perunggu dari Jurusan Teknik
+                                Elektro.<br><br>
+                        </div>
+                    </div>
                 </div>
                 <div class="col-lg-4 sidebar-widgets">
                     <div class="widget-wrap">
-                        {{-- <div class="single-sidebar-widget search-widget">
+                        <div class="single-sidebar-widget search-widget">
                             <form class="search-form" action="#">
                                 <input placeholder="Search Posts" name="search" type="text"
                                     onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search Posts'">
@@ -101,7 +135,7 @@
                                 itssuppor
                                 ters andits detractors.
                             </p>
-                        </div> --}}
+                        </div>
                         <div class="single-sidebar-widget popular-post-widget">
                             <h4 class="popular-title">Popular Posts</h4>
                             <div class="popular-post-list">

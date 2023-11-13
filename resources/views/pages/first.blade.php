@@ -8,11 +8,10 @@
             <div class="row d-flex align-items-center justify-content-center">
                 <div class="about-content col-lg-12">
                     <h1 class="text-white text-uppercase">
-                        STRUKTUR PIMPINAN
+                        BERITA & INFORMASI
                     </h1>
                     <p class="text-white link-nav"><a href="{{ route('static.index') }}">Home </a> <span
-                            class="lnr lnr-arrow-right"></span><a href="{{ route('static.strukturPimpinan') }}">Struktur
-                            Pimpinan</a>
+                            class="lnr lnr-arrow-right"></span><a href="{{ route('static.berita') }}">Berita</a>
                     </p>
                 </div>
             </div>
@@ -55,53 +54,54 @@
                                 </ul>
                             </div>
                         </div> --}}
-                        <div class="col-lg-12 col-md-12">
-                            <h3 class="mt-20 mb-20">STRUKTUR PIMPINAN</h3>
-                        </div>
                         <div class="col-lg-12 col-md-12 my-2">
-                            <p> Struktur Pimpinan Program Studi Teknik Informatika</p>
+                            <h3 class="mt-20 mb-10">Wakil Direktur III PNL Hadiri Pembukaan POMDA 2023</h3>
                         </div>
-                        <div class="col-lg-12">
+                        <div class="col-lg-12 col-md-12 ">
+                            <div class="text-black-50 text-sm-right display-6">
+                                18 September 2023 | 3 Dikunjungi
+                            </div>
+                        </div>
+                        <div class="my-2 col-lg-12">
                             <div class="feature-img">
-                                <img class="img-fluid" src="http://localhost:8000/image/prodi/Struktur_Pimpinan.png "
-                                    alt="Gambar Akreditasi" style="object-fit: cover; object-position: center center">
+                                <img class="img-fluid object-fit-cover border rounded"
+                                    src="{{ env('APP_URL') . '/image/blog/blog-1.jpeg' }}" alt="Gambar Akreditasi"
+                                    style="aspect-ratio: 16 / 9; object-fit: cover; object-position: center center">
                             </div>
                         </div>
                     </div>
-                    <hr>
-                </div>
-                <div class="col-lg-4 sidebar-widgets">
-                    <div class="widget-wrap">
-                        {{-- <div class="single-sidebar-widget search-widget">
-                            <form class="search-form" action="#">
-                                <input placeholder="Search Posts" name="search" type="text"
-                                    onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search Posts'">
-                                <button type="submit"><i class="fa fa-search"></i></button>
-                            </form>
+                    <div class="single-post row">
+                        <div class="col-lg-12 col-md-12">
+                            <p class="text-justify" style="font-size: 1rem">
+                                <strong>Lhokseumawe</strong> - Direktur Politeknik Negeri Lhokseumawe (PNL) Ir. Rizal
+                                Syahyadi, ST.,
+                                M.Eng.Sc., IPM., ASEAN.Eng melalui Wakil Direktur III Bidang Perencanaan, Kerjasama, dan
+                                Sistem Informasi Ir. Sariyusda, M.T hadiri acara pembukaan Pekan Olahraga Mahasiswa Daerah
+                                (POMDA) 2023 di Lapangan bola Universitas Malikussaleh, minggu (17/09/2023). <br><br>
+
+                                Dalam keterangannya Sariyusda mengatakan kepada seluruh atlit untuk selalu jaga nama baik
+                                almamater, jaga sportifitas, jaga kesehatan, dan selalu disiplin karena disiplin merupakan
+                                kunci kesuksesan.<br><br>
+
+                                "Sebagai atlit kalian harus disiplin tidak boleh begadang dan jangan makan sembarangan,"
+                                kata Yusda demikian biasa ia disapa.<br><br>
+
+                                Lebih lanjut Yusda menegaskan kepada seluruh peserta, PNL akan bertindak tegas kepada
+                                peserta yang tidak disiplin.<br><br>
+
+                                "Kenapa saya tegas karena ini untuk kesuksesan kalian dan juga PNL, izin dengan orang tua
+                                minta restu dengan orang tua berikan yang terbaik untuk PNL," jelas Yusda.<br><br>
+
+                                Seperti yang diketahui POMDA 2023 akan diselenggarankan di Universutas Malikussaleh
+                                Lhokseumawe pada 16 hingga 23 September 2023.<br><br>
+
+                                Ditahun ini PNL mengirim 46 orangatlit dari 8 cabang olah raya yaitu Silat, Bulu tangkis,
+                                Karate, Taekwondo, Atletik, Panjat Tebing, Kempo, dan Catur.<br><br>
                         </div>
-                        <div class="single-sidebar-widget user-info-widget">
-                            <img src="img/blog/user-info.png" alt="">
-                            <a href="#">
-                                <h4>Charlie Barber</h4>
-                            </a>
-                            <p>
-                                Senior blog writer
-                            </p>
-                            <ul class="social-links">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-github"></i></a></li>
-                                <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                            </ul>
-                            <p>
-                                Boot camps have its supporters andit sdetractors. Some people do not
-                                understand
-                                why you
-                                should have to spend money on boot camp when you can get. Boot camps have
-                                itssuppor
-                                ters andits detractors.
-                            </p>
-                        </div> --}}
+                    </div>
+                </div>
+                {{-- <div class="col-lg-4 sidebar-widgets">
+                    <div class="widget-wrap">
                         <div class="single-sidebar-widget popular-post-widget">
                             <h4 class="popular-title">Popular Posts</h4>
                             <div class="popular-post-list">
@@ -154,7 +154,7 @@
                         {{-- <div class="single-sidebar-widget ads-widget">
                             <a href="#"><img class="img-fluid" src="img/blog/ads-banner.jpg" alt=""></a>
                         </div> --}}
-                        {{-- <div class="single-sidebar-widget post-category-widget">
+                {{-- <div class="single-sidebar-widget post-category-widget">
                             <h4 class="category-title">Post Catgories</h4>
                             <ul class="cat-list">
                                 <li>
@@ -243,9 +243,9 @@
                                 <li><a href="#">Adventure</a></li>
                             </ul>
                         </div> --}}
-                    </div>
-                </div>
             </div>
+        </div> --}}
+        </div>
         </div>
     </section>
     <!-- End post-content Area -->
