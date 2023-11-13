@@ -83,7 +83,7 @@
                                     <li><a href="{{ route('static.kuesionerAlumni') }}">Kuesioner Alumni</a></li>
                                 </ul>
                             </li>
-                            <li><a href="{{route('static.pengumuman')}}">PENGUMUMAN</a></li>
+                            <li><a href="{{route('static.berita')}}">Berita</a></li>
                             <li><a href="contact.html">KURIKULUM</a></li>
                         </ul>
                     </nav><!-- #nav-menu-container -->
@@ -106,7 +106,7 @@
                         <ul>
                             <li><a href="#">Home</a></li>
                             <li><a href="#">Tentang</a></li>
-                            <li><a href="#">Pengumuman</a></li>
+                            <li><a href="#">Berita</a></li>
                             <li><a href="#">Blog</a></li>
                         </ul>
                     </div>
