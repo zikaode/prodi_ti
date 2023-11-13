@@ -22,7 +22,7 @@
                         Nasional Perguruan Tinggi Departemen Pendidikan Nasional Republik Indonesia Nomor :
                         3565/SK/BAN-PT/AKRED/DIPL-IV/XII/2018 Tanggal 28 Desember 2018.
                     </p>
-                    <a href="/about.html" class="primary-btn text-uppercase">Tentang Kami</a>
+                    <a href="/tentang" class="primary-btn text-uppercase">Tentang Kami</a>
                 </div>
             </div>
         </div>
@@ -106,7 +106,7 @@
                         Wakil Direktur III Ir. Sariyusda, M.T hadiri acara pembukaan Pekan Olahraga Mahasiswa Daerah
                         (POMDA)..
                     </p>
-                    <a href="/berita/2" class="details-btn d-flex justify-content-center align-items-center"><span
+                    <a href="/berita/1" class="details-btn d-flex justify-content-center align-items-center"><span
                             class="details">Details</span><span class="lnr lnr-arrow-right"></span></a>
                 </div>
                 <div class="col-lg-3 col-md-6 single-blog">
