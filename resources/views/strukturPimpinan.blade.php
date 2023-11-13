@@ -72,7 +72,7 @@
                 </div>
                 <div class="col-lg-4 sidebar-widgets">
                     <div class="widget-wrap">
-                        <div class="single-sidebar-widget search-widget">
+                        {{-- <div class="single-sidebar-widget search-widget">
                             <form class="search-form" action="#">
                                 <input placeholder="Search Posts" name="search" type="text"
                                     onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search Posts'">
@@ -101,7 +101,7 @@
                                 itssuppor
                                 ters andits detractors.
                             </p>
-                        </div>
+                        </div> --}}
                         <div class="single-sidebar-widget popular-post-widget">
                             <h4 class="popular-title">Popular Posts</h4>
                             <div class="popular-post-list">

@@ -100,38 +100,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 sidebar-widgets">
+                {{-- <div class="col-lg-4 sidebar-widgets">
                     <div class="widget-wrap">
-                        <div class="single-sidebar-widget search-widget">
-                            <form class="search-form" action="#">
-                                <input placeholder="Search Posts" name="search" type="text"
-                                    onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search Posts'">
-                                <button type="submit"><i class="fa fa-search"></i></button>
-                            </form>
-                        </div>
-                        <div class="single-sidebar-widget user-info-widget">
-                            <img src="img/blog/user-info.png" alt="">
-                            <a href="#">
-                                <h4>Charlie Barber</h4>
-                            </a>
-                            <p>
-                                Senior blog writer
-                            </p>
-                            <ul class="social-links">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-github"></i></a></li>
-                                <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                            </ul>
-                            <p>
-                                Boot camps have its supporters andit sdetractors. Some people do not
-                                understand
-                                why you
-                                should have to spend money on boot camp when you can get. Boot camps have
-                                itssuppor
-                                ters andits detractors.
-                            </p>
-                        </div>
                         <div class="single-sidebar-widget popular-post-widget">
                             <h4 class="popular-title">Popular Posts</h4>
                             <div class="popular-post-list">
@@ -184,7 +154,7 @@
                         {{-- <div class="single-sidebar-widget ads-widget">
                             <a href="#"><img class="img-fluid" src="img/blog/ads-banner.jpg" alt=""></a>
                         </div> --}}
-                        {{-- <div class="single-sidebar-widget post-category-widget">
+                {{-- <div class="single-sidebar-widget post-category-widget">
                             <h4 class="category-title">Post Catgories</h4>
                             <ul class="cat-list">
                                 <li>
@@ -273,9 +243,9 @@
                                 <li><a href="#">Adventure</a></li>
                             </ul>
                         </div> --}}
-                    </div>
-                </div>
             </div>
+        </div> --}}
+        </div>
         </div>
     </section>
     <!-- End post-content Area -->
