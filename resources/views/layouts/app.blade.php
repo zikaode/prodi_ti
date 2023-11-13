@@ -76,11 +76,11 @@
                                     <li><a href="{{ route('static.strukturPimpinan') }}">Struktur Pimpinan</a></li>
                                     <li class="menu-has-children"><a href="">Fasilitas </a>
                                         <ul>
-                                            <li><a href="{{ route('static.laboratorium') }}">Umum</a></li>
-                                            <li><a href="{{ route('static.laboratorium') }}">Ruang Kuliah</a></li>
-                                            <li><a href="{{ route('static.laboratorium') }}">Ruang Dosen</a></li>
+                                            <li><a href="{{ route('static.general') }}">Umum</a></li>
+                                            <li><a href="{{ route('static.ruangkuliah') }}">Ruang Kuliah</a></li>
+                                            <li><a href="{{ route('static.ruangdosen') }}">Ruang Dosen</a></li>
                                             <li><a href="{{ route('static.laboratorium') }}">laboratorium</a></li>
-                                            <li><a href="{{ route('static.laboratorium') }}">Perpustakaan</a></li>
+                                            <li><a href="{{ route('static.perpustakaan') }}">Perpustakaan</a></li>
                                             {{-- <li><a href="{{ route('static.laboratorium') }}">Akses Internet</a></li> --}}
                                         </ul>
                                     </li>
