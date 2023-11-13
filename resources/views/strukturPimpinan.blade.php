@@ -63,7 +63,7 @@
                         </div>
                         <div class="col-lg-12">
                             <div class="feature-img">
-                                <img class="img-fluid" src="http://localhost:8000/image/prodi/Struktur_Pimpinan.png "
+                                <img class="img-fluid" src="{{ env('APP_URL') . '/image/prodi/Struktur_Pimpinan.png' }}"
                                     alt="Gambar Akreditasi" style="object-fit: cover; object-position: center center">
                             </div>
                         </div>
