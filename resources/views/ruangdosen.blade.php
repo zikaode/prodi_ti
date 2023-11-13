@@ -30,7 +30,8 @@
                         </div>
                         <div class="col-lg-12 mb-4 widget-image">
                             <div class="content col-12" style="width: auto; height: auto%;">
-                                <img src="{{ asset('image/umum/bannerrrd.jpg') }}" class="card-img-top" alt="...">
+                                <img src="{{ env('APP_URL') . '/image/umum/bannerrrd.jpg' }}" class="card-img-top"
+                                    alt="...">
                             </div>
                         </div>
                     </div>
@@ -40,7 +41,7 @@
                     <div class="col-lg-12 col-md-6 d-flex justify-content-center align-items-center mb-3"
                         style="box-shadow: 100px">
                         <div class="card mx-1" style="width: 18rem; height: 15rem;">
-                            <img src="{{ asset('image/ruang/rd.jpg') }}" class="card-img-top" alt="..."
+                            <img src="{{ env('APP_URL') . '/image/ruang/rd.jpg' }}" class="card-img-top" alt="..."
                                 style="height: 10rem">
                             <div class="card-body">
                                 <h5 class="card-title text-center"><a href="#" class="text-black">Ruang Dosen</a></h5>
