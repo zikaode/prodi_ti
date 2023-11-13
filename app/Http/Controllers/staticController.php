@@ -49,6 +49,25 @@ class staticController extends Controller
     {
         return view('laboratorium');
     }
+    public function ruangdosen()
+    {
+        return view('ruangdosen');
+    }
+
+    public function ruangkuliah()
+    {
+        return view('ruangkuliah');
+    }
+
+    public function general()
+    {
+        return view('general');
+    }
+
+    public function perpustakaan()
+    {
+        return view('perpustakaan');
+    }
 
     public function pages($param)
     {
