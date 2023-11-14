@@ -22,44 +22,15 @@
     <section class="post-content-area single-post-area">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12s posts-list">
+                <div class="col-lg-12s posts-list" style="max-width: 100%">
                     <div class="single-post row">
-                        {{-- <div class="col-lg-12">
-                            <div class="feature-img">
-                                <img class="img-fluid" src="{{ env('APP_URL') . '/image/blog/feature-img1.jpg' }}" alt="">
-                            </div>
-                        </div> --}}
-                        {{-- <div class="col-lg-3  col-md-3 meta-details">
-                            <ul class="tags">
-                                <li><a href="#">Food,</a></li>
-                                <li><a href="#">Technology,</a></li>
-                                <li><a href="#">Politics,</a></li>
-                                <li><a href="#">Lifestyle</a></li>
-                            </ul>
-                            <div class="user-details row">
-                                <p class="user-name col-lg-12 col-md-12 col-6"><a href="#">Mark wiens</a> <span
-                                        class="lnr lnr-user"></span></p>
-                                <p class="date col-lg-12 col-md-12 col-6"><a href="#">12 Dec, 2017</a> <span
-                                        class="lnr lnr-calendar-full"></span></p>
-                                <p class="view col-lg-12 col-md-12 col-6"><a href="#">1.2M Views</a> <span
-                                        class="lnr lnr-eye"></span></p>
-                                <p class="comments col-lg-12 col-md-12 col-6"><a href="#">06 Comments</a> <span
-                                        class="lnr lnr-bubble"></span></p>
-                                <ul class="social-links col-lg-12 col-md-12 col-6">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-github"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                </ul>
-                            </div>
-                        </div> --}}
                         <div class="col-lg-12 col-md-12">
                             <h3 class="mt-20 mb-20">DATA DOSEN</h3>
                         </div>
                         <div class="col-lg-12 col-md-12 my-2">
                             <p> Data Dosen Program Studi Teknik Informatika</p>
                         </div>
-                        <div class="section-top-border col-lg-12 mx-2">
+                        <div class="section-top-border col-lg-12">
                             <div class="progress-table-wrap">
                                 <div class="progress-table full-width">
                                     <div class="table-head">
@@ -194,71 +165,6 @@
                             </div>
                         </div>
                     </div>
-                    {{-- <hr> --}}
-                    {{-- <div class="single-post row">
-                        <div class="col-lg-12">
-                            <div class="feature-img">
-                                <img class="img-fluid" src="{{ env('APP_URL') . '/image/blog/feature-img1.jpg' }}" alt="">
-                            </div>
-                        </div>
-                        <div class="col-lg-3  col-md-3 meta-details">
-                            <ul class="tags">
-                                <li><a href="#">Food,</a></li>
-                                <li><a href="#">Technology,</a></li>
-                                <li><a href="#">Politics,</a></li>
-                                <li><a href="#">Lifestyle</a></li>
-                            </ul>
-                            <div class="user-details row">
-                                <p class="user-name col-lg-12 col-md-12 col-6"><a href="#">Mark wiens</a> <span
-                                        class="lnr lnr-user"></span></p>
-                                <p class="date col-lg-12 col-md-12 col-6"><a href="#">12 Dec, 2017</a> <span
-                                        class="lnr lnr-calendar-full"></span></p>
-                                <p class="view col-lg-12 col-md-12 col-6"><a href="#">1.2M Views</a> <span
-                                        class="lnr lnr-eye"></span></p>
-                                <p class="comments col-lg-12 col-md-12 col-6"><a href="#">06 Comments</a> <span
-                                        class="lnr lnr-bubble"></span></p>
-                                <ul class="social-links col-lg-12 col-md-12 col-6">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-github"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        
-                    </div> --}}
-                    {{-- <hr> --}}
-                    {{-- <div class="single-post row"> --}}
-                    {{-- <div class="col-lg-12">
-                            <div class="feature-img">
-                                <img class="img-fluid" src="{{ env('APP_URL') . '/image/blog/feature-img1.jpg' }}" alt="">
-                            </div>
-                        </div> --}}
-                    {{-- <div class="col-lg-3  col-md-3 meta-details">
-                            <ul class="tags">
-                                <li><a href="#">Food,</a></li>
-                                <li><a href="#">Technology,</a></li>
-                                <li><a href="#">Politics,</a></li>
-                                <li><a href="#">Lifestyle</a></li>
-                            </ul>
-                            <div class="user-details row">
-                                <p class="user-name col-lg-12 col-md-12 col-6"><a href="#">Mark wiens</a> <span
-                                        class="lnr lnr-user"></span></p>
-                                <p class="date col-lg-12 col-md-12 col-6"><a href="#">12 Dec, 2017</a> <span
-                                        class="lnr lnr-calendar-full"></span></p>
-                                <p class="view col-lg-12 col-md-12 col-6"><a href="#">1.2M Views</a> <span
-                                        class="lnr lnr-eye"></span></p>
-                                <p class="comments col-lg-12 col-md-12 col-6"><a href="#">06 Comments</a> <span
-                                        class="lnr lnr-bubble"></span></p>
-                                <ul class="social-links col-lg-12 col-md-12 col-6">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-github"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                </ul>
-                            </div>
-                        </div> --}}
-                    {{-- </div> --}}
                 </div>
             </div>
         </div>
