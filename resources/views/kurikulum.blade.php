@@ -156,8 +156,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1qangeaUcdXdW6jm9cJQtlybiJ5CTytvL/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1qangeaUcdXdW6jm9cJQtlybiJ5CTytvL/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">03</div>
@@ -167,8 +167,8 @@
                                         <div class="jam">3</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1jV0DRYs4_uwFypsVk9EZSz1Ua9ygskSh/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1jV0DRYs4_uwFypsVk9EZSz1Ua9ygskSh/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">04</div>
@@ -226,8 +226,8 @@
                                         <div class="jam">3</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1FeV4Rf8XcgR_NVxoP-2brI_E7co2Q6bP/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1FeV4Rf8XcgR_NVxoP-2brI_E7co2Q6bP/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">09</div>
@@ -237,8 +237,8 @@
                                         <div class="jam">4</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1nPpdteWNGsqvbjlvucRMocLnSqQ88BEr/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1nPpdteWNGsqvbjlvucRMocLnSqQ88BEr/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">10</div>
@@ -248,8 +248,8 @@
                                         <div class="jam">5</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1JdqFDjZXEHZF_2_18denjnLWIJFPSU8f/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1JdqFDjZXEHZF_2_18denjnLWIJFPSU8f/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">11</div>
@@ -259,8 +259,8 @@
                                         <div class="jam">5</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1a0rxM8wghMBDlBTvzW8T3098_W6sOXb5/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1a0rxM8wghMBDlBTvzW8T3098_W6sOXb5/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan text-dark">#</div>
@@ -295,8 +295,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1Qlf3uOF0DTq6gKe1cFQpnnxYYrX__gyw/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1Qlf3uOF0DTq6gKe1cFQpnnxYYrX__gyw/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">02</div>
@@ -308,8 +308,8 @@
                                         <div class="jam">3</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1SYnB_wTf1oMXQgnNTBezqu0f_6nFONr0/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1SYnB_wTf1oMXQgnNTBezqu0f_6nFONr0/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">03</div>
@@ -335,8 +335,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1CbmZte0OnmhusEkG2HCU8VMb7liKsWri/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1CbmZte0OnmhusEkG2HCU8VMb7liKsWri/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">05</div>
@@ -361,9 +361,7 @@
                                         </div>
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
-                                        <div class="rps"><a
-                                            href=""
-                                            target="_blank">Unduh</a></div>
+                                        <div class="rps"><a href="" target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">07</div>
@@ -375,8 +373,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1KYiwF-_lvB3TZwjazJG4xqb_vawiRtjA/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1KYiwF-_lvB3TZwjazJG4xqb_vawiRtjA/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">08</div>
@@ -415,9 +413,7 @@
                                         </div>
                                         <div class="jam">6</div>
                                         <div class="sks">2</div>
-                                        <div class="rps"><a
-                                            href=""
-                                            target="_blank">Unduh</a></div>
+                                        <div class="rps"><a href="" target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">11</div>
@@ -429,8 +425,8 @@
                                         <div class="jam">6</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1yNW8eG05vkexyzJkNpPGFITqyk0AxroP/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1yNW8eG05vkexyzJkNpPGFITqyk0AxroP/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan text-dark">#</div>
@@ -464,8 +460,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1vvOvjNmW7CE8QVd7MsA9zf88OiEy_DHk/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1vvOvjNmW7CE8QVd7MsA9zf88OiEy_DHk/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">02</div>
@@ -477,8 +473,8 @@
                                         <div class="jam">3</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1GVssZKdqhpx59vG8sL4uL8XuXV1gxabh/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1GVssZKdqhpx59vG8sL4uL8XuXV1gxabh/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">03</div>
@@ -490,8 +486,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/18zPrn8FhCZN2GSFhlwF1VA7sV99ETGGs/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/18zPrn8FhCZN2GSFhlwF1VA7sV99ETGGs/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">04</div>
@@ -517,8 +513,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1UW2I_UNE7Q5b2W2TlIQNQf98TsU3ODpb/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1UW2I_UNE7Q5b2W2TlIQNQf98TsU3ODpb/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">06</div>
@@ -530,8 +526,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1B70lCKY7IV39_f_no8PDp21VFKqUgGkz/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1B70lCKY7IV39_f_no8PDp21VFKqUgGkz/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">07</div>
@@ -543,8 +539,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1y93c5zzFRMw3VcvWzPC07XjWrh7noihl/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1y93c5zzFRMw3VcvWzPC07XjWrh7noihl/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">08</div>
@@ -556,8 +552,8 @@
                                         <div class="jam">6</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1rEXegWM_fhHxYyWMV6eTkeKWy9LEYF-7/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1rEXegWM_fhHxYyWMV6eTkeKWy9LEYF-7/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">09</div>
@@ -569,8 +565,8 @@
                                         <div class="jam">6</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1rcbIjVpQLs68Ye5AxA_Jkhzvttit4L_A/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1rcbIjVpQLs68Ye5AxA_Jkhzvttit4L_A/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">10</div>
@@ -581,9 +577,7 @@
                                         </div>
                                         <div class="jam">3</div>
                                         <div class="sks">1</div>
-                                        <div class="rps"><a
-                                            href=""
-                                            target="_blank">Unduh</a></div>
+                                        <div class="rps"><a href="" target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">11</div>
@@ -595,8 +589,8 @@
                                         <div class="jam">6</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1dZab3LlV182vUeO7tNMKNF1ABtTOYcnT/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1dZab3LlV182vUeO7tNMKNF1ABtTOYcnT/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan text-dark">#</div>
@@ -631,8 +625,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/19rpY6G1YCtJc3FsuaBKIuJM02MCEkDSM/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/19rpY6G1YCtJc3FsuaBKIuJM02MCEkDSM/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">02</div>
@@ -644,8 +638,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1yAsdwzuGSxgCd9CYjTKuNrU7qfpyNFN5/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1yAsdwzuGSxgCd9CYjTKuNrU7qfpyNFN5/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">03</div>
@@ -657,8 +651,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1VCoGXF_fV4ncgS2kkGIjL4B2mgGwauGv/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1VCoGXF_fV4ncgS2kkGIjL4B2mgGwauGv/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">04</div>
@@ -670,8 +664,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1RUBsD8hlxbm1U2bPDFGOih1clMw52Lmt/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1RUBsD8hlxbm1U2bPDFGOih1clMw52Lmt/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">05</div>
@@ -711,8 +705,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1TwJD4R5S-Kg_PUdeFAzGPXV7yEKPG12H/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1TwJD4R5S-Kg_PUdeFAzGPXV7yEKPG12H/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">08</div>
@@ -724,8 +718,8 @@
                                         <div class="jam">6</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1ftvw6sbmwkSz_BTZaQd6Q5Wya0Egn3TX/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1ftvw6sbmwkSz_BTZaQd6Q5Wya0Egn3TX/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">09</div>
@@ -737,8 +731,8 @@
                                         <div class="jam">6</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1fx1UmRZ7SLkV17rAIISZ9qKIpabuZjhE/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1fx1UmRZ7SLkV17rAIISZ9qKIpabuZjhE/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">10</div>
@@ -764,8 +758,8 @@
                                         <div class="jam">3</div>
                                         <div class="sks">1</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1Lube47tePUfUbJOOl111slBdkZe_3REA/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1Lube47tePUfUbJOOl111slBdkZe_3REA/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">12</div>
@@ -777,8 +771,8 @@
                                         <div class="jam">3</div>
                                         <div class="sks">1</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1evpZmCTQD7i2efKEJouD3PdXYMWiampn/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1evpZmCTQD7i2efKEJouD3PdXYMWiampn/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">13</div>
@@ -790,8 +784,8 @@
                                         <div class="jam">3</div>
                                         <div class="sks">1</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1vWHzMnlrujMYzaGUSRdcuC5r4njdnZ0R/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1vWHzMnlrujMYzaGUSRdcuC5r4njdnZ0R/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan text-dark">#</div>
@@ -826,8 +820,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1jSkAZrwg5HdPirjWXJT942gscBDtnO9e/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1jSkAZrwg5HdPirjWXJT942gscBDtnO9e/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">02</div>
@@ -839,8 +833,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/12yWBHnRjQHusEjo666FIWONOopoTmtaG/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/12yWBHnRjQHusEjo666FIWONOopoTmtaG/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">03</div>
@@ -852,8 +846,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/155NuwVexi1CXQZxjAQNn7I03swVGpVgJ/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/155NuwVexi1CXQZxjAQNn7I03swVGpVgJ/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">04</div>
@@ -892,8 +886,8 @@
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1t4vbj6SnHFSqTsz2h6qlpp0B8dFv_ZOy/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1t4vbj6SnHFSqTsz2h6qlpp0B8dFv_ZOy/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">07</div>
@@ -918,9 +912,7 @@
                                         </div>
                                         <div class="jam">4</div>
                                         <div class="sks">1</div>
-                                        <div class="rps"><a
-                                            href=""
-                                            target="_blank">Unduh</a></div>
+                                        <div class="rps"><a href="" target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">09</div>
@@ -932,8 +924,8 @@
                                         <div class="jam">6</div>
                                         <div class="sks">2</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1fx1UmRZ7SLkV17rAIISZ9qKIpabuZjhE/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1fx1UmRZ7SLkV17rAIISZ9qKIpabuZjhE/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">10</div>
@@ -945,8 +937,8 @@
                                         <div class="jam">4</div>
                                         <div class="sks">1</div>
                                         <div class="rps"><a
-                                            href="https://drive.google.com/file/d/1BxncK0-VEQUzT80rIsM-YfudI4c6UHEA/view?usp=drive_link"
-                                            target="_blank">Unduh</a></div>
+                                                href="https://drive.google.com/file/d/1BxncK0-VEQUzT80rIsM-YfudI4c6UHEA/view?usp=drive_link"
+                                                target="_blank">Unduh</a></div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">11</div>
@@ -994,7 +986,10 @@
                                         </div>
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
-                                        <div class="rps">-</div>
+                                        <div class="rps"><a
+                                                href="https://drive.google.com/file/d/1n4VYOW82_mX_4WeLU-waHITRcfbuU4Sj/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
+                                        </div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">02</div>
@@ -1019,7 +1014,8 @@
                                         </div>
                                         <div class="jam">8</div>
                                         <div class="sks">3</div>
-                                        <div class="rps">-</div>
+                                        <div class="rps">-</a>
+                                        </div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">04</div>
@@ -1030,18 +1026,25 @@
                                         </div>
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
-                                        <div class="rps">-</div>
+                                        <div class="rps"><a
+                                                href="https://drive.google.com/file/d/1IU3eoRl-urfiJ87ns52LWAHOwU_xM-97/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
+                                        </div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">05</div>
-                                        <div class="kode">TI1076
+                                        {{-- <div class="kode">TI1076 --}}
+                                        <div class="kode">TI2032
                                         </div>
                                         <div class="mata-kuliah"> P.Computer Vision
 
                                         </div>
                                         <div class="jam">4</div>
                                         <div class="sks">1</div>
-                                        <div class="rps">-</div>
+                                        <div class="rps"><a
+                                                href="https://drive.google.com/file/d/1IU3eoRl-urfiJ87ns52LWAHOwU_xM-97/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
+                                        </div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan text-dark">#</div>
@@ -1103,7 +1106,10 @@
                                         </div>
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
-                                        <div class="rps">-</div>
+                                        <div class="rps"><a
+                                                href="https://drive.google.com/file/d/1IcCQCY2FbWCp1NqGNg2Uea1wXEGT9_c8/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
+                                        </div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">04</div>
@@ -1114,7 +1120,8 @@
                                         </div>
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
-                                        <div class="rps">-</div>
+                                        <div class="rps">-</a>
+                                        </div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">05</div>
@@ -1125,7 +1132,10 @@
                                         </div>
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
-                                        <div class="rps">-</div>
+                                        <div class="rps"><a
+                                                href="https://drive.google.com/file/d/1nFYRaUiYKEyiteWs0VJOUiBBMznLwPN-/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
+                                        </div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">06</div>
@@ -1136,7 +1146,10 @@
                                         </div>
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
-                                        <div class="rps">-</div>
+                                        <div class="rps"><a
+                                                href="https://drive.google.com/file/d/1pN1v6Ab2H1Q0bCBSpvjTi4TeXE6zkqx6/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
+                                        </div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">07</div>
@@ -1147,7 +1160,8 @@
                                         </div>
                                         <div class="jam">6</div>
                                         <div class="sks">2</div>
-                                        <div class="rps">-</div>
+                                        <div class="rps">-</a>
+                                        </div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">08</div>
@@ -1158,7 +1172,10 @@
                                         </div>
                                         <div class="jam">3</div>
                                         <div class="sks">1</div>
-                                        <div class="rps">-</div>
+                                        <div class="rps"><a
+                                                href="https://drive.google.com/file/d/1XdQ88wVkPofgMNGUBeE-dZMFrYtYyAxC/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
+                                        </div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">09</div>
@@ -1169,7 +1186,10 @@
                                         </div>
                                         <div class="jam">4</div>
                                         <div class="sks">1</div>
-                                        <div class="rps">-</div>
+                                        <div class="rps"><a
+                                                href="https://drive.google.com/file/d/1yPglnnrW4uu3t2Q_1BThzsYzlqm7srNF/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
+                                        </div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">10</div>
@@ -1180,7 +1200,10 @@
                                         </div>
                                         <div class="jam">4</div>
                                         <div class="sks">1</div>
-                                        <div class="rps">-</div>
+                                        <div class="rps"><a
+                                                href="https://drive.google.com/file/d/1u2dcit6jZUX86JWKpQSV66zLM8uUmowZ/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
+                                        </div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">11</div>
@@ -1191,7 +1214,10 @@
                                         </div>
                                         <div class="jam">4</div>
                                         <div class="sks">1</div>
-                                        <div class="rps">-</div>
+                                        <div class="rps"><a
+                                                href="https://drive.google.com/file/d/1Ss5VGT621RewoLUZgRkCtZ5S37yuuzV0/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
+                                        </div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan text-dark">#</div>
@@ -1225,17 +1251,23 @@
                                         </div>
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
-                                        <div class="rps">-</div>
+                                        <div class="rps"><a
+                                                href="https://drive.google.com/file/d/1MBi2x3FnIaiFyUqOtCgy_TmB1f2nhCR-/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
+                                        </div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">02</div>
                                         <div class="kode">TI1082
                                         </div>
-                                        <div class="mata-kuliah"> Agama
+                                        <div class="mata-kuliah"> Managemen Proyek TI
                                         </div>
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
-                                        <div class="rps">-</div>
+                                        <div class="rps"><a
+                                                href="https://drive.google.com/file/d/1M4QPvHrjiA4Rlt24NVbOAHyU54hZVAuP/view?usp=drive_link"
+                                                target="_blank">Unduh</a>
+                                        </div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">03</div>
@@ -1245,7 +1277,8 @@
                                         </div>
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
-                                        <div class="rps">-</div>
+                                        <div class="rps">-</a>
+                                        </div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">04</div>
@@ -1256,7 +1289,8 @@
                                         </div>
                                         <div class="jam">20</div>
                                         <div class="sks">6</div>
-                                        <div class="rps">-</div>
+                                        <div class="rps">-</a>
+                                        </div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan text-dark">#</div>

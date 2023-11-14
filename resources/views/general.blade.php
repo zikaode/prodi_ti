@@ -26,7 +26,7 @@
                 <div class="col-lg-12 posts-list">
                     <div class="single-post row">
                         <div class="col-lg-12 col-md-12 text-center">
-                            <h3 class="mt-20 mb-20" style="color: black">FASILITAS umum PROGRAM STUDI TEKNIK INFORMATIKA
+                            <h3 class="mt-20 mb-20" style="color: black">FASILITAS UMUM PROGRAM STUDI TEKNIK INFORMATIKA
                             </h3>
                         </div>
                         <div class="col-lg-12 mb-4 widget-image">

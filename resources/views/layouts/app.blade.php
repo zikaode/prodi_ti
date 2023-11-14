@@ -76,8 +76,8 @@
                                     <li class="menu-has-children"><a href="">Fasilitas </a>
                                         <ul>
                                             <li><a href="{{ route('static.general') }}">Umum</a></li>
-                                            <li><a href="{{ route('static.ruangkuliah') }}">Ruang Kuliah</a></li>
-                                            <li><a href="{{ route('static.ruangdosen') }}">Ruang Dosen</a></li>
+                                            <li><a href="{{ route('static.ruang') }}">Ruang</a></li>
+                                            {{-- <li><a href="{{ route('static.ruangdosen') }}">Ruang Dosen</a></li> --}}
                                             <li><a href="{{ route('static.laboratorium') }}">laboratorium</a></li>
                                             <li><a href="{{ route('static.perpustakaan') }}">Perpustakaan</a></li>
                                             {{-- <li><a href="{{ route('static.laboratorium') }}">Akses Internet</a></li> --}}
@@ -108,27 +108,27 @@
                     <div class="single-footer-widget">
                         <h4>Links</h4>
                         <ul>
-                            <li><a href="#">Home</a></li>
-                            <li><a href="#">Tentang</a></li>
-                            <li><a href="#">Berita & Info</a></li>
+                            <li><a href="/">Home</a></li>
+                            <li><a href="/tentang">Tentang</a></li>
+                            <li><a href="/berita">Berita & Info</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-6 col-sm-6">
                     <div class="single-footer-widget">
-                        <h4>Program Studi</h4>
+                        <h4 style="color: #04091e">-</h4>
                         <ul>
-                            <li><a href="#">Data Dosen</a></li>
-                            <li><a href="#">Fasilitas</a></li>
+                            <li><a href="data-dosen">Data Dosen</a></li>
+                            <li><a href="data-mahasiswa">Data Mahasiswa</a></li>
+                            <li><a href="/fasilitas/general">Fasilitas Umum</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-6 col-sm-6">
                     <div class="single-footer-widget">
-                        <h4>Kurikulum</h4>
+                        <h4 style="color: #04091e">-</h4>
                         <ul>
-                            <li><a href="#">Jadwal Pembelajaran</a></li>
-                            <li><a href="#">Mata Kuliah</a></li>
+                            <li><a href="/kurikulum">Kurikulum</a></li>
                         </ul>
                     </div>
                 </div>
@@ -145,9 +145,9 @@
                                     <input type="text" class="form-control" name="EMAIL"
                                         placeholder="Enter Email Address" onfocus="this.placeholder = ''"
                                         onblur="this.placeholder = 'Enter Email Address '" required=""
-                                        type="email">
+                                        type="email" disabled>
                                     <div class="input-group-btn">
-                                        <button class="btn btn-default" type="submit">
+                                        <button class="btn btn-default" type="submit" disabled>
                                             <span class="lnr lnr-arrow-right"></span>
                                         </button>
                                     </div>

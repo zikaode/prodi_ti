@@ -29,9 +29,9 @@
                             <h3 class="mt-20 mb-20" style="color: black">LABORATORIUM PROGRAM STUDI TEKNIK INFORMATIKA</h3>
                         </div>
                         <div class="col-lg-12 mb-4 widget-image">
-                            <div class="content col-12" style="width: auto; height: auto%;">
-                                <img src="{{ env('APP_URL') . '/image/gallery/lab.jpg' }}" class="card-img-top"
-                                    alt="...">
+                            <div class="content col-12" style="width: auto; height: auto;">
+                                {{-- <img src="{{ env('APP_URL') . '/image/gallery/lab.jpg' }}" class="card-img-top"
+                                    alt="..."> --}}
                             </div>
                         </div>
                     </div>
