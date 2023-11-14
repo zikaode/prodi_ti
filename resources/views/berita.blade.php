@@ -97,38 +97,6 @@
                     </div>
 
                 </div>
-                {{-- <div class="row justify-content-center mb-15">
-                    <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
-                        <div class="card mx-1" style="width: 18rem; height: 15rem;">
-                            <img src="{{ asset('image/gallery/labcontoh.jpg') }}" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM REKAYASA SYSTEM DAN SOFTWARE</a></h5>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
-                        <div class="card mx-1" style="width: 18rem; height: 15rem;">
-                            <img src="{{ asset('image/gallery/labcontoh.jpg') }}" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM REKAYASA SYSTEM DAN SOFTWARE</a></h5>
-                            </div>
-                        </div>
-                    </div> <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
-                        <div class="card mx-1" style="width: 18rem; height: 15rem;">
-                            <img src="{{ asset('image/gallery/labcontoh.jpg') }}" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM REKAYASA SYSTEM DAN SOFTWARE</a></h5>
-                            </div>
-                        </div>
-                    </div> <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
-                        <div class="card mx-1" style="width: 18rem; height: 15rem;">
-                            <img src="{{ asset('image/gallery/labcontoh.jpg') }}" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM REKAYASA SYSTEM DAN SOFTWARE</a></h5>
-                            </div>
-                        </div>
-                    </div>
-                </div> --}}
             </div>
         </div>
     </section>

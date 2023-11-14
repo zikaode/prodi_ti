@@ -30,58 +30,75 @@
                         </div>
                         <div class="col-lg-12 mb-4 widget-image">
                             <div class="content col-12" style="width: auto; height: auto%;">
-                                <img src="{{ asset('image/Umum/pustaka.jpeg') }}" class="card-img-top" alt="...">
+                                <img src="{{ env('APP_URL') . '/image/Umum/pustaka.jpeg' }}" class="card-img-top"
+                                    alt="...">
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <div class="row justify-content-center mb-15">
-                    <div class="card col-lg-3 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
-                        <div class="card-body"  style="width: 17rem; height: 15rem;">
-                            <img src="{{ asset('image/Umum/pustaka1.jpg') }}" class="card-img-top" alt="..."style="width: 15rem; height: 12rem;">
+                    <div class="card col-lg-3 col-md-6 d-flex justify-content-center align-items-center"
+                        style="box-shadow: 100px">
+                        <div class="card-body" style="width: 17rem; height: 15rem;">
+                            <img src="{{ env('APP_URL') . '/image/Umum/pustaka1.jpg' }}" class="card-img-top"
+                                alt="..."style="width: 15rem; height: 12rem;">
                         </div>
                     </div>
-                    <div class="card col-lg-3 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
-                        <div class="card-body"  style="width: 17rem; height: 15rem;">
-                            <img src="{{ asset('image/Umum/pustaka2.jpg') }}" class="card-img-top" alt="..." style="width: 15rem; height: 12rem;">
+                    <div class="card col-lg-3 col-md-6 d-flex justify-content-center align-items-center"
+                        style="box-shadow: 100px">
+                        <div class="card-body" style="width: 17rem; height: 15rem;">
+                            <img src="{{ env('APP_URL') . '/image/Umum/pustaka2.jpg' }}" class="card-img-top" alt="..."
+                                style="width: 15rem; height: 12rem;">
                         </div>
                     </div>
-                    <div class="card col-lg-3 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
-                        <div class="card-body"  style="width: 17rem; height: 15rem;">
-                            <img src="{{ asset('image/Umum/pustaka3.jpg') }}" class="card-img-top" alt="..." style="width: 15rem; height: 12rem;">
+                    <div class="card col-lg-3 col-md-6 d-flex justify-content-center align-items-center"
+                        style="box-shadow: 100px">
+                        <div class="card-body" style="width: 17rem; height: 15rem;">
+                            <img src="{{ env('APP_URL') . '/image/Umum/pustaka3.jpg' }}" class="card-img-top" alt="..."
+                                style="width: 15rem; height: 12rem;">
                         </div>
                     </div>
-                    <div class="card col-lg-3 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
-                        <div class="card-body"  style="width: 17rem; height: 15rem;">
-                            <img src="{{ asset('image/Umum/pustaka4.jpg') }}" class="card-img-top" alt="..." style="width: 15rem; height: 12rem;">
+                    <div class="card col-lg-3 col-md-6 d-flex justify-content-center align-items-center"
+                        style="box-shadow: 100px">
+                        <div class="card-body" style="width: 17rem; height: 15rem;">
+                            <img src="{{ env('APP_URL') . '/image/Umum/pustaka4.jpg' }}" class="card-img-top" alt="..."
+                                style="width: 15rem; height: 12rem;">
                         </div>
                     </div>
                 </div>
 
                 <div class="row justify-content-center mb-15">
-                    <div class="card col-lg-3 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
-                        <div class="card-body"  style="width: 17rem; height: 15rem;">
-                            <img src="{{ asset('image/Umum/pustaka1.jpg') }}" class="card-img-top" alt="..."style="width: 15rem; height: 12rem;">
+                    <div class="card col-lg-3 col-md-6 d-flex justify-content-center align-items-center"
+                        style="box-shadow: 100px">
+                        <div class="card-body" style="width: 17rem; height: 15rem;">
+                            <img src="{{ env('APP_URL') . '/image/Umum/pustaka1.jpg' }}" class="card-img-top"
+                                alt="..."style="width: 15rem; height: 12rem;">
                         </div>
                     </div>
-                    <div class="card col-lg-3 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
-                        <div class="card-body"  style="width: 17rem; height: 15rem;">
-                            <img src="{{ asset('image/Umum/pustaka2.jpg') }}" class="card-img-top" alt="..." style="width: 15rem; height: 12rem;">
+                    <div class="card col-lg-3 col-md-6 d-flex justify-content-center align-items-center"
+                        style="box-shadow: 100px">
+                        <div class="card-body" style="width: 17rem; height: 15rem;">
+                            <img src="{{ env('APP_URL') . '/image/Umum/pustaka2.jpg' }}" class="card-img-top" alt="..."
+                                style="width: 15rem; height: 12rem;">
                         </div>
                     </div>
-                    <div class="card col-lg-3 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
-                        <div class="card-body"  style="width: 17rem; height: 15rem;">
-                            <img src="{{ asset('image/Umum/pustaka3.jpg') }}" class="card-img-top" alt="..." style="width: 15rem; height: 12rem;">
+                    <div class="card col-lg-3 col-md-6 d-flex justify-content-center align-items-center"
+                        style="box-shadow: 100px">
+                        <div class="card-body" style="width: 17rem; height: 15rem;">
+                            <img src="{{ env('APP_URL') . '/image/Umum/pustaka3.jpg' }}" class="card-img-top" alt="..."
+                                style="width: 15rem; height: 12rem;">
                         </div>
                     </div>
-                    <div class="card col-lg-3 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
-                        <div class="card-body"  style="width: 17rem; height: 15rem;">
-                            <img src="{{ asset('image/Umum/pustaka4.jpg') }}" class="card-img-top" alt="..." style="width: 15rem; height: 12rem;">
+                    <div class="card col-lg-3 col-md-6 d-flex justify-content-center align-items-center"
+                        style="box-shadow: 100px">
+                        <div class="card-body" style="width: 17rem; height: 15rem;">
+                            <img src="{{ env('APP_URL') . '/image/Umum/pustaka4.jpg' }}" class="card-img-top"
+                                alt="..." style="width: 15rem; height: 12rem;">
                         </div>
                     </div>
                 </div>
-                
+
             </div>
         </div>
     </section>
