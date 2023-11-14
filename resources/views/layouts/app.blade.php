@@ -22,14 +22,8 @@
     <!--
         CSS
         ============================================= -->
-    <link rel="stylesheet" href="{{ env('APP_URL') . '/css/linearicons.css' }}">
     <link rel="stylesheet" href="{{ env('APP_URL') . '/css/font-awesome.min.css' }}">
     <link rel="stylesheet" href="{{ env('APP_URL') . '/css/bootstrap.css' }}">
-    <link rel="stylesheet" href="{{ env('APP_URL') . '/css/magnific-popup.css' }}">
-    <link rel="stylesheet" href="{{ env('APP_URL') . '/css/nice-select.css' }}">
-    <link rel="stylesheet" href="{{ env('APP_URL') . '/css/animate.min.css' }}">
-    <link rel="stylesheet" href="{{ env('APP_URL') . '/css/owl.carousel.css' }}">
-    <link rel="stylesheet" href="{{ env('APP_URL') . '/css/jquery-ui.css' }}">
     <link rel="stylesheet" href="{{ env('APP_URL') . '/css/main.css' }}">
 </head>
 
@@ -76,11 +70,11 @@
                                     <li><a href="{{ route('static.strukturPimpinan') }}">Struktur Pimpinan</a></li>
                                     <li class="menu-has-children"><a href="">Fasilitas </a>
                                         <ul>
-                                            <li><a href="{{ route('static.laboratorium') }}">Umum</a></li>
-                                            <li><a href="{{ route('static.laboratorium') }}">Ruang Kuliah</a></li>
-                                            <li><a href="{{ route('static.laboratorium') }}">Ruang Dosen</a></li>
+                                            <li><a href="{{ route('static.general') }}">Umum</a></li>
+                                            <li><a href="{{ route('static.ruangkuliah') }}">Ruang Kuliah</a></li>
+                                            <li><a href="{{ route('static.ruangdosen') }}">Ruang Dosen</a></li>
                                             <li><a href="{{ route('static.laboratorium') }}">laboratorium</a></li>
-                                            <li><a href="{{ route('static.laboratorium') }}">Perpustakaan</a></li>
+                                            <li><a href="{{ route('static.perpustakaan') }}">Perpustakaan</a></li>
                                             {{-- <li><a href="{{ route('static.laboratorium') }}">Akses Internet</a></li> --}}
                                         </ul>
                                     </li>
@@ -185,15 +179,7 @@
     </script>
     <script src="{{ env('APP_URL') . '/js/vendor/bootstrap.min.js' }}"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
-    <script src="{{ env('APP_URL') . '/js/easing.min.js' }}"></script>
-    <script src="{{ env('APP_URL') . '/js/hoverIntent.js' }}"></script>
-    <script src="{{ env('APP_URL') . '/js/superfish.min.js' }}"></script>
-    <script src="{{ env('APP_URL') . '/js/jquery.ajaxchimp.min.js' }}"></script>
-    <script src="{{ env('APP_URL') . '/js/jquery.magnific-popup.min.js' }}"></script>
-    <script src="{{ env('APP_URL') . '/js/jquery.tabs.min.js' }}"></script>
-    <script src="{{ env('APP_URL') . '/js/jquery.nice-select.min.js' }}"></script>
-    <script src="{{ env('APP_URL') . '/js/owl.carousel.min.js' }}"></script>
-    <script src="{{ env('APP_URL') . '/js/mail-script.js' }}"></script>
+
     <script src="{{ env('APP_URL') . '/js/main.js' }}"></script>
 </body>
 

@@ -30,54 +30,55 @@
                         </div>
                         <div class="col-lg-12 mb-4 widget-image">
                             <div class="content col-12" style="width: auto; height: auto%;">
-                                <img src="{{ asset('image/gallery/lab.jpg') }}" class="card-img-top" alt="...">
+                                <img src="{{ env('APP_URL') . '/image/gallery/lab.jpg' }}" class="card-img-top"
+                                    alt="...">
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <div class="row justify-content-center mb-15">
-                    <div class="col-lg-3 col-md-6 d-flex justify-content-center align-items-center"
+                    <div class="col-lg-3 col-md-6 d-flex justify-content-center align-items-center mb-3"
                         style="box-shadow: 100px">
                         <div class="card mx-1" style="width: 18rem; height: 15rem;">
-                            <img src="{{ asset('image/gallery/labrkss.jpg') }}" class="card-img-top" alt="..."
+                            <img src="{{ env('APP_URL') . '/image/lab/b11.jpg' }}" class="card-img-top" alt="..."
                                 style="height: 10rem">
                             <div class="card-body">
                                 <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM
-                                        REKAYASA SYSTEM DAN SOFTWARE</a></h5>
+                                        REKAYASA PERANGKAT LUNAK</a></h5>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 d-flex justify-content-center align-items-center"
                         style="box-shadow: 100px">
                         <div class="card mx-1" style="width: 18rem; height: 15rem;">
-                            <img src="{{ asset('image/gallery/labbm.jpg') }}" class="card-img-top" alt="..."
+                            <img src="{{ env('APP_URL') . '/image/lab/b33.jpg' }}" class="card-img-top" alt="..."
                                 style="height: 10rem">
                             <div class="card-body">
-                                <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM
-                                        BOADCASTING DAN MULTIMEDIA</a></h5>
+                                <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM PROSES
+                                        INFORMASI</a></h5>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 d-flex justify-content-center align-items-center"
                         style="box-shadow: 100px">
                         <div class="card mx-1" style="width: 18rem; height: 15rem;">
-                            <img src="{{ asset('image/gallery/labtk.jpg') }}" class="card-img-top" alt="..."
+                            <img src="{{ env('APP_URL') . '/image/lab/b32.jpg' }}" class="card-img-top" alt="..."
                                 style="height: 10rem">
                             <div class="card-body">
-                                <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM
-                                        TEKNOLOGI KOMPUTER </a></h5>
+                                <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM BIG
+                                        DATA </a></h5>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 d-flex justify-content-center align-items-center"
                         style="box-shadow: 100px">
                         <div class="card mx-1" style="width: 18rem; height: 15rem;">
-                            <img src="{{ asset('image/gallery/labjm.jpg') }}" class="card-img-top" alt="..."
+                            <img src="{{ env('APP_URL') . '/image/lab/b9.jpg' }}" class="card-img-top" alt="..."
                                 style="height: 10rem">
                             <div class="card-body">
                                 <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM
-                                        JARINGAN DAN MULTIMEDIA</a></h5>
+                                        JARINGAN KOMPUTER</a></h5>
                             </div>
                         </div>
                     </div>
@@ -86,18 +87,18 @@
                     <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center"
                         style="box-shadow: 100px">
                         <div class="card mx-1" style="width: 18rem; height: 15rem;">
-                            <img src="{{ asset('image/gallery/labsko.jpg') }}" class="card-img-top" alt="..."
+                            <img src="{{ env('APP_URL') . '/image/lab/b28.jpg' }}" class="card-img-top" alt="..."
                                 style="height: 10rem">
                             <div class="card-body">
                                 <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM SISTEM
-                                        KOMPUTER DAN SISTEM OPERASI</a></h5>
+                                        KOMPUTER</a></h5>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center"
                         style="box-shadow: 100px">
                         <div class="card mx-1" style="width: 18rem; height: 15rem;">
-                            <img src="{{ asset('image/gallery/labip.jpg') }}" class="card-img-top" alt="..."
+                            <img src="{{ env('APP_URL') . '/image/lab/b1.jpg' }}" class="card-img-top" alt="..."
                                 style="height: 10rem">
                             <div class="card-body">
                                 <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM
@@ -108,58 +109,110 @@
                     <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center"
                         style="box-shadow: 100px">
                         <div class="card mx-1" style="width: 18rem; height: 15rem;">
-                            <img src="{{ asset('image/gallery/labcv.jpg') }}" class="card-img-top" alt="..."
+                            <img src="{{ env('APP_URL') . '/image/lab/b5.jpg' }}" class="card-img-top" alt="..."
                                 style="height: 10rem">
                             <div class="card-body">
                                 <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM
-                                        COMPUTER VISION</a></h5>
+                                        KOMPUTASI AWAN</a></h5>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center"
                         style="box-shadow: 100px">
                         <div class="card mx-1" style="width: 18rem; height: 15rem;">
-                            <img src="{{ asset('image/gallery/labtl.jpg') }}" class="card-img-top" alt="..."
+                            <img src="{{ env('APP_URL') . '/image/lab/b19.jpg' }}" class="card-img-top" alt="..."
                                 style="height: 10rem">
                             <div class="card-body">
                                 <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM
-                                        TELEMATIKA </a></h5>
+                                        KEAMANAN JARINGAN </a></h5>
                             </div>
                         </div>
                     </div>
                 </div>
-                {{-- <div class="row justify-content-center mb-15">
-                    <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
+                <div class="row justify-content-center mb-15">
+                    <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center"
+                        style="box-shadow: 100px">
                         <div class="card mx-1" style="width: 18rem; height: 15rem;">
-                            <img src="{{ asset('image/gallery/labcontoh.jpg') }}" class="card-img-top" alt="...">
+                            <img src="{{ env('APP_URL') . '/image/lab/b27.jpg' }}" class="card-img-top" alt="...">
                             <div class="card-body">
-                              <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM REKAYASA SYSTEM DAN SOFTWARE</a></h5>
+                                <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM
+                                        PROSES OTOMASI ROBOT</a></h5>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
+                    <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center"
+                        style="box-shadow: 100px">
                         <div class="card mx-1" style="width: 18rem; height: 15rem;">
-                            <img src="{{ asset('image/gallery/labcontoh.jpg') }}" class="card-img-top" alt="...">
+                            <img src="{{ env('APP_URL') . '/image/lab/b28.jpg' }}" class="card-img-top" alt="...">
                             <div class="card-body">
-                              <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM REKAYASA SYSTEM DAN SOFTWARE</a></h5>
-                            </div>
-                        </div>
-                    </div> <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
-                        <div class="card mx-1" style="width: 18rem; height: 15rem;">
-                            <img src="{{ asset('image/gallery/labcontoh.jpg') }}" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM REKAYASA SYSTEM DAN SOFTWARE</a></h5>
-                            </div>
-                        </div>
-                    </div> <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center" style="box-shadow: 100px">
-                        <div class="card mx-1" style="width: 18rem; height: 15rem;">
-                            <img src="{{ asset('image/gallery/labcontoh.jpg') }}" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM REKAYASA SYSTEM DAN SOFTWARE</a></h5>
+                                <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM
+                                        KEAMANAN INFORMASI</a></h5>
                             </div>
                         </div>
                     </div>
-                </div> --}}
+                    <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center"
+                        style="box-shadow: 100px">
+                        <div class="card mx-1" style="width: 18rem; height: 15rem;">
+                            <img src="{{ env('APP_URL') . '/image/lab/b29.jpg' }}" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM
+                                        TELEMATIKA</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center"
+                        style="box-shadow: 100px">
+                        <div class="card mx-1" style="width: 18rem; height: 15rem;">
+                            <img src="{{ env('APP_URL') . '/image/lab/b30.jpg' }}" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title text-center"><a href="#" class="text-black">LAB INFRASTRUKTUR
+                                        JARINGAN</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center mb-15">
+                    <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center"
+                        style="box-shadow: 100px">
+                        <div class="card mx-1" style="width: 18rem; height: 15rem;">
+                            <img src="{{ env('APP_URL') . '/image/lab/b33.jpg' }}" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM
+                                        PROSES INFORMASI</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center"
+                        style="box-shadow: 100px">
+                        <div class="card mx-1" style="width: 18rem; height: 15rem;">
+                            <img src="{{ env('APP_URL') . '/image/lab/b32.jpg' }}" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM BIG
+                                        DATA</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center"
+                        style="box-shadow: 100px">
+                        <div class="card mx-1" style="width: 18rem; height: 15rem;">
+                            <img src="{{ env('APP_URL') . '/image/lab/b29.jpg' }}" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title text-center"><a href="#" class="text-black">LABORATORIUM
+                                        TELEMATIKA</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-md-6 d-flex justify-content-center align-items-center"
+                        style="box-shadow: 100px">
+                        <div class="card mx-1" style="width: 18rem; height: 15rem;">
+                            <img src="{{ env('APP_URL') . '/image/lab/b30.jpg' }}" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title text-center"><a href="#" class="text-black">LAB INFRASTRUKTUR
+                                        JARINGAN</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
