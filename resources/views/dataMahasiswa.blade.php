@@ -262,7 +262,7 @@
                                 ters andits detractors.
                             </p>
                         </div> --}}
-                        <div class="single-sidebar-widget popular-post-widget">
+                        {{-- <div class="single-sidebar-widget popular-post-widget">
                             <h4 class="popular-title">Popular Posts</h4>
                             <div class="popular-post-list">
                                 <div class="single-post-list d-flex flex-row align-items-center">
@@ -310,7 +310,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                         {{-- <div class="single-sidebar-widget ads-widget">
                             <a href="#"><img class="img-fluid" src="img/blog/ads-banner.jpg" alt=""></a>
                         </div> --}}

@@ -49,14 +49,14 @@ class staticController extends Controller
     {
         return view('laboratorium');
     }
-    public function ruangdosen()
-    {
-        return view('ruangdosen');
-    }
+    // public function ruangdosen()
+    // {
+    //     return view('ruangdosen');
+    // }
 
-    public function ruangkuliah()
+    public function ruang()
     {
-        return view('ruangkuliah');
+        return view('ruang');
     }
 
     public function general()

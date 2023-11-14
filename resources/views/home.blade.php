@@ -43,7 +43,7 @@
                                 Fasilitas yang modern untuk bagi mahasiswa,
                                 tenaga pengajar, dan tenaga pendidikan.
                             </p>
-                            <a href="/fasilitas">Selengkapnya</a>
+                            <a href="/fasilitas/general">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -57,7 +57,7 @@
                                 Pelayanan dan informasi tentang administrasi, serta informasi lainya berkaitan dengan
                                 kemahasiswaan.
                             </p>
-                            <a href="/kemahasiswaan">Selengkapnya</a>
+                            <a href="/data-mahasiswa">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -316,7 +316,7 @@
                     <h1>Butuh Berita & Info Yang Lain?</h1>
                 </div>
                 <div class="col-lg-4 cta-right">
-                    <button class="primary-btn wh" href="/berita" disabled>Kunjungi</button>
+                    <a class="primary-btn wh" href="/berita" disabled>Kunjungi</a>
                 </div>
             </div>
         </div>
