@@ -361,7 +361,7 @@
                                         </div>
                                         <div class="jam">2</div>
                                         <div class="sks">2</div>
-                                        <div class="rps"><a href="" target="_blank">Unduh</a></div>
+                                        <div class="rps">-</div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">07</div>
@@ -413,7 +413,7 @@
                                         </div>
                                         <div class="jam">6</div>
                                         <div class="sks">2</div>
-                                        <div class="rps"><a href="" target="_blank">Unduh</a></div>
+                                        <div class="rps">-</div>
                                     </div>
                                     <div class="table-row">
                                         <div class="urutan">11</div>

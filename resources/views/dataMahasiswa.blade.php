@@ -22,7 +22,7 @@
     <section class="post-content-area single-post-area">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 posts-list">
+                <div class="col-lg-12 posts-list">
                     <div class="single-post row">
                         {{-- <div class="col-lg-12">
                             <div class="feature-img">
@@ -61,7 +61,7 @@
                         </div>
                         <div class="row">
                             <div class="col-lg-4 mb-3 col-md-6 d-flex justify-content-center align-items-center">
-                                <div class="card" style="width: 15rem;">
+                                <div class="card" style="width: 100%;">
                                     <a href="https://www.example.com">
                                         <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
                                         <div class="card-body text-center">
@@ -72,7 +72,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-3 col-md-6 d-flex justify-content-center align-items-center">
-                                <div class="card" style="width: 15rem;">
+                                <div class="card" style="width: 100%;">
                                     <a href="https://www.example.com">
                                         <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
                                         <div class="card-body text-center">
@@ -83,7 +83,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-3 col-md-6 d-flex justify-content-center align-items-center">
-                                <div class="card" style="width: 15rem;">
+                                <div class="card" style="width: 100%;">
                                     <a href="https://www.example.com">
                                         <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
                                         <div class="card-body text-center">
@@ -94,7 +94,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-3 col-md-6 d-flex justify-content-center align-items-center">
-                                <div class="card" style="width: 15rem;">
+                                <div class="card" style="width: 100%;">
                                     <a href="https://www.example.com">
                                         <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
                                         <div class="card-body text-center">
@@ -105,7 +105,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-3 col-md-6 d-flex justify-content-center align-items-center">
-                                <div class="card" style="width: 15rem;">
+                                <div class="card" style="width: 100%;">
                                     <a href="https://www.example.com">
                                         <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
                                         <div class="card-body text-center">
@@ -116,7 +116,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-3 col-md-6 d-flex justify-content-center align-items-center">
-                                <div class="card" style="width: 15rem;">
+                                <div class="card" style="width: 100%;">
                                     <a href="https://drive.google.com/open?id=1Ud9DpufImnWFVVKvP7F_CWbDDX7DYsxr">
                                         <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
                                         <div class="card-body text-center">
@@ -127,7 +127,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-3 col-md-6 d-flex justify-content-center align-items-center">
-                                <div class="card" style="width: 15rem;">
+                                <div class="card" style="width: 100%;">
                                     <a
                                         href="https://docs.google.com/spreadsheets/d/12-ZUVWEZz51y4pMs-YdZ6HHmXtl-4Wmt-iQkWsDV2SA/edit?usp=sharing">
                                         <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
@@ -139,7 +139,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-3 col-md-6 d-flex justify-content-center align-items-center">
-                                <div class="card" style="width: 15rem;">
+                                <div class="card" style="width: 100%;">
                                     <a
                                         href="https://docs.google.com/spreadsheets/d/1lUBRn0KLb7bARMfrnuQaJ9K-cj_39gEZNixE09Yxio8/edit?usp=sharing">
                                         <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
@@ -151,7 +151,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 mb-3 col-md-6 d-flex justify-content-center align-items-center">
-                                <div class="card" style="width: 15rem;">
+                                <div class="card" style="width: 100%;">
                                     <a
                                         href="https://docs.google.com/spreadsheets/d/1AZD8x0A5k_Zk3l3SGCyd6OzLv-BPQVN20thEoZUSFPw/edit?usp=sharing">
                                         <img src="{{ asset('image/b4.jpg') }}" class="card-img-top" alt="...">
@@ -230,9 +230,9 @@
                         </div> --}}
                     {{-- </div> --}}
                 </div>
-                <div class="col-lg-4 sidebar-widgets">
+                {{-- <div class="col-lg-4 sidebar-widgets">
                     <div class="widget-wrap">
-                        {{-- <div class="single-sidebar-widget search-widget">
+                        <div class="single-sidebar-widget search-widget">
                             <form class="search-form" action="#">
                                 <input placeholder="Search Posts" name="search" type="text"
                                     onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search Posts'">
@@ -261,8 +261,8 @@
                                 itssuppor
                                 ters andits detractors.
                             </p>
-                        </div> --}}
-                        {{-- <div class="single-sidebar-widget popular-post-widget">
+                        </div>
+                        <div class="single-sidebar-widget popular-post-widget">
                             <h4 class="popular-title">Popular Posts</h4>
                             <div class="popular-post-list">
                                 <div class="single-post-list d-flex flex-row align-items-center">
@@ -310,11 +310,11 @@
                                     </div>
                                 </div>
                             </div>
-                        </div> --}}
-                        {{-- <div class="single-sidebar-widget ads-widget">
+                        </div>
+                        <div class="single-sidebar-widget ads-widget">
                             <a href="#"><img class="img-fluid" src="img/blog/ads-banner.jpg" alt=""></a>
-                        </div> --}}
-                        {{-- <div class="single-sidebar-widget post-category-widget">
+                        </div>
+                        <div class="single-sidebar-widget post-category-widget">
                             <h4 class="category-title">Post Catgories</h4>
                             <ul class="cat-list">
                                 <li>
@@ -402,9 +402,9 @@
                                 <li><a href="#">Lifestyle</a></li>
                                 <li><a href="#">Adventure</a></li>
                             </ul>
-                        </div> --}}
+                        </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
     </section>

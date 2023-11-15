@@ -2179,9 +2179,22 @@ body.mobile-nav-active #mobile-nav-toggle {
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
 }
+.single-feature .title2 {
+    background: #5c8374;
+    padding: 20px 0px;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
 .single-feature .title h4 {
     color: #fff;
 }
+
+.single-feature .title2 h4 {
+    color: #fff;
+}
+
 .single-feature .desc-wrap {
     padding: 20px;
     background-color: #fff;
@@ -2201,6 +2214,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 .single-feature:hover .title {
     background: #5c8374;
+}
+.single-feature:hover .title2 {
+    background: #358770;
 }
 .single-feature:hover .desc-wrap a {
     color: #5c8374;
@@ -2614,7 +2630,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin-bottom: 0px;
 }
 .about-banner {
-    background: url(../image/top-banner.jpg) right no-repeat;
+    background: url(../image/prodi/gedung-tik.jpeg) right no-repeat;
     background-size: cover;
 }
 .about-content {
