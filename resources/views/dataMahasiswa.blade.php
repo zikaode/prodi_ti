@@ -663,203 +663,203 @@
 
                                     <hr>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">01</div>
                                         <div class="nama-mahasiswa">Aditya Fernanda</div>
                                         <div class="nim">2023573010128</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">02</div>
                                         <div class="nama-mahasiswa">Aldi Haryadi</div>
                                         <div class="nim">2023573010129</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">03</div>
                                         <div class="nama-mahasiswa">AMIRUL ZAKIY</div>
                                         <div class="nim">2023573010074</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">04</div>
                                         <div class="nama-mahasiswa">ARIF MUHAMMAD DHANY</div>
                                         <div class="nim">2023573010076</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">05</div>
                                         <div class="nama-mahasiswa">Balqis</div>
                                         <div class="nim">2023573010008</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">06</div>
                                         <div class="nama-mahasiswa">Cynthia Efendi</div>
                                         <div class="nim">2023573010011</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">07</div>
                                         <div class="nama-mahasiswa">Fachrian Albar</div>
                                         <div class="nim">2023573010080</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">08</div>
                                         <div class="nama-mahasiswa">FATHUR RAHMAN</div>
                                         <div class="nim">2023573010136</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">09</div>
                                         <div class="nama-mahasiswa">FEBRYANTI AMELIA PUTRI</div>
                                         <div class="nim">2023573010019</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">10</div>
                                         <div class="nama-mahasiswa">HAVIZIA SALSABILA</div>
                                         <div class="nim">2023573010021</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">11</div>
                                         <div class="nama-mahasiswa">KARTIKA PRATIWI KURNIA</div>
                                         <div class="nim">2023573010024</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">12</div>
                                         <div class="nama-mahasiswa">M. FATHUZ ZAIYAN</div>
                                         <div class="nim">2023573010087</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">13</div>
                                         <div class="nama-mahasiswa">Maulana</div>
                                         <div class="nim">2023573010027</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">14</div>
                                         <div class="nama-mahasiswa">Muhammad Diva Agly</div>
                                         <div class="nim">2023573010029</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">15</div>
                                         <div class="nama-mahasiswa">MUHAMMAD FITRAH DAVID</div>
                                         <div class="nim">2023573010031</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">16</div>
                                         <div class="nama-mahasiswa">Muhammad Nauval Qisti</div>
                                         <div class="nim">2023573010034</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">17</div>
                                         <div class="nama-mahasiswa">MUHAMMAD ZAMZAMI</div>
                                         <div class="nim">2023573010036</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">18</div>
                                         <div class="nama-mahasiswa">NADIA FAZILLAH</div>
                                         <div class="nim">2023573010037</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">19</div>
                                         <div class="nama-mahasiswa">NAFISYA HUSNA</div>
                                         <div class="nim">2023573010041</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">20</div>
                                         <div class="nama-mahasiswa">NURUL SOFIA</div>
                                         <div class="nim">2023573010105</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">21</div>
                                         <div class="nama-mahasiswa">Qorisa Agustia</div>
                                         <div class="nim">2023573010047</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">22</div>
                                         <div class="nama-mahasiswa">REYZA MAULANA PUTRA</div>
                                         <div class="nim">2023573010052</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">23</div>
                                         <div class="nama-mahasiswa">RIZKY AULIA RAMADHAN</div>
                                         <div class="nim">2023573010108</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">24</div>
                                         <div class="nama-mahasiswa">SAYYID RUHUL HAQ</div>
                                         <div class="nim">2023573010113</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">25</div>
                                         <div class="nama-mahasiswa">SYAFIQ RASUL</div>
                                         <div class="nim">2023573010115</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">26</div>
                                         <div class="nama-mahasiswa">Tania Humaira</div>
                                         <div class="nim">2023573010060</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">27</div>
                                         <div class="nama-mahasiswa">TJUT NYAK GHINA GHAZIRA</div>
                                         <div class="nim">2023573010064</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">28</div>
                                         <div class="nama-mahasiswa">Win Faris Ariyoga</div>
                                         <div class="nim">2023573010121</div>
                                         <div class="kelas">TI 1-D</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">29</div>
                                         <div class="nama-mahasiswa">ZHAHARA AMELIA</div>
                                         <div class="nim">2023573010068</div>
@@ -868,203 +868,203 @@
                                     
                                     <hr>
 
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">01</div>
                                         <div class="nama-mahasiswa">ADRIO FARESI</div>
                                         <div class="nim">2023573010071</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">02</div>
                                         <div class="nama-mahasiswa">Alfi Rahmi</div>
                                         <div class="nim">2023573010002</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">03</div>
                                         <div class="nama-mahasiswa">ANANDA NUR ANJANI</div>
                                         <div class="nim">2023573010004</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">04</div>
                                         <div class="nama-mahasiswa">Arya Dwi Pangga Handoko</div>
                                         <div class="nim">2023573010132</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">05</div>
                                         <div class="nama-mahasiswa">BINTANG RAMADHAN</div>
                                         <div class="nim">2023573010133</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">06</div>
                                         <div class="nama-mahasiswa">DHIAUL MILLAH</div>
                                         <div class="nim">2023573010079</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">07</div>
                                         <div class="nama-mahasiswa">FAKHRURRAZI</div>
                                         <div class="nim">2023573010134</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">08</div>
                                         <div class="nama-mahasiswa">Fatimah Zuhra</div>
                                         <div class="nim">2023573010017</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">09</div>
                                         <div class="nama-mahasiswa">FINA RIZQINA</div>
                                         <div class="nim">2023573010020</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">10</div>
                                         <div class="nama-mahasiswa">Husnan Alwi</div>
                                         <div class="nim">2023573010137</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">11</div>
                                         <div class="nama-mahasiswa">KHAISAN NACHWA</div>
                                         <div class="nim">2023573010025</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">12</div>
                                         <div class="nama-mahasiswa">M. RIZKI</div>
                                         <div class="nim">2023573010088</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">13</div>
                                         <div class="nama-mahasiswa">MUHAMMAD ALFATURRIZKY</div>
                                         <div class="nim">2023573010140</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">14</div>
                                         <div class="nama-mahasiswa">Muhammad Dzakiy</div>
                                         <div class="nim">2023573010030</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">15</div>
                                         <div class="nama-mahasiswa">MUHAMMAD GHAZA AL-GHAZALI</div>
                                         <div class="nim">2023573010141</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">16</div>
                                         <div class="nama-mahasiswa">MUHAMMAD RIZKI</div>
                                         <div class="nim">2023573010035</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">17</div>
                                         <div class="nama-mahasiswa">Mujiburrahman Hakim</div>
                                         <div class="nim">2023573010100</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">18</div>
                                         <div class="nama-mahasiswa">Nadiati</div>
                                         <div class="nim">2023573010038</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">19</div>
                                         <div class="nama-mahasiswa">NAILA ZAHIRA</div>
                                         <div class="nim">2023573010103</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">20</div>
                                         <div class="nama-mahasiswa">NURUL SYAFIQA</div>
                                         <div class="nim">2023573010044</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">21</div>
                                         <div class="nama-mahasiswa">RAHMATUNNISA</div>
                                         <div class="nim">2023573010048</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">22</div>
                                         <div class="nama-mahasiswa">RIFKI MAULANA</div>
                                         <div class="nim">2023573010144</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">23</div>
                                         <div class="nama-mahasiswa">SALMAN CHAIRY</div>
                                         <div class="nim">2023573010109</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">24</div>
                                         <div class="nama-mahasiswa">SILVIA ANGGRIANI</div>
                                         <div class="nim">2023573010114</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">25</div>
                                         <div class="nama-mahasiswa">SYAHRI RAHMITA</div>
                                         <div class="nim">2023573010116</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">26</div>
                                         <div class="nama-mahasiswa">TASYA ULFA RAHMAZANI</div>
                                         <div class="nim">2023573010061</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">27</div>
                                         <div class="nama-mahasiswa">Tresna Hidayah</div>
                                         <div class="nim">2023573010118</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">28</div>
                                         <div class="nama-mahasiswa">Wulandari</div>
                                         <div class="nim">2023573010066</div>
                                         <div class="kelas">TI 1-E</div>
                                     </div>
                                     
-                                    <div class="table-row">
+                                    <div class="table-row2">
                                         <div class="urutan3">29</div>
                                         <div class="nama-mahasiswa">ZUHRA</div>
                                         <div class="nim">2023573010124</div>
