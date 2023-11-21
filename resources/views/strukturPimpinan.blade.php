@@ -24,7 +24,7 @@
     <section class="post-content-area single-post-area">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 posts-list">
+                <div class="col-lg-12 posts-list">
                     <div class="single-post row">
                         {{-- <div class="col-lg-12">
                             <div class="feature-img">
@@ -63,16 +63,16 @@
                         </div>
                         <div class="col-lg-12">
                             <div class="feature-img">
-                                <img class="img-fluid" src="{{ env('APP_URL') . '/image/prodi/Struktur_Pimpinan.png' }}"
+                                <img class="img-fluid" src="{{ env('APP_URL') . '/image/prodi/struktur-organisasi.svg' }}"
                                     alt="Gambar Akreditasi" style="object-fit: cover; object-position: center center">
                             </div>
                         </div>
                     </div>
                     <hr>
                 </div>
-                <div class="col-lg-4 sidebar-widgets">
+                {{-- <div class="col-lg-4 sidebar-widgets">
                     <div class="widget-wrap">
-                        {{-- <div class="single-sidebar-widget search-widget">
+                        <div class="single-sidebar-widget search-widget">
                             <form class="search-form" action="#">
                                 <input placeholder="Search Posts" name="search" type="text"
                                     onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search Posts'">
@@ -101,8 +101,8 @@
                                 itssuppor
                                 ters andits detractors.
                             </p>
-                        </div> --}}
-                        {{-- <div class="single-sidebar-widget popular-post-widget">
+                        </div>
+                        <div class="single-sidebar-widget popular-post-widget">
                             <h4 class="popular-title">Popular Posts</h4>
                             <div class="popular-post-list">
                                 <div class="single-post-list d-flex flex-row align-items-center">
@@ -150,11 +150,11 @@
                                     </div>
                                 </div>
                             </div>
-                        </div> --}}
-                        {{-- <div class="single-sidebar-widget ads-widget">
+                        </div>
+                        <div class="single-sidebar-widget ads-widget">
                             <a href="#"><img class="img-fluid" src="img/blog/ads-banner.jpg" alt=""></a>
-                        </div> --}}
-                        {{-- <div class="single-sidebar-widget post-category-widget">
+                        </div>
+                        <div class="single-sidebar-widget post-category-widget">
                             <h4 class="category-title">Post Catgories</h4>
                             <ul class="cat-list">
                                 <li>
@@ -242,9 +242,9 @@
                                 <li><a href="#">Lifestyle</a></li>
                                 <li><a href="#">Adventure</a></li>
                             </ul>
-                        </div> --}}
+                        </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
     </section>

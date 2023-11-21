@@ -961,6 +961,10 @@ h6 {
     padding: 0 8px;
     text-align: left;
 }
+.progress-table .urutan3 {
+    width: 10%;
+    padding: 0 8px;
+}
 .progress-table .kode {
     width: 15%;
     padding-right: 12px;
@@ -1006,6 +1010,21 @@ h6 {
     padding-right: 12px;
     text-align: left;
 }
+.progress-table .nama-mahasiswa {
+    width: 30%;
+    padding-right: 12px;
+    text-align: left;
+}
+.progress-table .nim {
+    width: 30%;
+    padding-right: 12px;
+    text-align: left;
+}
+.progress-table .kelas {
+    width: 30%;
+    padding-right: 12px;
+    text-align: left;
+}
 .progress-table .table-head {
     display: flex;
 }
@@ -1033,9 +1052,31 @@ h6 {
     font-weight: 500;
     text-align: left;
 }
+.progress-table .table-head .nama-mahasiswa,
+.progress-table .table-head .nim,
+.progress-table .table-head .kelas {
+    color: #222;
+    line-height: 28px;
+    text-transform: uppercase;
+    font-weight: 500;
+    text-align: left;
+}
+.progress-table .table-head .urutan3 {
+    color: #222;
+    line-height: 28px;
+    text-transform: uppercase;
+    font-weight: 500;
+    text-align: center;
+}
 
 .progress-table .table-row {
     padding: 8px 0;
+    border-top: 1px solid #edf3fd;
+    display: flex;
+    text-align: center;
+}
+.progress-table .table-row2 {
+    padding: 5px 0;
     border-top: 1px solid #edf3fd;
     display: flex;
     text-align: center;
@@ -2179,9 +2220,22 @@ body.mobile-nav-active #mobile-nav-toggle {
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
 }
+.single-feature .title2 {
+    background: #5c8374;
+    padding: 20px 0px;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
 .single-feature .title h4 {
     color: #fff;
 }
+
+.single-feature .title2 h4 {
+    color: #fff;
+}
+
 .single-feature .desc-wrap {
     padding: 20px;
     background-color: #fff;
@@ -2201,6 +2255,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 .single-feature:hover .title {
     background: #5c8374;
+}
+.single-feature:hover .title2 {
+    background: #358770;
 }
 .single-feature:hover .desc-wrap a {
     color: #5c8374;
@@ -2614,7 +2671,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin-bottom: 0px;
 }
 .about-banner {
-    background: url(../image/top-banner.jpg) right no-repeat;
+    background: url(../image/prodi/gedung-tik.jpeg) right no-repeat;
     background-size: cover;
 }
 .about-content {
