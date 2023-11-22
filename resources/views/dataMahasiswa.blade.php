@@ -30,7 +30,71 @@
                         <div class="col-lg-12 col-md-12 my-2">
                             <p> Data Mahasiswa Program Studi Teknik Informatika</p>
                         </div>
-                        <div class="section-top-border col-lg-12 mb-3">
+
+                        <div class="row mx-0" style="width: 100%">
+                            <div class="col-lg-3 mb-3 col-md-6 d-flex justify-content-center align-items-center"
+                                style="width: 100%;">
+                                <div class="card" style="width: 100%;">
+                                    <a target="_Blank"
+                                        href="https://drive.google.com/uc?export=download&id=1kgr6c00XFTaqs9e1-w76o3Lw6B2iMEqH">
+
+                                        <img src="{{ asset('image/class-ilus.webp') }}" class="card-img-top"
+                                            style="height: 8rem; object-fit: cover; object-position: center center"
+                                            alt="Foto Ilustrasi Kelas">
+                                        <div class="card-body text-center">
+                                            <h5 class="card-title">Data Mahasiswa</h5>
+                                            <p class="card-text">Angkatan 2023-2024</p>
+                                            {{-- <a target="_Blank" href="#" class="btn btn-primary">Go somewhere</a> --}}
+                                        </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 mb-3 col-md-6 d-flex justify-content-center align-items-center"
+                                style="width: 100%;">
+                                <div class="card" style="width: 100%;">
+                                    <a target="_Blank"
+                                        href="https://drive.google.com/uc?export=download&id=1CayAsSnogtmh88nTl4EY4bALj3-UnIrQ">
+                                        <img src="{{ asset('image/class-ilus.webp') }}" class="card-img-top"
+                                            style="height: 8rem; object-fit: cover; object-position: center center"
+                                            alt="Foto Ilustrasi Kelas">
+                                        <div class="card-body text-center">
+                                            <h5 class="card-title">Data Mahasiswa</h5>
+                                            <p class="card-text">Angkatan 2022-2023</p>
+                                            {{-- <a target="_Blank" href="#" class="btn btn-primary">Go somewhere</a> --}}
+                                        </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 mb-3 col-md-6 d-flex justify-content-center align-items-center"
+                                style="width: 100%;">
+                                <div class="card" style="width: 100%;">
+                                    <a target="_Blank"
+                                        href="https://drive.google.com/uc?export=download&id=1GRFKJWN4Lr4QTfnA7ln7x6f2Q_enBNNY">
+                                        <img src="{{ asset('image/class-ilus.webp') }}" class="card-img-top"
+                                            style="height: 8rem; object-fit: cover; object-position: center center"
+                                            alt="Foto Ilustrasi Kelas">
+                                        <div class="card-body text-center">
+                                            <h5 class="card-title">Data Mahasiswa</h5>
+                                            <p class="card-text">Angkatan 2021-2022</p>
+                                            {{-- <a target="_Blank" href="#" class="btn btn-primary">Go somewhere</a> --}}
+                                        </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 mb-3 col-md-6 d-flex justify-content-center align-items-center"
+                                style="width: 100%;">
+                                <div class="card" style="width: 100%;">
+                                    <a target="_Blank"
+                                        href="https://drive.google.com/uc?export=download&id=1Pi1BQJ5psQL3IdbyBOKjA74B0fsKDWY-">
+                                        <img src="{{ asset('image/class-ilus.webp') }}" class="card-img-top"
+                                            style="height: 8rem; object-fit: cover; object-position: center center"
+                                            alt="Foto Ilustrasi Kelas">
+                                        <div class="card-body text-center">
+                                            <h5 class="card-title">Data Mahasiswa</h5>
+                                            <p class="card-text">Angkatan 2020-2021</p>
+                                            {{-- <a target="_Blank" href="#" class="btn btn-primary">Go somewhere</a> --}}
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                        {{-- <div class="section-top-border col-lg-12 mb-3">
                             <h5 class="mb-3 pl-3">TAHUN 2022/2023</h5>
                             <div class="progress-table-wrap">
                                 <div class="progress-table full-width">
@@ -1074,9 +1138,9 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    {{-- <hr> --}}
-                    {{-- <div class="single-post row">
+                    </div> --}}
+                        {{-- <hr> --}}
+                        {{-- <div class="single-post row">
                         <div class="col-lg-12">
                             <div class="feature-img">
                                 <img class="img-fluid" src="{{ env('APP_URL') . '/image/blog/feature-img1.jpg' }}" alt="">
@@ -1108,14 +1172,14 @@
                         </div>
                         
                     </div> --}}
-                    {{-- <hr> --}}
-                    {{-- <div class="single-post row"> --}}
-                    {{-- <div class="col-lg-12">
+                        {{-- <hr> --}}
+                        {{-- <div class="single-post row"> --}}
+                        {{-- <div class="col-lg-12">
                             <div class="feature-img">
                                 <img class="img-fluid" src="{{ env('APP_URL') . '/image/blog/feature-img1.jpg' }}" alt="">
                             </div>
                         </div> --}}
-                    {{-- <div class="col-lg-3  col-md-3 meta-details">
+                        {{-- <div class="col-lg-3  col-md-3 meta-details">
                             <ul class="tags">
                                 <li><a href="#">Food,</a></li>
                                 <li><a href="#">Technology,</a></li>
@@ -1139,9 +1203,9 @@
                                 </ul>
                             </div>
                         </div> --}}
-                    {{-- </div> --}}
-                </div>
-                {{-- <div class="col-lg-4 sidebar-widgets">
+                        {{-- </div> --}}
+                    </div>
+                    {{-- <div class="col-lg-4 sidebar-widgets">
                     <div class="widget-wrap">
                         <div class="single-sidebar-widget search-widget">
                             <form class="search-form" action="#">
@@ -1316,8 +1380,8 @@
                         </div>
                     </div>
                 </div> --}}
+                </div>
             </div>
-        </div>
     </section>
     <!-- End post-content Area -->
 @endsection
