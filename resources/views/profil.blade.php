@@ -12,7 +12,7 @@
                     </h1>
                     <p class="text-white link-nav"><a href="/">Home </a> <span class="lnr lnr-arrow-right"></span>
                         <a href="{{ route('static.profil') }}"> tentang</a>
-                        </p>
+                    </p>
                 </div>
             </div>
         </div>
@@ -23,7 +23,7 @@
     <section class="feature-area pb-lg-5">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4">
+                <div class="col-lg-6">
                     <div class="single-feature">
                         <div class="title">
                             <h4>Deksripsi Program Studi</h4>
@@ -36,28 +36,37 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-6">
                     <div class="single-feature">
                         <div class="title">
                             <h4>Visi Program Studi</h4>
                         </div>
                         <div class="desc-wrap">
                             <p>
-                                Menjadi pendidikan tinggi vokasi pada bidang teknologi informasi yang profesional,
-                                unggul dan berdaya saing di tingkat nasional.
+                                Menjadi pendidikan tinggi vokasi pada bidang teknologi informasi yang profesional, unggul
+                                dan berdaya saing di tingkat nasional pada tahun 2024
                             </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-12">
                     <div class="single-feature">
-                        <div class="title">
+                        <div class="title2">
                             <h4>Misi Program Studi</h4>
                         </div>
-                        <div class="desc-wrap">
-                            <p>
-                                Menyelenggarakan pendidikan vokasi yang berkualitas pada bidang teknologi informasi
-                                dengan penguatan soft skill yang memadai.
+                        <div class="desc-wrap" style="text-align: left; font-kerning: 1.15cm; vertical-align: 1.15cm">
+                            <p>1. Menyelenggarakan pendidikan vokasional jenjang Sarjana Terapan yang berkualitas pada
+                                bidang teknologi informasi dengan penguatan soft skill yang memadai serta memperhatikan
+                                kearifan-kearifan budaya lokal.</p>
+                            <p>2. Melakukan dan mengembangkan diseminasi penelitian produk terapan yang berkualitas
+                                dibidang teknologi informasi sesuai dengan perkembangan teknologi dan kebutuhan
+                                pangsa pasar.</p>
+                            <p>3. Melaksanakan pengabdian kepada masyarakat dan turut serta untuk memajukan masyarakat pada
+                                bidang teknologi informasi.</p>
+                            <p>4. Memberikan layanan akademis dan teknis sesuai keahlian pada bidang profesi teknologi
+                                informasi.</p>
+                            <p>5. Menyelenggarakan kegiatan uji kompetensi bidang teknologi informasi kepada mahasiswa dan
+                                lulusan.</p>
                             </p>
                         </div>
                     </div>
