@@ -83,19 +83,19 @@
                                             {{-- <li><a href="{{ route('static.laboratorium') }}">Akses Internet</a></li> --}}
                                         </ul>
                                     </li>
-                                    <li class="menu-has-children"><a href="">Kuesioner </a>
-                                        <ul>
-                                            <li><a href="{{ route('static.kuesionerMahasiswa') }}">Kuesioner
-                                                    Mahasiswa</a></li>
-                                            <li><a href="{{ route('static.kuesionerAlumni') }}">Kuesioner Alumni</a>
-                                            </li>
-                                            <li><a href="">Another Kuesioner</a></li>
-                                            <li><a href="">Another Kuesioner</a></li>
-                                            <li><a href="">Another Kuesioner</a></li>
-                                            <li><a href="">Another Kuesioner</a></li>
-                                            <li><a href="">Another Kuesioner</a></li>
-                                        </ul>
+                                    <li><a href="{{ route('static.kuesionerMahasiswa') }}">Kuesioner Mahasiswa</a></li>
+                                    <li><a href="{{ route('static.kuesionerAlumni') }}">Kuesioner Alumni</a></li>
+                                    <li><a href="{{ route('static.kuesionerVMTS') }}">Kuesioner VMTS</a></li>
+                                    <li><a href="{{ route('static.kuesionerMitra') }}">Kuesioner Mitra</a></li>
+                                    <li><a href="{{ route('static.kuesionerTatakelola') }}">Kuesioner Tata Kelola</a>
                                     </li>
+                                    <li><a href="{{ route('static.kuesionerSaranaPrasarana') }}">Kuesioner Sarana &
+                                            Prasarana</a></li>
+                                    <li><a href="{{ route('static.kuesionerKMahasiswa') }}">Kuesioner Kepuasan
+                                            Mahasiswa</a></li>
+
+
+
                                 </ul>
                             </li>
                             <li><a href="{{ route('static.berita') }}">BERITA & INFO</a></li>
