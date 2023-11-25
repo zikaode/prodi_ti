@@ -8,11 +8,11 @@
             <div class="row d-flex align-items-center justify-content-center">
                 <div class="about-content col-lg-12">
                     <h1 class="text-white text-uppercase">
-                        KUESIONER LAYANAN AKADEMIK
+                        KUESIONER LAYANAN TATA KELOLA
                     </h1>
                     <p class="text-white link-nav"><a href="{{ route('static.index') }}">Home </a> <span
                             class="lnr lnr-arrow-right"></span><a href="{{ route('static.kuesionerMahasiswa') }}">Kuesioner
-                            Layanan Akademik</a>
+                            Tata Kelola</a>
                     </p>
                 </div>
             </div>
@@ -56,9 +56,9 @@
                             </div>
                         </div> --}}
                         <div class="col-lg-12 col-md-12">
-                            <h3 class="mt-20 mb-20">KUESIONER LAYANAN AKADEMIK</h3>
+                            <h3 class="mt-20 mb-20">KUESIONER TATA KELOLA</h3>
                             <iframe
-                                src="https://docs.google.com/forms/d/e/1FAIpQLSfQIaQhskQq01Eehw1x9K0nAYcCX4zTK86W5J8wW-PB3wnyCw/viewform?embedded=true"
+                                src="https://docs.google.com/forms/d/e/1FAIpQLSfr-CDzRr5t1bVDFaiv_L7N68MCwT6LZ0nJAmmpJXWNVZUJPw/viewform?embedded=true"
                                 frameborder="0" scrolling="yes" seamless="seamless" height="950" width="100%"></iframe>
                         </div>
                     </div>
@@ -237,7 +237,7 @@
                                 <li><a href="#">Adventure</a></li>
                             </ul>
                         </div> --}}
-                </div> --}}
+                </div>
             </div>
         </div>
         </div>
