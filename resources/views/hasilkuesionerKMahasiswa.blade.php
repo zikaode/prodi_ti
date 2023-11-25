@@ -8,11 +8,12 @@
             <div class="row d-flex align-items-center justify-content-center">
                 <div class="about-content col-lg-12">
                     <h1 class="text-white text-uppercase">
-                        KUESIONER LAYANAN TATA KELOLA
+                        KUESIONER KEPUASAN MAHASISWA
                     </h1>
                     <p class="text-white link-nav"><a href="{{ route('static.index') }}">Home </a> <span
-                            class="lnr lnr-arrow-right"></span><a href="{{ route('static.kuesionerTatakelola') }}">Kuesioner
-                            Tata Kelola</a>
+                            class="lnr lnr-arrow-right"></span><a href="{{ route('static.kuesionerKMahasiswa') }}">Kuesioner
+                            Kepuasan Mahsiswa</a><span class="lnr lnr-arrow-right"></span><a
+                            href="{{ route('static.hasilkuesionerKMahasiswa') }}">Hasil</a>
                     </p>
                 </div>
             </div>
@@ -23,10 +24,6 @@
     <!-- Start post-content Area -->
     <section class="post-content-area single-post-area">
         <div class="container">
-            <div class="alert alert-info" role="alert">
-                Lihat Chart Hasil Survey Kuesioner Layanan Tata Kelola Di <a href="/kuesioner-tatakelola/hasil">Link</a>
-                Berikut!
-            </div>
             <div class="row">
                 <div class="col-lg-12 posts-list">
                     <div class="single-post row">
@@ -59,14 +56,12 @@
                                 </ul>
                             </div>
                         </div> --}}
-                        <div class="col-lg-12 col-md-12">
-                            <h3 class="mt-4 mb-5">KUESIONER TATA KELOLA</h3>
-                            <iframe
-                                src="https://docs.google.com/forms/d/e/1FAIpQLSfr-CDzRr5t1bVDFaiv_L7N68MCwT6LZ0nJAmmpJXWNVZUJPw/viewform?embedded=true"
-                                frameborder="0" scrolling="yes" seamless="seamless" height="1500" width="100%"></iframe>
+                        <div class="col-12">
+                            <h3 class="mt-4 mb-5">KUESIONER KEPUASAN MAHASISWA</h3>
+                            <iframe width="600" height="371" seamless frameborder="0" scrolling="no"
+                                src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRdHWXwTRbOJ5J8jspN3leb_yDzYAae3NkquV4zNX_d7160O8lh-oQv2DLf7GVwimVVcWPdyzDR1K2g/pubchart?oid=1158437103&amp;format=interactive"></iframe>
                         </div>
                     </div>
-                    <hr>
                 </div>
                 <div class="col-lg-4 sidebar-widgets">
                     {{-- <div class="widget-wrap">

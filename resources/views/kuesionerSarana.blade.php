@@ -11,7 +11,8 @@
                         KUESIONER SARANA & PRASARANA
                     </h1>
                     <p class="text-white link-nav"><a href="{{ route('static.index') }}">Home </a> <span
-                            class="lnr lnr-arrow-right"></span><a href="{{ route('static.kuesionerMahasiswa') }}">Kuesioner
+                            class="lnr lnr-arrow-right"></span><a
+                            href="{{ route('static.kuesionerSaranaPrasarana') }}">Kuesioner
                             Sarana Dan Prasarana</a>
                     </p>
                 </div>
@@ -23,8 +24,13 @@
     <!-- Start post-content Area -->
     <section class="post-content-area single-post-area">
         <div class="container">
+            <div class="alert alert-info" role="alert">
+                Lihat Chart Hasil Survey Kuesioner Sarana dan Prasarana Di <a
+                    href="/kuesioner-sarana-prasarana/hasil">Link</a>
+                Berikut!
+            </div>
             <div class="row">
-                <div class="col-lg-8 posts-list">
+                <div class="col-lg-12 posts-list">
                     <div class="single-post row">
                         {{-- <div class="col-lg-12">
                             <div class="feature-img">
@@ -56,10 +62,10 @@
                             </div>
                         </div> --}}
                         <div class="col-lg-12 col-md-12">
-                            <h3 class="mt-20 mb-20">KUESIONER SARANA DAN PRASARANA</h3>
+                            <h3 class="mt-4 mb-5">KUESIONER SARANA DAN PRASARANA</h3>
                             <iframe
                                 src="https://docs.google.com/forms/d/e/1FAIpQLScz91BLSIXepiAiD8-rFr582AzG-Fl_ecAX8JmrxDo3kjAJkg/viewform?embedded=true"
-                                frameborder="0" scrolling="yes" seamless="seamless" height="950" width="100%"></iframe>
+                                frameborder="0" scrolling="yes" seamless="seamless" height="1950" width="100%"></iframe>
                         </div>
                     </div>
                     <hr>
@@ -237,7 +243,7 @@
                                 <li><a href="#">Adventure</a></li>
                             </ul>
                         </div> --}}
-                </div> 
+                </div>
             </div>
         </div>
         </div>

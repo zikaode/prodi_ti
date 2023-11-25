@@ -30,39 +30,59 @@ class staticController extends Controller
         return view('strukturPimpinan');
     }
 
-    public function kuesionerMahasiswa()
-    {
-        return view('kuesionerMahasiswa');
-    }
+    // public function kuesionerMahasiswa()
+    // {
+    //     return view('kuesionerMahasiswa');
+    // }
 
-    public function kuesionerAlumni()
-    {
-        return view('kuesionerAlumni');
-    }
+    // public function kuesionerAlumni()
+    // {
+    //     return view('kuesionerAlumni');
+    // }
 
     public function kuesionerTatakelola()
     {
         return view('layananTatakelola');
+    }
+    public function hasilkuesionerTatakelola()
+    {
+        return view('hasilkuesionerTatakelola');
     }
 
     public function kuesionerVMTS()
     {
         return view('kuesionerVmts');
     }
+    public function hasilkuesionerVMTS()
+    {
+        return view('hasilkuesionerVmts');
+    }
 
     public function kuesionerSaranaPrasarana()
     {
         return view('kuesionerSarana');
+    }
+    public function hasilkuesionerSaranaPrasarana()
+    {
+        return view('hasilkuesionerSarana');
     }
 
     public function kuesionerMitra()
     {
         return view('kuesionerMitra');
     }
+    public function hasilkuesionerMitra()
+    {
+        return view('hasilkuesionerMitra');
+    }
 
     public function kuesionerKMahasiswa()
     {
         return view('kuesionerKepuasanMahasiswa');
+    }
+    public function hasilkuesionerKMahasiswa()
+    {
+        return view('hasilkuesionerKMahasiswa');
     }
 
     public function dataDosen()

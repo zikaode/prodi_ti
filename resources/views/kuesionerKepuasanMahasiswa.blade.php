@@ -11,7 +11,7 @@
                         KUESIONER KEPUASAN MAHASISWA
                     </h1>
                     <p class="text-white link-nav"><a href="{{ route('static.index') }}">Home </a> <span
-                            class="lnr lnr-arrow-right"></span><a href="{{ route('static.kuesionerMahasiswa') }}">Kuesioner
+                            class="lnr lnr-arrow-right"></span><a href="{{ route('static.kuesionerKMahasiswa') }}">Kuesioner
                             Kepuasan Mahsiswa</a>
                     </p>
                 </div>
@@ -23,8 +23,13 @@
     <!-- Start post-content Area -->
     <section class="post-content-area single-post-area">
         <div class="container">
+            <div class="alert alert-info" role="alert">
+                Lihat Chart Hasil Survey Kuesioner Kepuasan Mahasiswa Di <a
+                    href="/kuesioner-kepuasan-mahasiswa/hasil">Link</a>
+                Berikut!
+            </div>
             <div class="row">
-                <div class="col-lg-8 posts-list">
+                <div class="col-lg-12 posts-list">
                     <div class="single-post row">
                         {{-- <div class="col-lg-12">
                             <div class="feature-img">
@@ -56,10 +61,10 @@
                             </div>
                         </div> --}}
                         <div class="col-lg-12 col-md-12">
-                            <h3 class="mt-20 mb-20">KUESIONER KEPUASAN MAHASISWA</h3>
+                            <h3 class="mt-4 mb-5">KUESIONER KEPUASAN MAHASISWA</h3>
                             <iframe
                                 src="https://docs.google.com/forms/d/e/1FAIpQLSd5hsE1QwoYHz0sXp0Ni4pUru7mZlQQ7VDMPmARg_ff7_gMHA/viewform?embedded=true"
-                                frameborder="0" scrolling="yes" seamless="seamless" height="950" width="100%"></iframe>
+                                frameborder="0" scrolling="yes" seamless="seamless" height="1200" width="100%"></iframe>
                         </div>
                     </div>
                     <hr>

@@ -8,10 +8,10 @@
             <div class="row d-flex align-items-center justify-content-center">
                 <div class="about-content col-lg-12">
                     <h1 class="text-white text-uppercase">
-                        KUESIONER SURVEY MITRA 
+                        KUESIONER SURVEY MITRA
                     </h1>
                     <p class="text-white link-nav"><a href="{{ route('static.index') }}">Home </a> <span
-                            class="lnr lnr-arrow-right"></span><a href="{{ route('static.kuesionerMahasiswa') }}">Kuesioner
+                            class="lnr lnr-arrow-right"></span><a href="{{ route('static.kuesionerMitra') }}">Kuesioner
                             Survey Mitra</a>
                     </p>
                 </div>
@@ -23,8 +23,11 @@
     <!-- Start post-content Area -->
     <section class="post-content-area single-post-area">
         <div class="container">
+            <div class="alert alert-info" role="alert">
+                Lihat Chart Hasil Survey Kuesioner Mitra Di <a href="/kuesioner-mitra/hasil">Link</a> Berikut!
+            </div>
             <div class="row">
-                <div class="col-lg-8 posts-list">
+                <div class="col-lg-12 posts-list">
                     <div class="single-post row">
                         {{-- <div class="col-lg-12">
                             <div class="feature-img">
@@ -59,7 +62,7 @@
                             <h3 class="mt-20 mb-20">KUESIONER SURVEY MITRA</h3>
                             <iframe
                                 src="https://docs.google.com/forms/d/e/1FAIpQLSczDOF9gMQEqkJYrZtDoEne19CSDvHnbdTUtSap8qyikr2Zvg/viewform?embedded=true"
-                                frameborder="0" scrolling="yes" seamless="seamless" height="950" width="100%"></iframe>
+                                frameborder="0" scrolling="yes" seamless="seamless" height="2750" width="100%"></iframe>
                         </div>
                     </div>
                     <hr>
@@ -237,7 +240,7 @@
                                 <li><a href="#">Adventure</a></li>
                             </ul>
                         </div> --}}
-                </div> 
+                </div>
             </div>
         </div>
         </div>

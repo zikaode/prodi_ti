@@ -8,11 +8,13 @@
             <div class="row d-flex align-items-center justify-content-center">
                 <div class="about-content col-lg-12">
                     <h1 class="text-white text-uppercase">
-                        KUESIONER LAYANAN TATA KELOLA
+                        KUESIONER SARANA & PRASARANA
                     </h1>
                     <p class="text-white link-nav"><a href="{{ route('static.index') }}">Home </a> <span
-                            class="lnr lnr-arrow-right"></span><a href="{{ route('static.kuesionerTatakelola') }}">Kuesioner
-                            Tata Kelola</a>
+                            class="lnr lnr-arrow-right"></span><a
+                            href="{{ route('static.kuesionerSaranaPrasarana') }}">Kuesioner
+                            Sarana Dan Prasarana</a><span class="lnr lnr-arrow-right"></span><a
+                            href="{{ route('static.hasilkuesionerSaranaPrasarana') }}">Hasil</a>
                     </p>
                 </div>
             </div>
@@ -23,10 +25,6 @@
     <!-- Start post-content Area -->
     <section class="post-content-area single-post-area">
         <div class="container">
-            <div class="alert alert-info" role="alert">
-                Lihat Chart Hasil Survey Kuesioner Layanan Tata Kelola Di <a href="/kuesioner-tatakelola/hasil">Link</a>
-                Berikut!
-            </div>
             <div class="row">
                 <div class="col-lg-12 posts-list">
                     <div class="single-post row">
@@ -59,14 +57,12 @@
                                 </ul>
                             </div>
                         </div> --}}
-                        <div class="col-lg-12 col-md-12">
-                            <h3 class="mt-4 mb-5">KUESIONER TATA KELOLA</h3>
-                            <iframe
-                                src="https://docs.google.com/forms/d/e/1FAIpQLSfr-CDzRr5t1bVDFaiv_L7N68MCwT6LZ0nJAmmpJXWNVZUJPw/viewform?embedded=true"
-                                frameborder="0" scrolling="yes" seamless="seamless" height="1500" width="100%"></iframe>
+                        <div class="col-12">
+                            <h3 class="mt-4 mb-5">HASIL KUESIONER SARANA & PRASARANA</h3>
+                            <iframe width="600" height="371" seamless frameborder="0" scrolling="no"
+                                src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSiiC6AYRKzjMvbnkYE_3WIuBzBnK3lOQsmsN91T_Utu1wan9NtoUqpeNxfVocZrFWblQ-3I5AsIsxK/pubchart?oid=1121287534&amp;format=interactive"></iframe>
                         </div>
                     </div>
-                    <hr>
                 </div>
                 <div class="col-lg-4 sidebar-widgets">
                     {{-- <div class="widget-wrap">

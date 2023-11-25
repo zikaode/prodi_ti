@@ -12,7 +12,8 @@
                     </h1>
                     <p class="text-white link-nav"><a href="{{ route('static.index') }}">Home </a> <span
                             class="lnr lnr-arrow-right"></span><a href="{{ route('static.kuesionerTatakelola') }}">Kuesioner
-                            Tata Kelola</a>
+                            Tata Kelola</a><span class="lnr lnr-arrow-right"></span><a
+                            href="{{ route('static.hasilkuesionerTatakelola') }}">Hasil</a>
                     </p>
                 </div>
             </div>
@@ -23,10 +24,6 @@
     <!-- Start post-content Area -->
     <section class="post-content-area single-post-area">
         <div class="container">
-            <div class="alert alert-info" role="alert">
-                Lihat Chart Hasil Survey Kuesioner Layanan Tata Kelola Di <a href="/kuesioner-tatakelola/hasil">Link</a>
-                Berikut!
-            </div>
             <div class="row">
                 <div class="col-lg-12 posts-list">
                     <div class="single-post row">
@@ -59,14 +56,12 @@
                                 </ul>
                             </div>
                         </div> --}}
-                        <div class="col-lg-12 col-md-12">
-                            <h3 class="mt-4 mb-5">KUESIONER TATA KELOLA</h3>
-                            <iframe
-                                src="https://docs.google.com/forms/d/e/1FAIpQLSfr-CDzRr5t1bVDFaiv_L7N68MCwT6LZ0nJAmmpJXWNVZUJPw/viewform?embedded=true"
-                                frameborder="0" scrolling="yes" seamless="seamless" height="1500" width="100%"></iframe>
+                        <div class="col-12">
+                            <h3 class="mt-4 mb-5">HASIL KUESIONER LAYANAN TATA KELOLA</h3>
+                            <iframe width="600" height="371" seamless frameborder="0" scrolling="no"
+                                src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR8b1tfPt7Bj7GwPUrhVP72vwZ2TWRvZIJ-ugKErNEJ0WUhMy5JeLIdIzE-LNts6T0u-GKXdDsFNn6W/pubchart?oid=111911089&amp;format=interactive"></iframe>
                         </div>
                     </div>
-                    <hr>
                 </div>
                 <div class="col-lg-4 sidebar-widgets">
                     {{-- <div class="widget-wrap">

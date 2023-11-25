@@ -19,14 +19,19 @@ Route::controller(staticController::class)->group(function () {
     Route::get('/tentang', 'profil')->name('static.profil');
     Route::get('/data-mahasiswa', 'dataMahasiswa')->name('static.dataMahasiswa');
     Route::get('/struktur-pimpinan', 'strukturPimpinan')->name('static.strukturPimpinan');
-    Route::get('/kuesioner-mahasiswa', 'kuesionerMahasiswa')->name('static.kuesionerMahasiswa');
-    Route::get('/kuesioner-alumni', 'kuesionerAlumni')->name('static.kuesionerAlumni');
+    // Route::get('/kuesioner-mahasiswa', 'kuesionerMahasiswa')->name('static.kuesionerMahasiswa');
+    // Route::get('/kuesioner-alumni', 'kuesionerAlumni')->name('static.kuesionerAlumni');
     Route::get('/kuesioner-tatakelola', 'kuesionerTatakelola')->name('static.kuesionerTatakelola');
     Route::get('/kuesioner-vmts', 'kuesionerVMTS')->name('static.kuesionerVMTS');
     Route::get('/kuesioner-sarana-prasarana', 'kuesionerSaranaPrasarana')->name('static.kuesionerSaranaPrasarana');
     Route::get('/kuesioner-mitra', 'kuesionerMitra')->name('static.kuesionerMitra');
     Route::get('/kuesioner-kepuasan-mahasiswa', 'kuesionerKMahasiswa')->name('static.kuesionerKMahasiswa');
 
+    Route::get('/kuesioner-vmts/hasil', 'hasilkuesionerVMTS')->name('static.hasilkuesionerVMTS');
+    Route::get('/kuesioner-tatakelola/hasil', 'hasilkuesionerTatakelola')->name('static.hasilkuesionerTatakelola');
+    Route::get('/kuesioner-sarana-prasarana/hasil', 'hasilkuesionerSaranaPrasarana')->name('static.hasilkuesionerSaranaPrasarana');
+    Route::get('/kuesioner-mitra/hasil', 'hasilkuesionerMitra')->name('static.hasilkuesionerMitra');
+    Route::get('/kuesioner-kepuasan-mahasiswa/hasil', 'hasilkuesionerKMahasiswa')->name('static.hasilkuesionerKMahasiswa');
 
 
 
