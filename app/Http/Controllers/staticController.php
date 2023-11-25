@@ -40,6 +40,31 @@ class staticController extends Controller
         return view('kuesionerAlumni');
     }
 
+    public function kuesionerTatakelola()
+    {
+        return view('layananTatakelola');
+    }
+
+    public function kuesionerVMTS()
+    {
+        return view('kuesionerVmts');
+    }
+
+    public function kuesionerSaranaPrasarana()
+    {
+        return view('kuesionerSarana');
+    }
+
+    public function kuesionerMitra()
+    {
+        return view('kuesionerMitra');
+    }
+
+    public function kuesionerKMahasiswa()
+    {
+        return view('kuesionerKepuasanMahasiswa');
+    }
+
     public function dataDosen()
     {
         return view('dataDosen');

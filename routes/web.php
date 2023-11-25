@@ -21,6 +21,16 @@ Route::controller(staticController::class)->group(function () {
     Route::get('/struktur-pimpinan', 'strukturPimpinan')->name('static.strukturPimpinan');
     Route::get('/kuesioner-mahasiswa', 'kuesionerMahasiswa')->name('static.kuesionerMahasiswa');
     Route::get('/kuesioner-alumni', 'kuesionerAlumni')->name('static.kuesionerAlumni');
+    Route::get('/kuesioner-tatakelola', 'kuesionerTatakelola')->name('static.kuesionerTatakelola');
+    Route::get('/kuesioner-vmts', 'kuesionerVMTS')->name('static.kuesionerVMTS');
+    Route::get('/kuesioner-sarana-prasarana', 'kuesionerSaranaPrasarana')->name('static.kuesionerSaranaPrasarana');
+    Route::get('/kuesioner-mitra', 'kuesionerMitra')->name('static.kuesionerMitra');
+    Route::get('/kuesioner-kepuasan-mahasiswa', 'kuesionerKMahasiswa')->name('static.kuesionerKMahasiswa');
+
+
+
+
+
     Route::get('/data-dosen', 'dataDosen')->name('static.dataDosen');
 
     // Fasilitas
